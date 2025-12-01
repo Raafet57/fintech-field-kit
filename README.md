@@ -29,8 +29,7 @@ A neatly sorted stash of 2024–2025 papers on stablecoins, CBDCs, tokenization,
 4) Post a hot take on LinkedIn; link back here for the full buffet.
 
 ## Notes
-- Duplicates removed; only one copy of each paper remains.
 - Filenames are kept as-found for easy provenance.
-- Not legal/financial advice—just organized reading fuel.
+- Not legal/financial advice-just organized reading fuel.
 
 If this saved you hours of Googling, toss the repo a star. Your future consultant self will thank you. 🪙🚀
