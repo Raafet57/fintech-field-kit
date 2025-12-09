@@ -33,3 +33,70 @@ A neatly sorted stash of 2024–2025 papers on stablecoins, CBDCs, tokenization,
 - Not legal/financial advice-just organized reading fuel.
 
 If this saved you hours of Googling, toss the repo a star. Your future consultant self will thank you. 🪙🚀
+
+## Repo Tree (snapshot)
+<!-- TREE-START -->
+- AI_and_Digital_Transformation/
+  - IBM/
+  - IMF/
+  - Industry/
+  - OECD/
+  - Reports/
+- Compliance_Risk_and_Standards/
+  - ADCX_Lab/
+  - Academic/
+  - Adeel_Mirza/
+  - BAFT/
+  - BCBS/
+  - FSB/
+  - Morocco_Compliance/
+  - PSD3/
+  - SWIFT/
+  - UTS_Tech/
+  - zkOrigoPlus/
+- Core_Banking_and_Lending_Modernization/
+  - FIS/
+  - Gulf_Islamic_Bank/
+  - Zafin/
+- FX_and_Currency_Strategy/
+  - UNITE_Global/
+- Market_Research_and_Fintech_Landscapes/
+  - BCG/
+  - BIS/
+  - CEPR/
+  - Deloitte/
+  - Entlaq/
+  - McKinsey/
+  - Reports/
+  - WEF/
+- Payments_RealTime_and_Liquidity/
+  - AFP/
+  - BIS/
+  - BIS_SNB/
+  - CPMI/
+  - EPC/
+  - MallaPayments/
+  - Reports/
+  - UNITE_Global/
+  - Visa/
+- Stablecoins_and_CBDC/
+  - Academic/
+  - BIS/
+  - ECB_Ulrich_Bindseil/
+  - IMF/
+  - Independent/
+  - Industry/
+  - Sveriges_Riksbank/
+  - TRM_Labs/
+  - UNITE_Global/
+  - Unknown/
+- Tokenization_Blockchain_and_Digital_Assets/
+  - Academic/
+  - GFTN/
+  - IOSCO/
+  - Industry/
+  - MAS_FCA_DeutscheBank_Schroder/
+  - Regulation/
+<!-- TREE-END -->
+See full catalog: docs/catalog.md
+
