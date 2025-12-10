@@ -24,6 +24,15 @@
     "tags": []
   },
   {
+    "path": "AI_and_Digital_Transformation/Reports/Data Governance Fundamentals - Dec 2025.pdf",
+    "title": "Data Governance Fundamentals - Dec 2025",
+    "summary": "Deck on building trusted, secure, and usable data foundations to power decisions and AI programs for business, data, and IT leaders.",
+    "tags": [
+      "data governance",
+      "ai"
+    ]
+  },
+  {
     "path": "AI_and_Digital_Transformation/Reports/What 4372 AI Use Cases Reveal - Public Sector AI.pdf",
     "title": "What 4372 AI Use Cases Reveal - Public Sector AI",
     "summary": "Analysis of thousands of public-sector AI use cases and lessons for moving beyond pilots.",
@@ -90,6 +99,24 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/SWIFT/Hybrid Postal Address - Grace Period Guide for Banks - Dec 2025.pdf",
+    "title": "Hybrid Postal Address - Grace Period Guide for Banks - Dec 2025",
+    "summary": "Operational guidance for banks on handling hybrid postal address formats during the Nov 2025\u2013Nov 2026 transition period.",
+    "tags": [
+      "iso20022",
+      "operations"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/SWIFT/SWIFT - ISO 20022 for Dummies 6th Edition Dec 2022.pdf",
+    "title": "SWIFT - ISO 20022 for Dummies 6th Edition Dec 2022",
+    "summary": "Plain-language primer on ISO 20022, explaining the standard, migration timelines, and message use cases.",
+    "tags": [
+      "iso20022",
+      "primer"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/UTS_Tech/UTS Tech \u2013 Conformite\u0301 Bancaire et Moyens de Paiement au Maroc.pdf",
     "title": "UTS Tech \u2013 Conformite\u0301 Bancaire et Moyens de Paiement au Maroc",
     "summary": "French guide on banking compliance and payment means in Morocco.",
@@ -112,6 +139,15 @@
     "title": "T24_Transact Transformation Program",
     "summary": "Gulf Islamic Bank T24 Transact core banking transformation program overview.",
     "tags": []
+  },
+  {
+    "path": "Core_Banking_and_Lending_Modernization/Reports/Mambu - Predictions Report 2025.pdf",
+    "title": "Mambu - Predictions Report 2025",
+    "summary": "Mambu ecosystem leaders forecast 2026 financial services trends, focusing on digital-first customer experiences and composable banking.",
+    "tags": [
+      "core banking",
+      "trends"
+    ]
   },
   {
     "path": "Core_Banking_and_Lending_Modernization/Zafin/Core Modernization Playbook.pdf",
@@ -198,6 +234,15 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Reimagining Everyday Banking Products - Oct 2025.pdf",
+    "title": "Reimagining Everyday Banking Products - Oct 2025",
+    "summary": "White paper on redesigning everyday banking products to meet evolving customer needs and digital expectations.",
+    "tags": [
+      "retail banking",
+      "product"
+    ]
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Strategies for Scalable Sustainable Operations - Banking Perspective.pdf",
     "title": "Strategies for Scalable Sustainable Operations - Banking Perspective",
     "summary": "Banking-focused strategies for scalable, sustainable fintech operations.",
@@ -250,6 +295,35 @@
     "title": "Data Tagging - Turning Treasury Transactions into Insights - Priscila Nagalli",
     "summary": "Guide to data tagging treasury transactions to generate insights.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Drivers of Digital Payment Adoption - Lessons from Brazil Costa Rica and Mexico (2025).pdf",
+    "title": "Drivers of Digital Payment Adoption - Lessons from Brazil Costa Rica and Mexico (2025)",
+    "summary": "Working paper analyzing what drives digital payment adoption across Brazil, Costa Rica, and Mexico, with lessons for scaling usage.",
+    "tags": [
+      "payments",
+      "adoption",
+      "latin america"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Resilience of the Banking Unions Non-Cash Payment Systems - Nov 2025.pdf",
+    "title": "Resilience of the Banking Unions Non-Cash Payment Systems - Nov 2025",
+    "summary": "EU study on resilience risks in the Banking Union\u2019s non-cash payment systems, including disruptions from third-country providers and policy recommendations.",
+    "tags": [
+      "payments",
+      "europe",
+      "resilience"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/The Tipping Point for Innovation in B2B Payments - GBA ASEAN.pdf",
+    "title": "The Tipping Point for Innovation in B2B Payments - GBA ASEAN",
+    "summary": "Overview of B2B payment innovation opportunities linked to Greater Bay Area\u2013ASEAN trade flows and how providers can capture them.",
+    "tags": [
+      "b2b payments",
+      "asean"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/Global Currency Access-The End of Correspondent Dependency.pdf",
@@ -348,6 +422,15 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/IMF/IMF - Central Bank Digital Currency - Further Navigating Challenges and Risks (Nov 2025).pdf",
+    "title": "IMF - Central Bank Digital Currency - Further Navigating Challenges and Risks (Nov 2025)",
+    "summary": "IMF staff report detailing design choices, operational risks, and policy trade-offs for central bank digital currency rollouts.",
+    "tags": [
+      "cbdc",
+      "policy"
+    ]
+  },
+  {
     "path": "Stablecoins_and_CBDC/IMF/Imf cbdc.pdf",
     "title": "Imf cbdc",
     "summary": "IMF primer on central bank digital currency design considerations.",
@@ -384,10 +467,28 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/How Stablecoins Can Improve Payments and Global Finance.pdf",
+    "title": "How Stablecoins Can Improve Payments and Global Finance",
+    "summary": "Explains how well-designed stablecoins could lower payment costs and expand access to global finance while addressing risk controls.",
+    "tags": [
+      "stablecoins",
+      "payments"
+    ]
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/KPMG - Stablecoins Opportunities and Challenges.pdf",
     "title": "KPMG - Stablecoins Opportunities and Challenges",
     "summary": "KPMG overview of stablecoin opportunities, risks, and challenges.",
     "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Industry/PitchBook - Stablecoins Complement TradFi Not Replace It.pdf",
+    "title": "PitchBook - Stablecoins Complement TradFi Not Replace It",
+    "summary": "PitchBook research on the stablecoin value chain, transaction mechanics, and why adoption complements rather than replaces traditional finance.",
+    "tags": [
+      "stablecoins",
+      "market research"
+    ]
   },
   {
     "path": "Stablecoins_and_CBDC/Sveriges_Riksbank/Sveriges Riksbank Staff memo November 2025.pdf",
@@ -486,6 +587,15 @@
     "tags": []
   },
   {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Irish Funds - Tokenised Funds Operational Considerations.pdf",
+    "title": "Irish Funds - Tokenised Funds Operational Considerations",
+    "summary": "Operational considerations and gaps for tokenising Irish-domiciled funds, covering issuance, servicing, and infrastructure.",
+    "tags": [
+      "tokenization",
+      "funds"
+    ]
+  },
+  {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/OMFIF - Public Blockchain Working Group Report.pdf",
     "title": "OMFIF - Public Blockchain Working Group Report",
     "summary": "OMFIF working group report on public blockchain integration in banking.",
@@ -514,6 +624,36 @@
     "title": "MAS, FCA, Deutsche Bank, Schroder - Tokenized Funds",
     "summary": "Joint paper by MAS/FCA/Deutsche Bank/Schroder on tokenized funds.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/Citadel Securities - Comment on Tokenized US Equity Securities and DeFi Trading Protocols - Dec 2025.pdf",
+    "title": "Citadel Securities - Comment on Tokenized US Equity Securities and DeFi Trading Protocols - Dec 2025",
+    "summary": "Citadel Securities comment letter to the SEC on exemptive relief for trading tokenized U.S. equities and DeFi protocols.",
+    "tags": [
+      "tokenization",
+      "securities",
+      "regulation"
+    ]
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/Guide on Legal Issues Relating to the Use of DLT in Trade.pdf",
+    "title": "Guide on Legal Issues Relating to the Use of DLT in Trade",
+    "summary": "Guide to the key legal questions when applying distributed ledger technology to trade processes and documents.",
+    "tags": [
+      "dlt",
+      "trade",
+      "legal"
+    ]
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/New Zealand - Digital Assets Strategy 2025-2030.pdf",
+    "title": "New Zealand - Digital Assets Strategy 2025-2030",
+    "summary": "Government roadmap for New Zealand\u2019s digital assets economy through 2030, outlining policy priorities and growth initiatives.",
+    "tags": [
+      "policy",
+      "digital assets",
+      "new zealand"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/UK - Property Digital Assets Act 2025.pdf",
