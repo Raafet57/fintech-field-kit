@@ -28,7 +28,9 @@ TREE_END = "<!-- TREE-END -->"
 
 def scan_pdfs(root: Path) -> List[Path]:
     pdfs: List[Path] = []
-    for path in root.rglob("*.pdf"):
+    for path in root.rglob("*"):
+        if not path.is_file() or path.suffix.lower() != ".pdf":
+            continue
         if ".git" in path.parts or path.parts[0] == "docs":
             continue
         pdfs.append(path.relative_to(root))

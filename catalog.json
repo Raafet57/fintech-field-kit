@@ -341,6 +341,16 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Pricing in Fast Payments Working Paper 1295 (Oct 2025).pdf",
+    "title": "BIS - Pricing in Fast Payments (Working Paper 1295)",
+    "summary": "BIS working paper on how to price fast payment systems, covering interchange fees, cost recovery options, incentives, and implications for adoption and inclusion.",
+    "tags": [
+      "payments",
+      "pricing",
+      "bis"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Project Leap Quantum-Proofing Payment Systems (Dec 2025).pdf",
     "title": "BIS - Project Leap: Quantum-Proofing Payment Systems",
     "summary": "BIS Innovation Hub report on Project Leap detailing quantum-resilient security approaches for payment systems and migration considerations.",
