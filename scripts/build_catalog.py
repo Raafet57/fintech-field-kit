@@ -18,7 +18,7 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 
 ROOT = Path(__file__).resolve().parents[1]
-CATALOG_JSON = ROOT / "catalog.json"
+CATALOG_JSON = ROOT / "scripts" / "catalog.json"
 CATALOG_MD = ROOT / "docs" / "catalog.md"
 CATALOG_MD_ROOT = ROOT / "catalog.md"
 TREE_MD = ROOT / "docs" / "tree.md"
