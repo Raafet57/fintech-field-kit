@@ -33,6 +33,15 @@
     ]
   },
   {
+    "path": "AI_and_Digital_Transformation/Reports/McKinsey - Agents Robots and Us Skill Partnerships in the Age of AI (Nov 2025).pdf",
+    "title": "McKinsey - Agents, Robots, and Us: Skill Partnerships in the Age of AI",
+    "summary": "McKinsey take on how humans, digital agents, and automation can partner, with the skill shifts, reskilling paths, and org design needed to stay essential as AI rolls out.",
+    "tags": [
+      "ai",
+      "workforce"
+    ]
+  },
+  {
     "path": "AI_and_Digital_Transformation/Reports/What 4372 AI Use Cases Reveal - Public Sector AI.pdf",
     "title": "What 4372 AI Use Cases Reveal - Public Sector AI",
     "summary": "Analysis of thousands of public-sector AI use cases and lessons for moving beyond pilots.",
@@ -69,6 +78,26 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/Belgium_Parliament/Belgium Parliament - Supervision of Financial Messaging Service Providers - Doc 56 0610-005 First Reading Report (Mar 2025).pdf",
+    "title": "Belgium Parliament - Supervision of Financial Messaging Service Providers - Doc 56 0610-005",
+    "summary": "First-reading commission report and adopted articles for the Belgian law introducing supervision of financial messaging service providers (Doc 56 0610-005, Mar 2025).",
+    "tags": [
+      "regulation",
+      "payments",
+      "belgium"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/Belgium_Parliament/Belgium Parliament - Supervision of Financial Messaging Service Providers - Doc 56 0610-010 Final Text (Apr 2025).pdf",
+    "title": "Belgium Parliament - Supervision of Financial Messaging Service Providers - Doc 56 0610-010",
+    "summary": "Final plenary text (Apr 2025) of Belgium's law establishing oversight for financial messaging service providers, submitted for royal assent.",
+    "tags": [
+      "regulation",
+      "payments",
+      "belgium"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/FSB/FSB - Global Regulatory Framework for Crypto-Asset Activities - Umbrella Note.pdf",
     "title": "FSB - Global Regulatory Framework for Crypto-Asset Activities - Umbrella Note",
     "summary": "FSB umbrella note summarizing global regulatory framework for crypto-asset activities.",
@@ -81,16 +110,43 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/GLEIF/GLEIF - vLEI Hackathon 2025.pdf",
+    "title": "GLEIF - vLEI Hackathon 2025",
+    "summary": "Promo deck for GLEIF's 2025 vLEI hackathon positioning verifiable LEIs as a foundation for digital trust and organizational identity.",
+    "tags": [
+      "digital identity",
+      "vlei"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/Morocco_Compliance/Conformite\u0301 bancaire et PSP Maroc.pdf",
     "title": "Conformite\u0301 bancaire et PSP Maroc",
     "summary": "French-language report on banking and payment service provider compliance in Morocco.",
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/OCC/OCC Interpretive Letter 1188 - Riskless Principal Crypto Transactions (Dec 2025).pdf",
+    "title": "OCC Interpretive Letter 1188 - Riskless Principal Crypto Transactions",
+    "summary": "OCC confirms national banks may intermediate crypto trades as riskless principal, subject to existing securities/derivatives rules plus risk management and compliance expectations.",
+    "tags": [
+      "us regulation",
+      "crypto"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/PSD3/PSD3 Cheat Sheet.pdf",
     "title": "PSD3 Cheat Sheet",
     "summary": "Cheat sheet summarizing PSD3 key provisions and impacts.",
     "tags": []
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/SFFIPP/SFFIPP - Fraud Related to Virtual IBAN (Dec 2025).pdf",
+    "title": "SFFIPP - Fraud Related to Virtual IBAN",
+    "summary": "Newsletter highlighting rising misuse of virtual IBANs and recommending due diligence, monitoring controls, and risk indicators for issuers and intermediaries.",
+    "tags": [
+      "financial crime",
+      "payments"
+    ]
   },
   {
     "path": "Compliance_Risk_and_Standards/SWIFT/After coexistence - whats next for ISO 20022 in 2026.pdf",
@@ -228,6 +284,24 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Goldman Sachs - The US-China Tech Race Issue 144 (Dec 2025).pdf",
+    "title": "Goldman Sachs - The US-China Tech Race (Issue 144)",
+    "summary": "Goldman Sachs research note on the US-China technology race, covering competitive dynamics, policy shifts, and market implications as of Dec 2025.",
+    "tags": [
+      "geopolitics",
+      "technology"
+    ]
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/ICC - Compact for Trade Growth and Jobs (Dec 2025).pdf",
+    "title": "ICC - Compact for Trade, Growth and Jobs",
+    "summary": "ICC call to action ahead of MC14 outlining WTO reform priorities and practical steps for governments and businesses to revitalise trade, growth, and SME participation.",
+    "tags": [
+      "trade",
+      "policy"
+    ]
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Pricing Guide for B2B SaaS Founders.pdf",
     "title": "Pricing Guide for B2B SaaS Founders",
     "summary": "Guide for B2B SaaS founders on building effective pricing strategies.",
@@ -267,6 +341,24 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Project Leap Quantum-Proofing Payment Systems (Dec 2025).pdf",
+    "title": "BIS - Project Leap: Quantum-Proofing Payment Systems",
+    "summary": "BIS Innovation Hub report on Project Leap detailing quantum-resilient security approaches for payment systems and migration considerations.",
+    "tags": [
+      "payments",
+      "security"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Project Rialto Technical Report - Cross-Border Payments with Central Bank Money (Dec 2025).pdf",
+    "title": "BIS - Project Rialto Technical Report",
+    "summary": "Technical blueprint for Project Rialto showing how central bank money settlement could support instant cross-border payments with improved interoperability.",
+    "tags": [
+      "payments",
+      "cross-border"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/BIS_SNB/othp104.pdf",
     "title": "othp104",
     "summary": "BIS-SNB study on operational aspects of payment systems (othp104).",
@@ -289,6 +381,24 @@
     "title": "The Real Story Behind SEPA Instant",
     "summary": "MallaPayments perspective on SEPA Instant implementation realities.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/AWS - Agentic Payments The Next Evolution in the Payments Value Chain (Nov 2025).pdf",
+    "title": "AWS - Agentic Payments: The Next Evolution in the Payments Value Chain",
+    "summary": "AWS for Industries explainer on using Bedrock agents and AWS services to automate payment flows, routing, compliance checks, and customer journeys.",
+    "tags": [
+      "agentic ai",
+      "payments"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Ant International and HSBC - Tokenised Deposit Cross-Border Payments Pilot on SWIFT (Dec 2025).pdf",
+    "title": "Ant International and HSBC - Tokenised Deposit Pilot on SWIFT",
+    "summary": "Press release on an Ant International and HSBC test using tokenised deposits over SWIFT ISO 20022 rails to prove interoperable cross-border payments.",
+    "tags": [
+      "tokenised deposits",
+      "cross-border"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Data Tagging - Turning Treasury Transactions into Insights - Priscila Nagalli.pdf",
@@ -323,6 +433,15 @@
     "tags": [
       "b2b payments",
       "asean"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Thunes - Joins WEF Unicorn Community (Dec 2025).pdf",
+    "title": "Thunes - Joins WEF Unicorn Community",
+    "summary": "Short announcement on Thunes entering the World Economic Forum's Unicorn Community to collaborate on cross-border payment initiatives.",
+    "tags": [
+      "payments",
+      "partnership"
     ]
   },
   {
@@ -386,6 +505,15 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Fiscal 2025 Annual Report.pdf",
+    "title": "Visa - Fiscal 2025 Annual Report",
+    "summary": "Visa's FY2025 annual report covering financials, network strategy, risk and compliance topics, and product priorities.",
+    "tags": [
+      "visa",
+      "payments"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Global Payments and Fraud Report 2025.pdf",
     "title": "Visa - Global Payments and Fraud Report 2025",
     "summary": "Visa\u2019s 2025 survey on eCommerce payments performance and fraud trends.",
@@ -437,6 +565,15 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Independent/E-Money and Stablecoin Tax Reporting Framework (2025).pdf",
+    "title": "E-Money and Stablecoin Tax Reporting Framework",
+    "summary": "One-page framework outlining a tax reporting approach for e-money and stablecoin activity, aimed at improving transparency for issuers and users.",
+    "tags": [
+      "tax",
+      "stablecoins"
+    ]
+  },
+  {
     "path": "Stablecoins_and_CBDC/Independent/Multi-Jurisdictional Stablecoins.pdf",
     "title": "Multi-Jurisdictional Stablecoins",
     "summary": "Paper on legal and regulatory issues for multi-jurisdictional stablecoins.",
@@ -482,6 +619,15 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/PayWithZ - Bank-Grade Compliant Stablecoin Infrastructure (Nov 2025).pdf",
+    "title": "PayWithZ - Bank-Grade Compliant Stablecoin Infrastructure",
+    "summary": "PayWithZ blog arguing for compliance-first stablecoin design for banks and MENA regulators, with emphasis on governance, KYC/AML, and reserve controls.",
+    "tags": [
+      "stablecoins",
+      "mena"
+    ]
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/PitchBook - Stablecoins Complement TradFi Not Replace It.pdf",
     "title": "PitchBook - Stablecoins Complement TradFi Not Replace It",
     "summary": "PitchBook research on the stablecoin value chain, transaction mechanics, and why adoption complements rather than replaces traditional finance.",
@@ -525,6 +671,15 @@
     "title": "The Stablecoin Business",
     "summary": "Business-oriented guide to stablecoin models and monetization.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Academic/Halaburda - Impossibility of Transparent and Decentralized Trading on Permissionless Blockchains (Dec 2025).pdf",
+    "title": "Halaburda - Impossibility of Transparent and Decentralized Trading on Permissionless Blockchains",
+    "summary": "Academic paper arguing that fully transparent, decentralized trading on permissionless blockchains is infeasible given privacy needs and incentive constraints.",
+    "tags": [
+      "decentralization",
+      "market design"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Academic/myths of blockchain governance.pdf",
@@ -624,6 +779,16 @@
     "title": "MAS, FCA, Deutsche Bank, Schroder - Tokenized Funds",
     "summary": "Joint paper by MAS/FCA/Deutsche Bank/Schroder on tokenized funds.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/CFTC - Tokenized Collateral Guidance (Dec 2025).pdf",
+    "title": "CFTC - Tokenized Collateral Guidance",
+    "summary": "CFTC staff guidance describing how tokenized collateral can be used under existing derivatives rules, with expectations on control, settlement finality, and risk management.",
+    "tags": [
+      "tokenization",
+      "derivatives",
+      "us regulation"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/Citadel Securities - Comment on Tokenized US Equity Securities and DeFi Trading Protocols - Dec 2025.pdf",
