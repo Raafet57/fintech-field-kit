@@ -20,7 +20,9 @@ from typing import Dict, List, Tuple
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_JSON = ROOT / "catalog.json"
 CATALOG_MD = ROOT / "docs" / "catalog.md"
+CATALOG_MD_ROOT = ROOT / "catalog.md"
 TREE_MD = ROOT / "docs" / "tree.md"
+TREE_MD_ROOT = ROOT / "tree.md"
 README = ROOT / "README.md"
 
 TREE_START = "<!-- TREE-START -->"
@@ -123,8 +125,8 @@ def update_readme(tree_lines: List[str]) -> None:
     snippet = (
         "## Repo Tree (snapshot)\n"
         f"{TREE_START}\n{tree_block}\n{TREE_END}\n"
-        "See full catalog: docs/catalog.md\n"
-        "See full tree: docs/tree.md\n"
+        "See full catalog: catalog.md\n"
+        "See full tree: tree.md\n"
     )
 
     if TREE_START in content and TREE_END in content:
@@ -146,10 +148,18 @@ def main() -> None:
     tree_lines = render_tree(tree, max_depth=2)
     tree_lines_full = render_tree(tree)
 
-    CATALOG_MD.parent.mkdir(parents=True, exist_ok=True)
-    CATALOG_MD.write_text(render_catalog_md(entries))
-    TREE_MD.parent.mkdir(parents=True, exist_ok=True)
-    TREE_MD.write_text(render_tree_md(tree_lines_full))
+    catalog_md_content = render_catalog_md(entries)
+    tree_md_content = render_tree_md(tree_lines_full)
+
+    # Write catalog and tree both to docs/ and repo root for easier discovery.
+    for path in (CATALOG_MD, CATALOG_MD_ROOT):
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(catalog_md_content)
+
+    for path in (TREE_MD, TREE_MD_ROOT):
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(tree_md_content)
+
     update_readme(tree_lines)
 
 
