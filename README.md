@@ -34,7 +34,7 @@ A neatly sorted stash of 2024–2025 papers on stablecoins, CBDCs, tokenization,
 
 If this saved you hours of Googling, toss the repo a star. Your future consultant self will thank you. 🪙🚀
 
-## Repo Tree (snapshot)## Repo Tree (snapshot)## Repo Tree (snapshot)
+## Repo Tree (snapshot)## Repo Tree (snapshot)## Repo Tree (snapshot)## Repo Tree (snapshot)## Repo Tree (snapshot)
 <!-- TREE-START -->
 - AI_and_Digital_Transformation/
   - IBM/
@@ -49,13 +49,22 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - BAFT/
   - BCBS/
   - Belgium_Parliament/
+  - EU_Law/
+  - Elliptic/
   - FSB/
+  - FSOC/
+  - FinCEN/
   - GLEIF/
+  - HK_SFC/
   - Morocco_Compliance/
   - OCC/
   - PSD3/
   - SFFIPP/
   - SWIFT/
+  - Singapore/
+  - UAE_VARA/
+  - UK/
+  - US/
   - UTS_Tech/
   - zkOrigoPlus/
 - Core_Banking_and_Lending_Modernization/
@@ -69,6 +78,7 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - BCG/
   - BIS/
   - CEPR/
+  - Central_Banks/
   - Deloitte/
   - Entlaq/
   - McKinsey/
@@ -102,6 +112,13 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - Industry/
   - MAS_FCA_DeutscheBank_Schroder/
   - Regulation/
+  - Reports/
 <!-- TREE-END -->
+See full catalog: catalog.md
+See full tree: tree.md
+
+See full catalog: catalog.md
+See full tree: tree.md
+
 See full catalog: catalog.md
 See full tree: tree.md
