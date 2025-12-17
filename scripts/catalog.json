@@ -54,6 +54,18 @@
     "tags": []
   },
   {
+    "path": "AI_and_Digital_Transformation/Reports/Stay Agile with a Container-First Strategy.pdf",
+    "title": "Stay Agile with a Container-First Strategy",
+    "summary": "Playbook on adopting a container-first approach to speed delivery, portability, and hybrid cloud flexibility.",
+    "tags": []
+  },
+  {
+    "path": "AI_and_Digital_Transformation/Reports/The data leaders guide to digital transformation.pdf",
+    "title": "The Data Leaders Guide to Digital Transformation",
+    "summary": "Guide for data leaders to drive digital transformation with the right governance, architecture, and talent.",
+    "tags": []
+  },
+  {
     "path": "AI_and_Digital_Transformation/Reports/What 4372 AI Use Cases Reveal - Public Sector AI.pdf",
     "title": "What 4372 AI Use Cases Reveal - Public Sector AI",
     "summary": "Analysis of thousands of public-sector AI use cases and lessons for moving beyond pilots.",
@@ -224,6 +236,18 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/Reports/2025 LATAM Crypto Regulation Report.pdf",
+    "title": "2025 LATAM Crypto Regulation Report",
+    "summary": "Survey of 2025 crypto regulation across Latin America, covering licensing, AML/CFT, taxation, and supervisory trends.",
+    "tags": []
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/Reports/Programmable Compliance for Digital Money & Assets.pdf",
+    "title": "Programmable Compliance for Digital Money & Assets",
+    "summary": "Whitepaper on embedding programmable compliance controls into digital money and asset platforms, with policy enforcement patterns.",
+    "tags": []
+  },
+  {
     "path": "Compliance_Risk_and_Standards/SFFIPP/SFFIPP - Fraud Related to Virtual IBAN (Dec 2025).pdf",
     "title": "SFFIPP - Fraud Related to Virtual IBAN",
     "summary": "Newsletter highlighting rising misuse of virtual IBANs and recommending due diligence, monitoring controls, and risk indicators for issuers and intermediaries.",
@@ -257,6 +281,12 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/Singapore/MAS - Guidelines for Artificial Intelligence Risk Management (Dec 2025).pdf",
+    "title": "MAS - Guidelines for Artificial Intelligence Risk Management (Dec 2025)",
+    "summary": "MAS principles for managing AI risks in financial institutions, covering governance, data management, validation, and monitoring.",
+    "tags": []
+  },
+  {
     "path": "Compliance_Risk_and_Standards/Singapore/MAS - Guidelines on Licensing for Payment Service Providers (PSG01, Oct 2025).pdf",
     "title": "MAS - Guidelines on Licensing for Payment Service Providers (PSG01, Oct 2025)",
     "summary": "MAS guidance on Payment Services Act licensing categories, fit-and-proper criteria, safeguarding, AML/CFT, and ongoing obligations (Oct 2025 amendment).",
@@ -278,6 +308,12 @@
     "path": "Compliance_Risk_and_Standards/UK/Financial Services and Markets Act 2023 (UKPGA 2023 c29).pdf",
     "title": "Financial Services and Markets Act 2023 (UKPGA 2023 c29)",
     "summary": "UK Financial Services and Markets Act 2023 text modernizing regulatory powers, including stablecoins as payment systems and post-Brexit rulemaking changes.",
+    "tags": []
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/NIST IR 8408 - Understanding Stablecoin Technology and Related Security Considerations.pdf",
+    "title": "NIST IR 8408 - Understanding Stablecoin Technology and Related Security Considerations",
+    "summary": "NIST guide to stablecoin architectures, implementation models, and key security considerations.",
     "tags": []
   },
   {
@@ -392,6 +428,12 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey - Global Payments Report 2025 - Competing systems contested outcomes.pdf",
+    "title": "McKinsey - Global Payments Report 2025",
+    "summary": "McKinsey 2025 global payments outlook on competing systems, revenue shifts, and strategic implications.",
+    "tags": []
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey_ 2025 global banking review.pdf",
     "title": "McKinsey_ 2025 global banking review",
     "summary": "McKinsey 2025 global banking review on profitability, technology, and risk.",
@@ -428,6 +470,18 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/FinTech Group - Digital Assets Market Update Fall 2025.pdf",
+    "title": "FinTech Group - Digital Assets Market Update Fall 2025",
+    "summary": "FinTech Group fall 2025 snapshot of digital asset markets, adoption trends, and capital flows.",
+    "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Fintech in ASEAN 2025.pdf",
+    "title": "Fintech in ASEAN 2025",
+    "summary": "Overview of the 2025 fintech landscape across ASEAN, with ecosystem growth, investment, and regulatory highlights.",
+    "tags": []
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Goldman Sachs - The US-China Tech Race Issue 144 (Dec 2025).pdf",
     "title": "Goldman Sachs - The US-China Tech Race (Issue 144)",
     "summary": "Goldman Sachs research note on the US-China technology race, covering competitive dynamics, policy shifts, and market implications as of Dec 2025.",
@@ -444,6 +498,12 @@
       "trade",
       "policy"
     ]
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/IMF WP 25-255 - Taxing Mobile Money Theory and Evidence.pdf",
+    "title": "IMF WP 25-255 - Taxing Mobile Money: Theory and Evidence",
+    "summary": "IMF Working Paper 25/255 modeling mobile money taxation and presenting empirical evidence on impacts.",
+    "tags": []
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Logica - Future of Money 2025 Highlight Report.pdf",
@@ -476,6 +536,12 @@
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Strategies for Scalable Sustainable Operations - Banking Perspective.pdf",
     "title": "Strategies for Scalable Sustainable Operations - Banking Perspective",
     "summary": "Banking-focused strategies for scalable, sustainable fintech operations.",
+    "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/The Power of Together - Fintech Ecosystems in Sub-Saharan Africa.pdf",
+    "title": "The Power of Together - Fintech Ecosystems in Sub-Saharan Africa",
+    "summary": "Report on how ecosystems enable fintech growth across Sub-Saharan Africa, with country case studies and recommendations.",
     "tags": []
   },
   {
@@ -529,6 +595,12 @@
       "payments",
       "cross-border"
     ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS Bulletin 119 - Enhancing Cross-Border Payments (Dec 2025).pdf",
+    "title": "BIS Bulletin 119 - Enhancing Cross-Border Payments (Dec 2025)",
+    "summary": "BIS Bulletin 119 summarizing the state of cross-border payment enhancements and the path forward.",
+    "tags": []
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS_SNB/othp104.pdf",
@@ -585,6 +657,12 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - RTGS Renewal Programme.pdf",
+    "title": "Bank of England - RTGS Renewal Programme",
+    "summary": "Overview of the Bank of England's RTGS renewal programme, objectives, and implementation roadmap.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Data Tagging - Turning Treasury Transactions into Insights - Priscila Nagalli.pdf",
     "title": "Data Tagging - Turning Treasury Transactions into Insights - Priscila Nagalli",
     "summary": "Guide to data tagging treasury transactions to generate insights.",
@@ -599,6 +677,12 @@
       "adoption",
       "latin america"
     ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard Digital Payment Security Standard (Dec 2025).pdf",
+    "title": "Mastercard Digital Payment Security Standard (Dec 2025)",
+    "summary": "Mastercard whitepaper detailing its digital payment security standard for safer online payments.",
+    "tags": []
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Payments in Transition - Leadership in an Era of Transformation.pdf",
@@ -765,6 +849,12 @@
       "cbdc",
       "policy"
     ]
+  },
+  {
+    "path": "Stablecoins_and_CBDC/IMF/IMF FinTech Note 2025-010 - Financial Integrity Implications of Retail CBDCs.pdf",
+    "title": "IMF FinTech Note 2025-010 - Financial Integrity Implications of Retail CBDCs",
+    "summary": "IMF FinTech Note (Nov 2025) examining financial integrity implications and controls for retail CBDCs.",
+    "tags": []
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/Imf cbdc.pdf",
@@ -1001,6 +1091,12 @@
     ]
   },
   {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/JPMorgan - Tokenization of Money Market Funds.pdf",
+    "title": "JPMorgan - Tokenization of Money Market Funds",
+    "summary": "JPMorgan perspective on tokenizing money market funds for institutional/wholesale clients.",
+    "tags": []
+  },
+  {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/OMFIF - Public Blockchain Working Group Report.pdf",
     "title": "OMFIF - Public Blockchain Working Group Report",
     "summary": "OMFIF working group report on public blockchain integration in banking.",
@@ -1022,6 +1118,12 @@
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Oracle Platform Powering Institutional Tokenization.pdf",
     "title": "The Oracle Platform Powering Institutional Tokenization",
     "summary": "Overview of an oracle platform enabling institutional tokenization.",
+    "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/XRPL - Tokenization is No Longer a Theory (Dec 2025).pdf",
+    "title": "XRPL - Tokenization is No Longer a Theory (Dec 2025)",
+    "summary": "Innovative App World whitepaper on XRPL-native infrastructure for tokenized markets.",
     "tags": []
   },
   {
@@ -1059,6 +1161,12 @@
       "trade",
       "legal"
     ]
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/MAS - Guide on the Tokenisation of Capital Markets Products (Nov 2025).pdf",
+    "title": "MAS - Guide on the Tokenisation of Capital Markets Products (Nov 2025)",
+    "summary": "MAS guide on tokenising capital markets products and related regulatory expectations (Nov 2025 update).",
+    "tags": []
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/New Zealand - Digital Assets Strategy 2025-2030.pdf",
