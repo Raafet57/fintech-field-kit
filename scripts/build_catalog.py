@@ -132,7 +132,23 @@ def update_readme(tree_lines: List[str]) -> None:
     if TREE_START in content and TREE_END in content:
         before, rest = content.split(TREE_START, 1)
         _, after = rest.split(TREE_END, 1)
-        new_content = before.rstrip() + snippet + after
+
+        header = "## Repo Tree (snapshot)"
+        if header in before:
+            # Drop any existing header so we don't duplicate when we insert the snippet.
+            before = before.rsplit(header, 1)[0]
+        before = before.rstrip()
+
+        # Clean up any lingering "See full ..." lines that may have been duplicated previously.
+        after_lines = [line for line in after.lstrip("\n").splitlines() if line.strip()]
+        filtered_after = [
+            line
+            for line in after_lines
+            if line.strip() not in {"See full catalog: catalog.md", "See full tree: tree.md"}
+        ]
+        after_suffix = ("\n" + "\n".join(filtered_after)) if filtered_after else ""
+
+        new_content = before + "\n\n" + snippet + after_suffix
     else:
         new_content = content.rstrip() + "\n\n" + snippet + "\n"
     README.write_text(new_content)
