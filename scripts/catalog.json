@@ -60,6 +60,12 @@
     "tags": []
   },
   {
+    "path": "AI_and_Digital_Transformation/Reports/The AI Divide in Banking Will Impact Banks - Credit Ratings.pdf",
+    "title": "The AI Divide in Banking Will Impact Banks - Credit Ratings",
+    "summary": "Brief on how uneven AI adoption in banking could influence performance perceptions and credit-rating considerations.",
+    "tags": []
+  },
+  {
     "path": "AI_and_Digital_Transformation/Reports/The data leaders guide to digital transformation.pdf",
     "title": "The Data Leaders Guide to Digital Transformation",
     "summary": "Guide for data leaders to drive digital transformation with the right governance, architecture, and talent.",
@@ -242,6 +248,18 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/Reports/Crypto Kleptocracy.pdf",
+    "title": "Crypto Kleptocracy",
+    "summary": "Overview of kleptocracy-linked and illicit activity risks in crypto ecosystems.",
+    "tags": []
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/Reports/Outcome_ISC2508SF002968_02.pdf",
+    "title": "Outcome_ISC2508SF002968_02",
+    "summary": "Unclassified outcome document (note: this file appears to be a 0-page PDF).",
+    "tags": []
+  },
+  {
     "path": "Compliance_Risk_and_Standards/Reports/Programmable Compliance for Digital Money & Assets.pdf",
     "title": "Programmable Compliance for Digital Money & Assets",
     "summary": "Whitepaper on embedding programmable compliance controls into digital money and asset platforms, with policy enforcement patterns.",
@@ -404,6 +422,12 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/BOC - The Costs of Electronic Retail Payment Networks.pdf",
+    "title": "BOC - The Costs of Electronic Retail Payment Networks",
+    "summary": "Central bank research on the cost economics of electronic retail payment networks.",
+    "tags": []
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/Norges Bank - Strategy 28.pdf",
     "title": "Norges Bank - Strategy 28",
     "summary": "Norges Bank's Strategy 28 sets priorities through 2028 on price stability, financial stability, secure payments, and organizational capabilities as Norway adapts to a changing economy.",
@@ -458,9 +482,21 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Digital Assets Outlook 2026.pdf",
+    "title": "Digital Assets Outlook 2026",
+    "summary": "High-level outlook for digital assets heading into 2026, capturing major themes and market signals.",
+    "tags": []
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Digital Assets Report - Fasanara and Glassnode (Q4 2025).pdf",
     "title": "Digital Assets Report - Fasanara and Glassnode (Q4 2025)",
     "summary": "Institutional perspective on digital assets in Q4 2025, with market structure insights and on-chain analytics from Fasanara and Glassnode.",
+    "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Digital Assets UAE - Lessons from 2025, Signals for 2026.pdf",
+    "title": "Digital Assets UAE - Lessons from 2025, Signals for 2026",
+    "summary": "UAE-focused digital assets recap for 2025 and forward-looking signals for 2026.",
     "tags": []
   },
   {
@@ -569,6 +605,12 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Cross-Border Payments Survey (Dec 2025).pdf",
+    "title": "BIS - Cross-Border Payments Survey (Dec 2025)",
+    "summary": "BIS survey snapshot on cross-border payments, focused on frictions and improvement priorities.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Pricing in Fast Payments Working Paper 1295 (Oct 2025).pdf",
     "title": "BIS - Pricing in Fast Payments (Working Paper 1295)",
     "summary": "BIS working paper on how to price fast payment systems, covering interchange fees, cost recovery options, incentives, and implications for adoption and inclusion.",
@@ -633,6 +675,12 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/ACH with Billing and Recurring Payments.pdf",
+    "title": "ACH with Billing and Recurring Payments",
+    "summary": "Primer on using ACH rails for billing and recurring payment use cases.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/API Integrations with Your TMS.pdf",
     "title": "API Integrations with Your TMS",
     "summary": "Short explainer on how API integrations modernize treasury management systems by replacing batch files, reducing errors, and improving real-time visibility.",
@@ -679,6 +727,12 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Europe Payment Fraud Report.pdf",
+    "title": "Europe Payment Fraud Report",
+    "summary": "Europe-focused payments fraud report covering trends and control themes.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard Digital Payment Security Standard (Dec 2025).pdf",
     "title": "Mastercard Digital Payment Security Standard (Dec 2025)",
     "summary": "Mastercard whitepaper detailing its digital payment security standard for safer online payments.",
@@ -708,6 +762,12 @@
       "b2b payments",
       "asean"
     ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/The Year in Cross-Border Payments 2025.pdf",
+    "title": "The Year in Cross-Border Payments 2025",
+    "summary": "Year-in-review digest of cross-border payments developments in 2025.",
+    "tags": []
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Thunes - Joins WEF Unicorn Community (Dec 2025).pdf",
@@ -797,6 +857,12 @@
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Global Payments and Fraud Report 2025.pdf",
     "title": "Visa - Global Payments and Fraud Report 2025",
     "summary": "Visa\u2019s 2025 survey on eCommerce payments performance and fraud trends.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Academic/A Stablecoin Thats Actually Stable - A Portfolio Optimi.pdf",
+    "title": "A Stablecoin Thats Actually Stable - A Portfolio Optimi",
+    "summary": "Research note on stablecoin stability using a portfolio-optimization framing.",
     "tags": []
   },
   {
@@ -896,6 +962,12 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/Banking on Stablecoins.pdf",
+    "title": "Banking on Stablecoins",
+    "summary": "Industry perspective on how banks can approach stablecoins, including use cases and risk considerations.",
+    "tags": []
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/Binance Research - The Stablecoin Business (Nov 2025).pdf",
     "title": "Binance Research - The Stablecoin Business (Nov 2025)",
     "summary": "Binance Research analysis of stablecoin business models, revenue streams, adoption trends, and competitive dynamics as of Nov 2025.",
@@ -917,6 +989,12 @@
     "path": "Stablecoins_and_CBDC/Industry/Crunchfish - Immediate vs Deferred Offline Mode.pdf",
     "title": "Crunchfish - Immediate vs Deferred Offline Mode",
     "summary": "Crunchfish comparison of immediate vs deferred offline modes for CBDC/payments.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Industry/EYP - Stablecoin Survey.pdf",
+    "title": "EYP - Stablecoin Survey",
+    "summary": "Survey report on stablecoins and market sentiment/adoption themes.",
     "tags": []
   },
   {
@@ -980,6 +1058,12 @@
     "path": "Stablecoins_and_CBDC/UNITE_Global/Executive Briefing - Stablecoins vs UNITE Global FMI.pdf",
     "title": "Executive Briefing - Stablecoins vs UNITE Global FMI",
     "summary": "UNITE Global briefing comparing stablecoins with FMI models.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Unknown/RBI - On Stablecoins.pdf",
+    "title": "RBI - On Stablecoins",
+    "summary": "RBI material discussing stablecoins from a policy and regulatory perspective.",
     "tags": []
   },
   {
@@ -1064,6 +1148,12 @@
     "tags": []
   },
   {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Digital Asset Security in the Quantum Era (Dec 2025).pdf",
+    "title": "Digital Asset Security in the Quantum Era (Dec 2025)",
+    "summary": "Overview of quantum-era security threats and resilience approaches for digital assets.",
+    "tags": []
+  },
+  {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Do Fundamentals Drive DeFi Valuations - Greenfield 2025.pdf",
     "title": "Do Fundamentals Drive DeFi Valuations - Greenfield 2025",
     "summary": "Greenfield study on fundamentals driving DeFi valuations using ML models.",
@@ -1112,6 +1202,12 @@
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The New Financial Order - RWAs and Stablecoins.pdf",
     "title": "The New Financial Order - RWAs and Stablecoins",
     "summary": "Report on how RWAs and stablecoins are reshaping financial infrastructure.",
+    "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Next Frontier of Financial Markets.pdf",
+    "title": "The Next Frontier of Financial Markets",
+    "summary": "Perspective on what could define the next frontier in financial market infrastructure and digital assets.",
     "tags": []
   },
   {
@@ -1177,6 +1273,12 @@
       "digital assets",
       "new zealand"
     ]
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/Trump and Cryptocurrency.pdf",
+    "title": "Trump and Cryptocurrency",
+    "summary": "Brief discussing Trump and cryptocurrency.",
+    "tags": []
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/UK - Property Digital Assets Act 2025.pdf",
