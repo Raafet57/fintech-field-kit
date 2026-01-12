@@ -39,6 +39,16 @@
     "tags": []
   },
   {
+    "path": "AI_and_Digital_Transformation/Reports/MIT NANDA - The GenAI Divide (State of AI in Business 2025).pdf",
+    "title": "MIT NANDA - The GenAI Divide: State of AI in Business 2025",
+    "summary": "Project NANDA research on enterprise GenAI adoption in 2025, highlighting the ROI divide between successful deployments and stalled pilots, with guidance for builders and buyers to scale value.",
+    "tags": [
+      "ai",
+      "genai",
+      "adoption"
+    ]
+  },
+  {
     "path": "AI_and_Digital_Transformation/Reports/McKinsey - Agents Robots and Us Skill Partnerships in the Age of AI (Nov 2025).pdf",
     "title": "McKinsey - Agents, Robots, and Us: Skill Partnerships in the Age of AI",
     "summary": "McKinsey take on how humans, digital agents, and automation can partner, with the skill shifts, reskilling paths, and org design needed to stay essential as AI rolls out.",
@@ -323,6 +333,16 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/UK/FCA - Cryptoassets Consumer Research 2025 (Wave 6).pdf",
+    "title": "FCA - Cryptoassets Consumer Research 2025 (Wave 6)",
+    "summary": "FCA-commissioned survey tracking UK consumer awareness, ownership, and attitudes toward cryptoassets, including information sources, marketing influence, and risk understanding trends.",
+    "tags": [
+      "crypto",
+      "consumer",
+      "uk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/UK/Financial Services and Markets Act 2023 (UKPGA 2023 c29).pdf",
     "title": "Financial Services and Markets Act 2023 (UKPGA 2023 c29)",
     "summary": "UK Financial Services and Markets Act 2023 text modernizing regulatory powers, including stablecoins as payment systems and post-Brexit rulemaking changes.",
@@ -512,6 +532,15 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Finovate - Fintech at the Crossroads (2026).pdf",
+    "title": "Finovate - Fintech at the Crossroads (2026)",
+    "summary": "Finovate report on regulatory divergence and technological convergence across ten fintech subsectors, covering themes like agentic AI, stablecoins, and embedded finance with compliance strategy takeaways.",
+    "tags": [
+      "fintech",
+      "regulation"
+    ]
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Fintech in ASEAN 2025.pdf",
     "title": "Fintech in ASEAN 2025",
     "summary": "Overview of the 2025 fintech landscape across ASEAN, with ecosystem growth, investment, and regulatory highlights.",
@@ -552,6 +581,15 @@
     "title": "Pricing Guide for B2B SaaS Founders",
     "summary": "Guide for B2B SaaS founders on building effective pricing strategies.",
     "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/RFI Global - Trends and Predictions 2026 (Financial Services).pdf",
+    "title": "RFI Global - Trends and Predictions 2026 (Financial Services)",
+    "summary": "RFI Global analysis of five trends shaping 2026 financial services, spanning trust in AI, digital UX competition, neobank maturity, fraud and cybersecurity, and wealth growth.",
+    "tags": [
+      "market research",
+      "financial services"
+    ]
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Reimagining Everyday Banking Products - Oct 2025.pdf",
@@ -724,6 +762,16 @@
       "payments",
       "adoption",
       "latin america"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/EU T+1 Industry Committee - Guides & Resources (2025).pdf",
+    "title": "EU T+1 Industry Committee - Guides & Resources (2025)",
+    "summary": "Compilation of EU T+1 Industry Committee guidance and updates to support the transition to T+1 securities settlement, covering partial settlement, SSIs, SFTs, FX considerations, and governance.",
+    "tags": [
+      "t+1",
+      "settlement",
+      "eu"
     ]
   },
   {
@@ -1098,6 +1146,15 @@
     "title": "myths of blockchain governance",
     "summary": "Academic paper debunking myths around blockchain governance.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/BIS/BIS - How Deposits Can Harness Tokenisation (Nov 2025).pdf",
+    "title": "BIS - How Deposits Can Harness Tokenisation",
+    "summary": "BIS speech from the Singapore Fintech Festival on tokenised deposits, the two-tier monetary system, and the implications of tokenisation for financial infrastructure and stability.",
+    "tags": [
+      "tokenization",
+      "deposits"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/GFTN/GFTN - Global Digital Assets Report.pdf",

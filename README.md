@@ -108,6 +108,7 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - Unknown/
 - Tokenization_Blockchain_and_Digital_Assets/
   - Academic/
+  - BIS/
   - GFTN/
   - IOSCO/
   - Industry/
