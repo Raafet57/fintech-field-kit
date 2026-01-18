@@ -349,6 +349,16 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026).pdf",
+    "title": "CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026)",
+    "summary": "CRS overview of Federal Reserve responsibilities and policy issues for the 119th Congress, covering monetary policy, supervision, payment systems oversight, lender-of-last-resort, and governance topics.",
+    "tags": [
+      "federal reserve",
+      "monetary policy",
+      "us policy"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/NIST IR 8408 - Understanding Stablecoin Technology and Related Security Considerations.pdf",
     "title": "NIST IR 8408 - Understanding Stablecoin Technology and Related Security Considerations",
     "summary": "NIST guide to stablecoin architectures, implementation models, and key security considerations.",
@@ -476,6 +486,15 @@
     "title": "McKinsey - Global Payments Report 2025",
     "summary": "McKinsey 2025 global payments outlook on competing systems, revenue shifts, and strategic implications.",
     "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey - How Retail Banks Build Strategic Distance (Dec 2025).pdf",
+    "title": "McKinsey - How Retail Banks Build Strategic Distance (Dec 2025)",
+    "summary": "McKinsey Financial Services Practice article on aligning strengths and priorities to build long-term differentiation and value in retail banking amid valuation headwinds.",
+    "tags": [
+      "retail banking",
+      "strategy"
+    ]
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey_ 2025 global banking review.pdf",
@@ -689,6 +708,16 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/CPMI/CPMI Brief 9 - Safety and efficiency through payment pre-validation (Nov 2025).pdf",
+    "title": "CPMI Brief 9 - Safety and efficiency through payment pre-validation (Nov 2025)",
+    "summary": "CPMI brief explaining payment pre-validation approaches that flag issues before funds move, improving safety and efficiency across payment systems.",
+    "tags": [
+      "payments",
+      "risk",
+      "pre-validation"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/CPMI/Harmonised ISO 20022 Data Requirements for Cross-Border Payments - CPMI Oct 2023.pdf",
     "title": "Harmonised ISO 20022 Data Requirements for Cross-Border Payments - CPMI Oct 2023",
     "summary": "CPMI guidance on harmonized ISO 20022 data for cross-border payments.",
@@ -779,6 +808,16 @@
     "title": "Europe Payment Fraud Report",
     "summary": "Europe-focused payments fraud report covering trends and control themes.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/MPRA Paper 126747 - The Digital Leap: Assessing the Impact of Payment Technologies on Currency Choices in Cambodia (Aug 2025).pdf",
+    "title": "MPRA Paper 126747 - The Digital Leap: Assessing the Impact of Payment Technologies on Currency Choices in Cambodia (Aug 2025)",
+    "summary": "MPRA paper analyzing how digital payment adoption affects local currency usage in Cambodia, combining a theoretical model with survey-based econometric evidence.",
+    "tags": [
+      "payments",
+      "cambodia",
+      "currency"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard Digital Payment Security Standard (Dec 2025).pdf",
@@ -969,6 +1008,16 @@
     "title": "IMF FinTech Note 2025-010 - Financial Integrity Implications of Retail CBDCs",
     "summary": "IMF FinTech Note (Nov 2025) examining financial integrity implications and controls for retail CBDCs.",
     "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/IMF/IMF Working Paper 26-5 - From Par to Pressure: Liquidity, Redemptions, and Fire Sales with a Systemic Stablecoin (Jan 2026).pdf",
+    "title": "IMF Working Paper 26-5 - From Par to Pressure: Liquidity, Redemptions, and Fire Sales with a Systemic Stablecoin (Jan 2026)",
+    "summary": "IMF working paper modeling how systemic stablecoin redemptions can trigger fire sales and feedback loops, and how design choices such as buffers and reserve composition mitigate risk.",
+    "tags": [
+      "stablecoins",
+      "imf",
+      "financial stability"
+    ]
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/Imf cbdc.pdf",
@@ -1227,6 +1276,16 @@
     "title": "HSBC - Asset Tokenisation in the Quantum Age",
     "summary": "HSBC paper on tokenizing gold with post-quantum security considerations and architecture for resilient tokenized assets.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/I-SODA - Interoperability Standards for Digital Assets White Paper (Jan 2026).pdf",
+    "title": "I-SODA - Interoperability Standards for Digital Assets White Paper (Jan 2026)",
+    "summary": "White paper from the Interoperability Group/I-SODA community on why global interoperability standards for digital assets are needed and how to develop them, with contributions from industry groups.",
+    "tags": [
+      "interoperability",
+      "tokenization",
+      "standards"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Irish Funds - Tokenised Funds Operational Considerations.pdf",
