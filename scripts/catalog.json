@@ -1,5 +1,14 @@
 [
   {
+    "path": "AI_and_Digital_Transformation/Academic/BizFinBench v2 - Expert-Level Financial Capability Alignment Benchmark.pdf",
+    "title": "BizFinBench v2 - Expert-Level Financial Capability Alignment Benchmark",
+    "summary": "Academic benchmark for evaluating LLM financial capability alignment across bilingual tasks, with datasets and metrics for expert-level finance reasoning.",
+    "tags": [
+      "ai",
+      "benchmark"
+    ]
+  },
+  {
     "path": "AI_and_Digital_Transformation/IBM/IBM - The race for ROI.pdf",
     "title": "IBM - The race for ROI",
     "summary": "IBM take on how enterprises can drive measurable ROI from AI deployments.",
@@ -18,10 +27,28 @@
     "tags": []
   },
   {
+    "path": "AI_and_Digital_Transformation/Industry/Notion - The Future of Product Development Report.pdf",
+    "title": "Notion - The Future of Product Development Report",
+    "summary": "Notion and Censuswide survey on product development workflows, knowledge centralization, and AI usage gaps, with recommendations for engineering, product, and design teams.",
+    "tags": [
+      "ai",
+      "product"
+    ]
+  },
+  {
     "path": "AI_and_Digital_Transformation/OECD/Artificial Intelligence in Asias Financial Sector - OECD WP50.pdf",
     "title": "Artificial Intelligence in Asias Financial Sector - OECD WP50",
     "summary": "OECD survey of AI policies and adoption across Asia\u2019s financial sector.",
     "tags": []
+  },
+  {
+    "path": "AI_and_Digital_Transformation/Reports/Chief Data Officer's Guide to Digital Transformation.pdf",
+    "title": "Chief Data Officer's Guide to Digital Transformation",
+    "summary": "Guide for CDOs on data centralization, infrastructure modernization, data democratization, and building data-driven solutions.",
+    "tags": [
+      "data",
+      "transformation"
+    ]
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/Data Governance Fundamentals - Dec 2025.pdf",
@@ -88,6 +115,24 @@
     "tags": []
   },
   {
+    "path": "AI_and_Digital_Transformation/Reports/Yanosy - Universal Meta Prompts for Governing AI Reasoning.pdf",
+    "title": "Yanosy - Universal Meta Prompts for Governing AI Reasoning",
+    "summary": "Framework and prompt templates for governing AI reasoning within knowledge frameworks to improve consistency and oversight.",
+    "tags": [
+      "ai",
+      "prompting"
+    ]
+  },
+  {
+    "path": "AI_and_Digital_Transformation/WEF/WEF - Rethinking AI Sovereignty - Pathways to Competitiveness through Strategic Investments (Jan 2026).pdf",
+    "title": "WEF - Rethinking AI Sovereignty: Pathways to Competitiveness through Strategic Investments",
+    "summary": "World Economic Forum white paper (with Bain & Company) on AI sovereignty, investment patterns, and policy strategies to build national competitiveness.",
+    "tags": [
+      "ai",
+      "policy"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/ADCX_Lab/ssrn-5634150 (1).pdf",
     "title": "ssrn-5634150 (1)",
     "summary": "ADCX Lab report on connecting banking systems with blockchain for compliance (ISO 20022).",
@@ -138,6 +183,15 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/ESMA/ESMA - Data Strategy 2023-2028 (2025 Update).pdf",
+    "title": "ESMA - Data Strategy 2023-2028 (2025 Update)",
+    "summary": "ESMA update outlining data governance priorities, implementation milestones, and capabilities needed through 2028.",
+    "tags": [
+      "regulation",
+      "data"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/EU_Law/Directive (EU) 2015-2366 PSD2.pdf",
     "title": "Directive (EU) 2015-2366 PSD2",
     "summary": "Full PSD2 text setting EU payment services rules, third-party access, consumer protection, and security/strong authentication requirements.",
@@ -184,6 +238,15 @@
     "title": "Elliptic - Global Crypto Regulation Review 2025",
     "summary": "Elliptic's 2025 review of crypto regulation across the Americas, EMEA, and APAC with key country updates and compliance takeaways for exchanges and financial institutions.",
     "tags": []
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/FINMA/FINMA - Guidance 01-2026 - Custody of Crypto-based Assets.pdf",
+    "title": "FINMA - Guidance 01-2026: Custody of Crypto-based Assets",
+    "summary": "FINMA guidance on custody arrangements, segregation, risk management, and supervision expectations for crypto-asset custodians.",
+    "tags": [
+      "regulation",
+      "crypto"
+    ]
   },
   {
     "path": "Compliance_Risk_and_Standards/FSB/FSB - Global Regulatory Framework for Crypto-Asset Activities - Umbrella Note.pdf",
@@ -258,10 +321,46 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/Reports/Acceleron & Payment Labs - Leveraging ISO 20022's Full Potential.pdf",
+    "title": "Acceleron & Payment Labs - Leveraging ISO 20022's Full Potential",
+    "summary": "Explains how ISO 20022 data can drive automation, compliance, and new revenue opportunities in payment operations.",
+    "tags": [
+      "iso20022",
+      "payments"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/Reports/Chartis & Regnology - Regulatory Reporting in 2025 - A New Era of Standardization.pdf",
+    "title": "Chartis & Regnology - Regulatory Reporting in 2025: A New Era of Standardization",
+    "summary": "Assessment of the 2025 regulatory reporting landscape, standardization trends, and RegTech tooling for compliance teams.",
+    "tags": [
+      "regtech",
+      "reporting"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/Reports/Crypto Kleptocracy.pdf",
     "title": "Crypto Kleptocracy",
     "summary": "Overview of kleptocracy-linked and illicit activity risks in crypto ecosystems.",
     "tags": []
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/Reports/FFEdu - TBML Enters the Stablecoin Settlement Layer Era (2025 Observation Brief).pdf",
+    "title": "FFEdu - TBML Enters the Stablecoin Settlement Layer Era",
+    "summary": "Observation brief on trade-based money laundering risks emerging in stablecoin settlement layers, with typologies and control considerations.",
+    "tags": [
+      "aml",
+      "stablecoins"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/Reports/GFT & WYNXX - Going Beyond Payments Compliance (ISO 20022).pdf",
+    "title": "GFT & WYNXX - Going Beyond Payments Compliance (ISO 20022)",
+    "summary": "ISO 20022 adoption playbook for paytechs and banks, covering compliance needs, data requirements, and implementation guidance.",
+    "tags": [
+      "iso20022",
+      "compliance"
+    ]
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/Outcome_ISC2508SF002968_02.pdf",
@@ -359,6 +458,15 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/Latham & Watkins - 10 Key Focus Areas for US Bank Regulators in 2026.pdf",
+    "title": "Latham & Watkins - 10 Key Focus Areas for US Bank Regulators in 2026",
+    "summary": "Legal and regulatory outlook on 2026 U.S. bank supervision priorities, including stress testing, charters, AML, and digital asset oversight.",
+    "tags": [
+      "regulation",
+      "us"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/NIST IR 8408 - Understanding Stablecoin Technology and Related Security Considerations.pdf",
     "title": "NIST IR 8408 - Understanding Stablecoin Technology and Related Security Considerations",
     "summary": "NIST guide to stablecoin architectures, implementation models, and key security considerations.",
@@ -434,6 +542,18 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Academic/Kakushadze & Serur - Trading Strategies (SSRN 3247865, 2018).pdf",
+    "title": "Kakushadze & Serur - Trading Strategies (SSRN 3247865)",
+    "summary": "SSRN academic paper surveying trading strategies and their performance characteristics across markets.",
+    "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Accenture/Accenture - Top Banking Trends 2026 (Unconstrained Banking).pdf",
+    "title": "Accenture - Top Banking Trends 2026 (Unconstrained Banking)",
+    "summary": "Accenture's 2026 banking trends report on technology, operating model shifts, and competitive imperatives.",
+    "tags": []
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/BCG/BCG - State of Fintech Q3 2025 - Digital Assets Deep Dive.pdf",
     "title": "BCG - State of Fintech Q3 2025 - Digital Assets Deep Dive",
     "summary": "BCG Q3 2025 deep dive on digital assets and fintech state.",
@@ -443,6 +563,12 @@
     "path": "Market_Research_and_Fintech_Landscapes/BIS/BIS_ Big techs, credit, and digital money.pdf",
     "title": "BIS_ Big techs, credit, and digital money",
     "summary": "BIS report on big tech involvement in credit and digital money.",
+    "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Binance/Binance - State of the Blockchain 2025 Year in Review.pdf",
+    "title": "Binance - State of the Blockchain 2025 Year in Review",
+    "summary": "Binance annual review of crypto market milestones, adoption metrics, and regulatory/compliance developments in 2025.",
     "tags": []
   },
   {
@@ -702,6 +828,12 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS Working Paper 1112 - Trust Bridges and Money Flows (Jul 2023).pdf",
+    "title": "BIS Working Paper 1112 - Trust Bridges and Money Flows",
+    "summary": "BIS working paper on cross-border payments, trust frictions, and how network structures shape money flows.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/BIS_SNB/othp104.pdf",
     "title": "othp104",
     "summary": "BIS-SNB study on operational aspects of payment systems (othp104).",
@@ -775,6 +907,12 @@
     "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - RTGS Renewal Programme.pdf",
     "title": "Bank of England - RTGS Renewal Programme",
     "summary": "Overview of the Bank of England's RTGS renewal programme, objectives, and implementation roadmap.",
+    "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Celent - SEPA Instant Adoption in Europe (Build It and They Will Come).pdf",
+    "title": "Celent - SEPA Instant Adoption in Europe (Build It and They Will Come)",
+    "summary": "Celent research on SCT Inst adoption, market readiness, and projected volume growth across European institutions.",
     "tags": []
   },
   {
@@ -872,6 +1010,12 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/SIX/SIX Interbank Clearing - Instant Payments Bridge (IPB) Rough Concept (Jan 2026).pdf",
+    "title": "SIX Interbank Clearing - Instant Payments Bridge (IPB) Rough Concept",
+    "summary": "Market consultation document describing a possible Instant Payments Bridge (IPB) implementation, use cases, and design options.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/Global Currency Access-The End of Correspondent Dependency.pdf",
     "title": "Global Currency Access-The End of Correspondent Dependency",
     "summary": "UNITE Global vision for reducing correspondent banking dependency for currency access.",
@@ -932,6 +1076,12 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Financial Institutions, Fintechs and the Gray Area.pdf",
+    "title": "Visa - Financial Institutions, Fintechs and the Gray Area",
+    "summary": "Visa market scan on bank\u2013fintech convergence, overlapping offerings, and partnership strategies.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Fiscal 2025 Annual Report.pdf",
     "title": "Visa - Fiscal 2025 Annual Report",
     "summary": "Visa's FY2025 annual report covering financials, network strategy, risk and compliance topics, and product priorities.",
@@ -944,6 +1094,12 @@
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Global Payments and Fraud Report 2025.pdf",
     "title": "Visa - Global Payments and Fraud Report 2025",
     "summary": "Visa\u2019s 2025 survey on eCommerce payments performance and fraud trends.",
+    "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/World_Bank/World Bank - A Comparative Methodology for Measuring Supply-Side Domestic Payment Costs (Pilot Study).pdf",
+    "title": "World Bank - A Comparative Methodology for Measuring Supply-Side Domestic Payment Costs (Pilot Study)",
+    "summary": "World Bank pilot methodology for measuring domestic payment costs and benchmarking supply-side pricing components.",
     "tags": []
   },
   {
@@ -965,6 +1121,12 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Academic/Wharton - The Stablecoin Toolkit Part I (Jan 2026).pdf",
+    "title": "Wharton - The Stablecoin Toolkit Part I",
+    "summary": "Wharton toolkit covering stablecoin market structure, risks, and financial/market dimensions.",
+    "tags": []
+  },
+  {
     "path": "Stablecoins_and_CBDC/Academic/Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025).pdf",
     "title": "Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025)",
     "summary": "Academic-style analysis weighing whether USDC could replace SWIFT for cross-border payments, contrasting speed and cost benefits with regulatory and operational risks.",
@@ -974,6 +1136,12 @@
     "path": "Stablecoins_and_CBDC/BIS/BIS Working Paper 1301 - Competing Digital Monies.pdf",
     "title": "BIS Working Paper 1301 - Competing Digital Monies",
     "summary": "BIS working paper on competition among digital monies and platform dynamics.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/ECB/ECB Working Paper 3174 - Private Money and Public Debt - US Stablecoins and the Global Safe Asset Channel.pdf",
+    "title": "ECB Working Paper 3174 - Private Money and Public Debt: US Stablecoins and the Global Safe Asset Channel",
+    "summary": "ECB working paper on the macro-financial implications of U.S. dollar-backed stablecoins and the global safe asset channel.",
     "tags": []
   },
   {
@@ -1101,6 +1269,12 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/GDF - Global Stablecoin Regulatory Playbook (Jan 2026).pdf",
+    "title": "GDF - Global Stablecoin Regulatory Playbook",
+    "summary": "Global Digital Finance playbook outlining regulatory considerations and policy recommendations for stablecoin issuance and oversight.",
+    "tags": []
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/How Stablecoins Can Improve Payments and Global Finance.pdf",
     "title": "How Stablecoins Can Improve Payments and Global Finance",
     "summary": "Explains how well-designed stablecoins could lower payment costs and expand access to global finance while addressing risk controls.",
@@ -1215,6 +1389,12 @@
     "path": "Tokenization_Blockchain_and_Digital_Assets/GFTN/GFTN Global Digital Assets Report.pdf",
     "title": "GFTN Global Digital Assets Report",
     "summary": "GFTN companion report on digital asset developments worldwide.",
+    "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/IMF/IMF Working Paper 25-186 - Blockchain Consensus Mechanisms - A Primer for Supervisors (2025 Update).pdf",
+    "title": "IMF Working Paper 25-186 - Blockchain Consensus Mechanisms: A Primer for Supervisors",
+    "summary": "IMF working paper primer on blockchain consensus mechanisms and supervisory implications, with comparative analysis.",
     "tags": []
   },
   {
@@ -1389,6 +1569,12 @@
       "digital assets",
       "new zealand"
     ]
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/SEC - Statement on Tokenized Securities (Jan 2026).pdf",
+    "title": "SEC - Statement on Tokenized Securities",
+    "summary": "SEC staff statement clarifying application of U.S. securities laws to tokenized securities and related market participants.",
+    "tags": []
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/Trump and Cryptocurrency.pdf",

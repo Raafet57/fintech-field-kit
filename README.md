@@ -1,6 +1,6 @@
 # Papers 2025 — Fintech & Digital Money Library
 
-A neatly sorted stash of 2024–2025 papers on stablecoins, CBDCs, tokenization, real-time payments, FX, core banking, and compliance. Built for curious bankers, regulators, builders, and consultants who want to look smart on Zoom with minimal effort.
+A neatly sorted stash of 2024–2026 papers on stablecoins, CBDCs, tokenization, real-time payments, FX, core banking, and compliance. Built for curious bankers, regulators, builders, and consultants who want to look smart on Zoom with minimal effort.
 
 ## What’s inside
 - Stablecoins & CBDC: policy, design, and regulatory takes (ECB, IMF, independent voices).
@@ -37,11 +37,13 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
 ## Repo Tree (snapshot)
 <!-- TREE-START -->
 - AI_and_Digital_Transformation/
+  - Academic/
   - IBM/
   - IMF/
   - Industry/
   - OECD/
   - Reports/
+  - WEF/
 - Compliance_Risk_and_Standards/
   - ADCX_Lab/
   - Academic/
@@ -49,8 +51,10 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - BAFT/
   - BCBS/
   - Belgium_Parliament/
+  - ESMA/
   - EU_Law/
   - Elliptic/
+  - FINMA/
   - FSB/
   - FSOC/
   - FinCEN/
@@ -76,8 +80,11 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
 - FX_and_Currency_Strategy/
   - UNITE_Global/
 - Market_Research_and_Fintech_Landscapes/
+  - Academic/
+  - Accenture/
   - BCG/
   - BIS/
+  - Binance/
   - CEPR/
   - Central_Banks/
   - Deloitte/
@@ -93,11 +100,14 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - EPC/
   - MallaPayments/
   - Reports/
+  - SIX/
   - UNITE_Global/
   - Visa/
+  - World_Bank/
 - Stablecoins_and_CBDC/
   - Academic/
   - BIS/
+  - ECB/
   - ECB_Ulrich_Bindseil/
   - IMF/
   - Independent/
@@ -110,6 +120,7 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - Academic/
   - BIS/
   - GFTN/
+  - IMF/
   - IOSCO/
   - Industry/
   - MAS_FCA_DeutscheBank_Schroder/
