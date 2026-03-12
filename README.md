@@ -50,6 +50,7 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - Adeel_Mirza/
   - BAFT/
   - BCBS/
+  - BIS/
   - Belgium_Parliament/
   - China/
   - ESMA/

@@ -42,6 +42,12 @@
     ]
   },
   {
+    "path": "AI_and_Digital_Transformation/Industry/Sequoia Capital - 2026 This Is AGI (Jan 2026).pdf",
+    "title": "Sequoia Capital - 2026 This Is AGI (Jan 2026)",
+    "summary": "Sequoia Capital essay arguing 2026 marks the arrival of AGI, with implications for research, product strategy, and the pace of adoption.",
+    "tags": []
+  },
+  {
     "path": "AI_and_Digital_Transformation/Industry/Standard Chartered - Scaling AI in Banking.pdf",
     "title": "Standard Chartered - Scaling AI in Banking",
     "summary": "Brief on scaling AI in banking, focusing on data readiness, transparency requirements, and post-deployment monitoring considerations.",
@@ -184,6 +190,12 @@
     "path": "Compliance_Risk_and_Standards/BCBS/Machine-readable Pillar 3 Disclosure - Basel Committee Dec 2025.pdf",
     "title": "Machine-readable Pillar 3 Disclosure - Basel Committee Dec 2025",
     "summary": "BCBS consultative document on machine-readable Pillar 3 disclosures for banks.",
+    "tags": []
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/BIS/BIS Papers 166 - From Cash to Crypto - Regulatory Approach to Illicit Payments (Mar 2026).pdf",
+    "title": "BIS Papers 166 - From Cash to Crypto - Regulatory Approach to Illicit Payments (Mar 2026)",
+    "summary": "BIS paper on illicit payments across cash and crypto, proposing a consistent regulatory approach and discussing AML/CFT implications for CBDCs and stablecoins.",
     "tags": []
   },
   {
@@ -435,6 +447,12 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/SWIFT/SWIFT - CBPR+ Structured Postal Address Guide (2026).pdf",
+    "title": "SWIFT - CBPR+ Structured Postal Address Guide (2026)",
+    "summary": "SWIFT guidance on structured postal addresses for CBPR+ and ISO 20022 compliance ahead of the 2026 migration deadline.",
+    "tags": []
+  },
+  {
     "path": "Compliance_Risk_and_Standards/SWIFT/SWIFT - ISO 20022 for Dummies 6th Edition Dec 2022.pdf",
     "title": "SWIFT - ISO 20022 for Dummies 6th Edition Dec 2022",
     "summary": "Plain-language primer on ISO 20022, explaining the standard, migration timelines, and message use cases.",
@@ -608,6 +626,12 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/BIS/BIS - Annual Economic Report 2025 Chapter III - The Next-Generation Monetary and Financial System.pdf",
+    "title": "BIS - Annual Economic Report 2025 Chapter III - The Next-Generation Monetary and Financial System",
+    "summary": "BIS Annual Economic Report 2025 Chapter III on the evolution of the monetary and financial system and the role of new digital infrastructures.",
+    "tags": []
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/BIS/BIS_ Big techs, credit, and digital money.pdf",
     "title": "BIS_ Big techs, credit, and digital money",
     "summary": "BIS report on big tech involvement in credit and digital money.",
@@ -629,6 +653,12 @@
     "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/BOC - The Costs of Electronic Retail Payment Networks.pdf",
     "title": "BOC - The Costs of Electronic Retail Payment Networks",
     "summary": "Central bank research on the cost economics of electronic retail payment networks.",
+    "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/Bank of Canada - Project Samara Research Paper (SAP 2026-8).pdf",
+    "title": "Bank of Canada - Project Samara Research Paper (SAP 2026-8)",
+    "summary": "Bank of Canada staff analytical paper describing Project Samara, with design findings and experiments involving industry participants.",
     "tags": []
   },
   {
@@ -888,6 +918,12 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS Papers 152 - Faster Digital Payments - Global and Regional Perspectives (Dec 2024).pdf",
+    "title": "BIS Papers 152 - Faster Digital Payments - Global and Regional Perspectives (Dec 2024)",
+    "summary": "BIS Papers No. 152 reviewing faster digital payments globally and regionally, covering adoption drivers and system design lessons.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS Working Paper 1112 - Trust Bridges and Money Flows (Jul 2023).pdf",
     "title": "BIS Working Paper 1112 - Trust Bridges and Money Flows",
     "summary": "BIS working paper on cross-border payments, trust frictions, and how network structures shape money flows.",
@@ -897,6 +933,12 @@
     "path": "Payments_RealTime_and_Liquidity/BIS_SNB/othp104.pdf",
     "title": "othp104",
     "summary": "BIS-SNB study on operational aspects of payment systems (othp104).",
+    "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/CPMI/CPMI - Harmonised ISO 20022 Data Requirements for Cross-Border Payments (Feb 2026).pdf",
+    "title": "CPMI - Harmonised ISO 20022 Data Requirements for Cross-Border Payments (Feb 2026)",
+    "summary": "Updated CPMI report on harmonised ISO 20022 data requirements to improve cross-border payments (Feb 2026).",
     "tags": []
   },
   {
@@ -976,6 +1018,12 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Crunchfish - Offline Payments at Scale as Digital Money (Mar 2026).pdf",
+    "title": "Crunchfish - Offline Payments at Scale as Digital Money (Mar 2026)",
+    "summary": "Crunchfish whitepaper on offline payments as digital money, outlining architectures and trade-offs for scalable offline capability.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Data Tagging - Turning Treasury Transactions into Insights - Priscila Nagalli.pdf",
     "title": "Data Tagging - Turning Treasury Transactions into Insights - Priscila Nagalli",
     "summary": "Guide to data tagging treasury transactions to generate insights.",
@@ -1033,6 +1081,12 @@
     "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard Digital Payment Security Standard (Dec 2025).pdf",
     "title": "Mastercard Digital Payment Security Standard (Dec 2025)",
     "summary": "Mastercard whitepaper detailing its digital payment security standard for safer online payments.",
+    "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Payments Forward Plan (Feb 2026).pdf",
+    "title": "Payments Forward Plan (Feb 2026)",
+    "summary": "Payments Forward Plan (Feb 2026) outlining priorities and initiatives for payments modernization and infrastructure.",
     "tags": []
   },
   {
