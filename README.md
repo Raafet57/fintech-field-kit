@@ -51,6 +51,7 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - BAFT/
   - BCBS/
   - Belgium_Parliament/
+  - China/
   - ESMA/
   - EU_Law/
   - Elliptic/
@@ -78,6 +79,7 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - Reports/
   - Zafin/
 - FX_and_Currency_Strategy/
+  - SWIFT/
   - UNITE_Global/
 - Market_Research_and_Fintech_Landscapes/
   - Academic/
@@ -94,6 +96,7 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - WEF/
 - Payments_RealTime_and_Liquidity/
   - AFP/
+  - Academic/
   - BIS/
   - BIS_SNB/
   - CPMI/

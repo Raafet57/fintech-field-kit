@@ -27,6 +27,12 @@
     "tags": []
   },
   {
+    "path": "AI_and_Digital_Transformation/Industry/Anthropic - How Teams Use Claude Code.pdf",
+    "title": "Anthropic - How Teams Use Claude Code",
+    "summary": "Overview of how Anthropic teams use Claude Code to streamline workflows, automate tasks, and bridge skill gaps across technical and non-technical roles.",
+    "tags": []
+  },
+  {
     "path": "AI_and_Digital_Transformation/Industry/Notion - The Future of Product Development Report.pdf",
     "title": "Notion - The Future of Product Development Report",
     "summary": "Notion and Censuswide survey on product development workflows, knowledge centralization, and AI usage gaps, with recommendations for engineering, product, and design teams.",
@@ -36,9 +42,21 @@
     ]
   },
   {
+    "path": "AI_and_Digital_Transformation/Industry/Standard Chartered - Scaling AI in Banking.pdf",
+    "title": "Standard Chartered - Scaling AI in Banking",
+    "summary": "Brief on scaling AI in banking, focusing on data readiness, transparency requirements, and post-deployment monitoring considerations.",
+    "tags": []
+  },
+  {
     "path": "AI_and_Digital_Transformation/OECD/Artificial Intelligence in Asias Financial Sector - OECD WP50.pdf",
     "title": "Artificial Intelligence in Asias Financial Sector - OECD WP50",
     "summary": "OECD survey of AI policies and adoption across Asia\u2019s financial sector.",
+    "tags": []
+  },
+  {
+    "path": "AI_and_Digital_Transformation/OECD/OECD - Due Diligence Guidance for Responsible AI.pdf",
+    "title": "OECD - Due Diligence Guidance for Responsible AI",
+    "summary": "OECD guidance outlining due-diligence practices for responsible AI, including risk identification, mitigation, and accountability expectations.",
     "tags": []
   },
   {
@@ -63,6 +81,12 @@
     "path": "AI_and_Digital_Transformation/Reports/IFZ - Future of Technology in Finance - IT Architecture Roadmap.pdf",
     "title": "IFZ - Future of Technology in Finance - IT Architecture Roadmap",
     "summary": "IFZ roadmap for modern finance IT architectures and infrastructures, covering integration patterns, data, cloud, and security foundations for banks and fintechs.",
+    "tags": []
+  },
+  {
+    "path": "AI_and_Digital_Transformation/Reports/IMD - Winning with AI (2025).pdf",
+    "title": "IMD - Winning with AI (2025)",
+    "summary": "IMD playbook for leaders on moving from AI strategy to execution, with examples of function-level use cases and operating model shifts.",
     "tags": []
   },
   {
@@ -181,6 +205,12 @@
       "payments",
       "belgium"
     ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/China/PBOC - Notice on Virtual Currencies (2026).pdf",
+    "title": "PBOC - Notice on Virtual Currencies (2026)",
+    "summary": "Official PBOC notice on virtual currencies, documenting policy language and compliance expectations for related activities (2026).",
+    "tags": []
   },
   {
     "path": "Compliance_Risk_and_Standards/ESMA/ESMA - Data Strategy 2023-2028 (2025 Update).pdf",
@@ -375,6 +405,12 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/Reports/PwC - Global Crypto Regulation Report 2026 (Jan 2026).pdf",
+    "title": "PwC - Global Crypto Regulation Report 2026 (Jan 2026)",
+    "summary": "PwC\u2019s fourth-edition global survey of crypto regulation, covering stablecoins, standards-setter views, EU MiCAR/DORA implementation, and jurisdictional updates.",
+    "tags": []
+  },
+  {
     "path": "Compliance_Risk_and_Standards/SFFIPP/SFFIPP - Fraud Related to Virtual IBAN (Dec 2025).pdf",
     "title": "SFFIPP - Fraud Related to Virtual IBAN",
     "summary": "Newsletter highlighting rising misuse of virtual IBANs and recommending due diligence, monitoring controls, and risk indicators for issuers and intermediaries.",
@@ -448,6 +484,12 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/UK/Lexology - Panoramic Cryptoassets and Blockchain (UK).pdf",
+    "title": "Lexology - Panoramic Cryptoassets and Blockchain (UK)",
+    "summary": "Lexology Panoramic report summarizing the UK legal and regulatory landscape for cryptoassets and blockchain, with topical snapshots.",
+    "tags": []
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026).pdf",
     "title": "CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026)",
     "summary": "CRS overview of Federal Reserve responsibilities and policy issues for the 119th Congress, covering monetary policy, supervision, payment systems oversight, lender-of-last-resort, and governance topics.",
@@ -515,6 +557,12 @@
     "path": "Core_Banking_and_Lending_Modernization/Zafin/Core Modernization Playbook.pdf",
     "title": "Core Modernization Playbook",
     "summary": "Zafin playbook for core banking modernization and product agility.",
+    "tags": []
+  },
+  {
+    "path": "FX_and_Currency_Strategy/SWIFT/SWIFT - RMB Tracker (Feb 2026).pdf",
+    "title": "SWIFT - RMB Tracker (Feb 2026)",
+    "summary": "Monthly SWIFT Business Intelligence report tracking RMB internationalization metrics and payment share trends (Feb 2026).",
     "tags": []
   },
   {
@@ -665,6 +713,12 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/EFG - Outlook 2026.pdf",
+    "title": "EFG - Outlook 2026",
+    "summary": "EFG\u2019s annual outlook presenting top 10 themes for 2026 and a review of 2025 predictions across macro and geopolitical topics.",
+    "tags": []
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/FinTech District - Italian Fintech Map 2025.pdf",
     "title": "FinTech District - Italian Fintech Map 2025",
     "summary": "Comprehensive map of Italy\u2019s 2025 fintech ecosystem, profiling sectors, companies, investors, and growth trends.",
@@ -779,6 +833,12 @@
     "path": "Payments_RealTime_and_Liquidity/AFP/2025 AFP Payments Fraud Report .pdf",
     "title": "2025 AFP Payments Fraud Report ",
     "summary": "AFP 2025 report on payments fraud trends and threats.",
+    "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Academic/UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026).pdf",
+    "title": "UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026)",
+    "summary": "Academic paper on legal and regulatory challenges of interlinking fast payment systems, highlighting cross-border governance and compliance gaps.",
     "tags": []
   },
   {
@@ -932,6 +992,12 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/EU - T+1 Securities Settlement Handbook (Feb 2026).pdf",
+    "title": "EU - T+1 Securities Settlement Handbook (Feb 2026)",
+    "summary": "EU handbook outlining the transition to T+1 securities settlement, its risk-reduction rationale, and implementation considerations.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/EU T+1 Industry Committee - Guides & Resources (2025).pdf",
     "title": "EU T+1 Industry Committee - Guides & Resources (2025)",
     "summary": "Compilation of EU T+1 Industry Committee guidance and updates to support the transition to T+1 securities settlement, covering partial settlement, SSIs, SFTs, FX considerations, and governance.",
@@ -945,6 +1011,12 @@
     "path": "Payments_RealTime_and_Liquidity/Reports/Europe Payment Fraud Report.pdf",
     "title": "Europe Payment Fraud Report",
     "summary": "Europe-focused payments fraud report covering trends and control themes.",
+    "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/FASTT - ID Meets Instant - Enabling Trusted, Inclusive Fast Payments through Digital ID (Feb 2026).pdf",
+    "title": "FASTT - ID Meets Instant - Enabling Trusted, Inclusive Fast Payments through Digital ID (Feb 2026)",
+    "summary": "World Bank technical note on enabling fast payments through digital ID, focusing on trust, inclusion, and implementation considerations.",
     "tags": []
   },
   {
@@ -970,6 +1042,12 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Paystand - Top B2B Payment Trends for 2026 and Beyond.pdf",
+    "title": "Paystand - Top B2B Payment Trends for 2026 and Beyond",
+    "summary": "Paystand report on 2026 B2B payment trends such as real-time payments, A2A/open banking, and automation in AR/AP.",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Resilience of the Banking Unions Non-Cash Payment Systems - Nov 2025.pdf",
     "title": "Resilience of the Banking Unions Non-Cash Payment Systems - Nov 2025",
     "summary": "EU study on resilience risks in the Banking Union\u2019s non-cash payment systems, including disruptions from third-country providers and policy recommendations.",
@@ -978,6 +1056,12 @@
       "europe",
       "resilience"
     ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Settlement Layer Deep Dive.pdf",
+    "title": "Settlement Layer Deep Dive",
+    "summary": "Slide deck providing a deep-dive overview of settlement layers and their implications for payment infrastructure and liquidity.",
+    "tags": []
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/The Tipping Point for Innovation in B2B Payments - GBA ASEAN.pdf",
@@ -1209,6 +1293,18 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Independent/Oxford Business Law Blog - What Scottish Banknotes Can Teach Stablecoin Regulators (Feb 2026).pdf",
+    "title": "Oxford Business Law Blog - What Scottish Banknotes Can Teach Stablecoin Regulators (Feb 2026)",
+    "summary": "Short essay using Scottish banknote history to draw lessons for stablecoin regulation and issuer design.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Independent/The Hidden Plumbing of Stablecoins - Risks in the GENIUS Act Era.pdf",
+    "title": "The Hidden Plumbing of Stablecoins - Risks in the GENIUS Act Era",
+    "summary": "Academic paper analyzing financial and technological risks of stablecoins as payment and settlement instruments in the post-GENIUS Act era.",
+    "tags": []
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/2025 Asia Stablecoin Conference - Event Report (Sep 2025).pdf",
     "title": "2025 Asia Stablecoin Conference - Event Report (Sep 2025)",
     "summary": "Recap of the Sept 2025 Asia Stablecoin Conference, sessions, and key takeaways from regulators, banks, and issuers.",
@@ -1224,6 +1320,12 @@
     "path": "Stablecoins_and_CBDC/Industry/2025 Stablecoin Trends in Business and Beyond.pdf",
     "title": "2025 Stablecoin Trends in Business and Beyond",
     "summary": "Survey-driven overview of how financial institutions plan to use stablecoins in 2025, covering opportunities, timelines, and strategies for tokenization and payments.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Industry/Artemis - Stablecoin Payments.pdf",
+    "title": "Artemis - Stablecoin Payments",
+    "summary": "Report on stablecoin payments with methodology, key findings, regional breakdowns, and transaction-type analysis.",
     "tags": []
   },
   {
@@ -1269,6 +1371,12 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/Fidelity Digital Assets - Stablecoins Explained.pdf",
+    "title": "Fidelity Digital Assets - Stablecoins Explained",
+    "summary": "Primer from Fidelity Digital Assets explaining stablecoin basics, mechanics, and key considerations.",
+    "tags": []
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/GDF - Global Stablecoin Regulatory Playbook (Jan 2026).pdf",
     "title": "GDF - Global Stablecoin Regulatory Playbook",
     "summary": "Global Digital Finance playbook outlining regulatory considerations and policy recommendations for stablecoin issuance and oversight.",
@@ -1296,6 +1404,12 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/PCMI - How Banks Can Make Money with Stablecoins (Jun 2025).pdf",
+    "title": "PCMI - How Banks Can Make Money with Stablecoins (Jun 2025)",
+    "summary": "Industry report on how banks can generate revenue with stablecoins through partnerships and product strategies.",
+    "tags": []
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/PayWithZ - Bank-Grade Compliant Stablecoin Infrastructure (Nov 2025).pdf",
     "title": "PayWithZ - Bank-Grade Compliant Stablecoin Infrastructure",
     "summary": "PayWithZ blog arguing for compliance-first stablecoin design for banks and MENA regulators, with emphasis on governance, KYC/AML, and reserve controls.",
@@ -1312,6 +1426,12 @@
       "stablecoins",
       "market research"
     ]
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Industry/S&P Global Ratings - European Banks Are Embracing Stablecoins (Feb 2026).pdf",
+    "title": "S&P Global Ratings - European Banks Are Embracing Stablecoins (Feb 2026)",
+    "summary": "S&P Global Ratings analysis of European banks\u2019 stablecoin adoption, drivers, and potential implications.",
+    "tags": []
   },
   {
     "path": "Stablecoins_and_CBDC/Sveriges_Riksbank/Sveriges Riksbank Staff memo November 2025.pdf",
