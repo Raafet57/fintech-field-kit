@@ -1068,6 +1068,15 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Hybrid Postal Address (Mar 2026).pdf",
+    "title": "Hybrid Postal Address (Mar 2026)",
+    "summary": "Brief on Hybrid Postal Address.",
+    "tags": [
+      "payments",
+      "regulation"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/MPRA Paper 126747 - The Digital Leap: Assessing the Impact of Payment Technologies on Currency Choices in Cambodia (Aug 2025).pdf",
     "title": "MPRA Paper 126747 - The Digital Leap: Assessing the Impact of Payment Technologies on Currency Choices in Cambodia (Aug 2025)",
     "summary": "MPRA paper analyzing how digital payment adoption affects local currency usage in Cambodia, combining a theoretical model with survey-based econometric evidence.",
@@ -1212,6 +1221,18 @@
     "title": "The Rise of Functional Interoperability",
     "summary": "UNITE Global take on achieving functional interoperability in payments.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Appia - paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT (Nov 2024).pdf",
+    "title": "Visa - Appia - paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT (Nov 2024)",
+    "summary": "Brief on Appia - paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "regulation",
+      "policy",
+      "settlement"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Financial Institutions, Fintechs and the Gray Area.pdf",

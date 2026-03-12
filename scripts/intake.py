@@ -14,6 +14,7 @@ Designed to be safe, conservative, and editable.
 from __future__ import annotations
 
 import argparse
+import calendar
 import hashlib
 import json
 import re
@@ -92,6 +93,108 @@ REPORT_HINTS = [
     "white paper", "technical note", "guide", "handbook",
 ]
 
+GENERIC_SUBFOLDERS = {
+    "Academic",
+    "Industry",
+    "Reports",
+    "Independent",
+    "Unknown",
+    "Regulation",
+}
+
+# Common organization aliases used for publisher detection.
+ORG_ALIASES = {
+    "bank for international settlements": "BIS",
+    "bis": "BIS",
+    "international monetary fund": "IMF",
+    "imf": "IMF",
+    "european central bank": "ECB",
+    "ecb": "ECB",
+    "bank of england": "Bank of England",
+    "world bank": "World Bank",
+    "international bank for reconstruction and development": "World Bank",
+    "swift": "SWIFT",
+    "visa": "Visa",
+    "mastercard": "Mastercard",
+    "pwc": "PwC",
+    "bank of canada": "Bank of Canada",
+    "sequoia": "Sequoia Capital",
+    "sequoia capital": "Sequoia Capital",
+    "s&p global": "S&P Global Ratings",
+    "s&p global ratings": "S&P Global Ratings",
+    "federal reserve": "Federal Reserve",
+    "cpmi": "CPMI",
+    "oecd": "OECD",
+    "wef": "WEF",
+    "world economic forum": "WEF",
+}
+
+TAG_RULES = {
+    "payments": [
+        "payment", "payments", "rtgs", "instant", "real-time", "realtime",
+        "faster payments", "settlement", "treasury", "liquidity",
+    ],
+    "stablecoins": ["stablecoin", "stablecoins"],
+    "tokenization": ["tokenization", "tokenised", "tokenized", "security token"],
+    "crypto": ["crypto", "cryptoasset", "crypto asset", "digital asset"],
+    "regulation": ["regulation", "regulatory", "guidance", "act", "directive", "law"],
+    "policy": ["policy"],
+    "iso20022": ["iso 20022", "iso20022"],
+    "cross-border": ["cross-border", "cross border"],
+    "digital identity": ["digital id", "digital identity", "vlei"],
+    "t+1": ["t+1"],
+    "settlement": ["settlement"],
+    "ai": ["artificial intelligence", " ai ", "machine learning", "llm", "agentic", "genai"],
+    "genai": ["genai", "generative ai"],
+    "data": ["data governance", "data strategy", "data management"],
+    "market research": ["outlook", "survey", "year in review", "trends", "state of"],
+    "fintech": ["fintech"],
+    "adoption": ["adoption"],
+    "benchmark": ["benchmark"],
+    "risk": ["risk"],
+    "security": ["security"],
+    "compliance": ["compliance", "aml", "kyc"],
+    "financial crime": ["financial crime", "illicit", "tbml"],
+    "tokenised deposits": ["tokenised deposit", "tokenized deposit"],
+    "uk": ["united kingdom", " uk "],
+    "us": ["united states", " us "],
+    "eu": ["european union", " eu "],
+    "belgium": ["belgium"],
+    "asean": ["asean"],
+    "mena": ["mena", "middle east"],
+    "latin america": ["latin america"],
+    "bis": ["bis", "bank for international settlements"],
+    "imf": ["imf", "international monetary fund"],
+    "visa": ["visa"],
+    "federal reserve": ["federal reserve"],
+}
+
+MONTHS = {
+    "january": "Jan",
+    "jan": "Jan",
+    "february": "Feb",
+    "feb": "Feb",
+    "march": "Mar",
+    "mar": "Mar",
+    "april": "Apr",
+    "apr": "Apr",
+    "may": "May",
+    "june": "Jun",
+    "jun": "Jun",
+    "july": "Jul",
+    "jul": "Jul",
+    "august": "Aug",
+    "aug": "Aug",
+    "september": "Sep",
+    "sep": "Sep",
+    "october": "Oct",
+    "oct": "Oct",
+    "november": "Nov",
+    "nov": "Nov",
+    "december": "Dec",
+    "dec": "Dec",
+}
+
 
 def log(msg: str) -> None:
     print(msg)
@@ -120,19 +223,306 @@ def normalize_filename(name: str) -> str:
     return base
 
 
-def extract_text(path: Path, max_pages: int = 2) -> str:
+def extract_pdf_bundle(path: Path, max_pages: int = 3) -> Tuple[str, List[str], Dict[str, str]]:
     try:
         reader = PyPDF2.PdfReader(str(path))
     except Exception:
-        return ""
+        return "", [], {}
+
+    meta = {}
+    try:
+        meta = reader.metadata or {}
+    except Exception:
+        meta = {}
+
     text_parts: List[str] = []
     for i in range(min(max_pages, len(reader.pages))):
         try:
             text_parts.append(reader.pages[i].extract_text() or "")
         except Exception:
             continue
-    text = " ".join(text_parts)
-    return " ".join(text.split())
+    raw_text = "\n".join(text_parts)
+    clean_text = " ".join(raw_text.split())
+    lines = [line.strip() for line in raw_text.splitlines() if line.strip()]
+    return clean_text, lines, meta
+
+
+def is_generic_title(text: str) -> bool:
+    if not text:
+        return True
+    stripped = text.strip()
+    if len(stripped) < 6:
+        return True
+    if not re.search(r"[A-Za-z]", stripped):
+        return True
+    lowered = stripped.lower()
+    if lowered.startswith("microsoft word") or lowered.startswith("adobe"):
+        return True
+    if lowered.startswith("untitled") or lowered.startswith("document"):
+        return True
+    return False
+
+
+def is_bad_title_line(text: str) -> bool:
+    lowered = text.lower()
+    bad_fragments = [
+        "disclaimer",
+        "all rights reserved",
+        "copyright",
+        "table of contents",
+        "contents",
+        "version",
+        "draft",
+        "confidential",
+        "links from this document",
+        "accepts no responsibility",
+        "no responsibility",
+        "liability",
+        "proceeding to read",
+        "terms",
+        "best endeavours",
+        "www.",
+        "http",
+    ]
+    if any(fragment in lowered for fragment in bad_fragments):
+        return True
+    if re.fullmatch(r"\d+", text.strip()):
+        return True
+    if re.fullmatch(r"(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\\s+20\\d{2}", lowered):
+        return True
+    if len(text) > 160:
+        return True
+    return False
+
+
+def clean_title(text: str) -> str:
+    title = text.strip()
+    title = title.replace("_", " ")
+    title = re.sub(r"\s+", " ", title)
+    title = title.replace("\u2013", "-").replace("\u2014", "-")
+    title = title.strip(" -_")
+    return title
+
+
+def pick_title(filename: str, lines: List[str], meta: Dict[str, str]) -> str:
+    meta_title = clean_title(str(meta.get("/Title", "") or ""))
+    if meta_title and not is_generic_title(meta_title):
+        return meta_title
+
+    # Prefer the first good-looking line.
+    for line in lines[:10]:
+        candidate = clean_title(line)
+        if is_generic_title(candidate) or is_bad_title_line(candidate):
+            continue
+        if 6 <= len(candidate) <= 140:
+            return candidate
+
+    # Try best line from the first page(s).
+    best_line = ""
+    best_score = 0
+    for line in lines[:20]:
+        candidate = clean_title(line)
+        if is_generic_title(candidate) or is_bad_title_line(candidate):
+            continue
+        alpha_count = len(re.findall(r"[A-Za-z]", candidate))
+        score = alpha_count
+        if 10 <= len(candidate) <= 140:
+            score += 10
+        if score > best_score:
+            best_score = score
+            best_line = candidate
+    if best_line:
+        return best_line
+
+    # Fallback to filename stem.
+    stem = clean_title(Path(filename).stem)
+    return stem if stem else filename
+
+
+def infer_date(text: str, filename: str) -> Tuple[Optional[str], Optional[str]]:
+    haystack = f"{filename} {text}".lower()
+
+    # ISO-like date: 2026-03-05 or 2026/03/05
+    m = re.search(r"\b(20\d{2})[-/](0[1-9]|1[0-2])[-/](0[1-9]|[12]\d|3[01])\b", haystack)
+    if m:
+        year = m.group(1)
+        month_num = int(m.group(2))
+        month = calendar.month_abbr[month_num]
+        return f"{month} {year}", year
+
+    # Month name + year
+    month_names = "|".join(sorted(MONTHS.keys(), key=len, reverse=True))
+    m = re.search(rf"\b({month_names})\b\s*(20\d{{2}})", haystack)
+    if m:
+        month = MONTHS[m.group(1)]
+        year = m.group(2)
+        return f"{month} {year}", year
+
+    # Year only (pick the most recent)
+    years = [int(y) for y in re.findall(r"\b(20\d{2})\b", haystack)]
+    if years:
+        year = str(max(years))
+        return None, year
+
+    return None, None
+
+
+def infer_publisher(filename: str, text: str, meta: Dict[str, str], subfolder: str) -> str:
+    # If filename already has a publisher-style prefix, keep it.
+    if " - " in filename:
+        prefix = clean_title(filename.split(" - ", 1)[0])
+        if prefix and not is_generic_title(prefix):
+            return prefix
+
+    # Use subfolder if it's a specific organization.
+    if subfolder and subfolder not in GENERIC_SUBFOLDERS:
+        return clean_title(subfolder.replace("_", " "))
+
+    # Try metadata author.
+    author = clean_title(str(meta.get("/Author", "") or ""))
+    if author and not is_generic_title(author):
+        return author
+
+    # Search text for known org aliases.
+    haystack = f"{filename} {text}".lower()
+    for key, value in ORG_ALIASES.items():
+        if key in haystack:
+            return value
+
+    return ""
+
+
+def build_filename(title: str, publisher: str, date_mon_year: Optional[str], year: Optional[str]) -> str:
+    base_title = clean_title(title)
+    if publisher:
+        if base_title.lower().startswith(publisher.lower() + " - "):
+            base_title = base_title[len(publisher) + 3 :]
+        base = f"{publisher} - {base_title}" if base_title else publisher
+    else:
+        base = base_title
+
+    suffix = ""
+    if date_mon_year and date_mon_year.lower() not in base.lower():
+        suffix = f" ({date_mon_year})"
+    elif year and year not in base:
+        suffix = f" ({year})"
+
+    return normalize_filename(base + suffix)
+
+
+def split_sentences(text: str) -> List[str]:
+    if not text:
+        return []
+    cleaned = re.sub(r"\s+", " ", text).strip()
+    # Simple sentence split.
+    parts = re.split(r"(?<=[.!?])\s+(?=[A-Z0-9])", cleaned)
+    sentences = [p.strip() for p in parts if p.strip()]
+    return sentences
+
+
+def generate_summary(text: str, title: str, lines: Optional[List[str]] = None) -> str:
+    title_clean = clean_title(title)
+    sentences = split_sentences(text)
+
+    filtered: List[str] = []
+    for s in sentences:
+        cleaned = clean_title(s)
+        if not cleaned:
+            continue
+        if is_bad_title_line(cleaned):
+            continue
+        if title_clean and cleaned.lower().startswith(title_clean.lower()):
+            continue
+        filtered.append(cleaned)
+        if len(filtered) >= 2:
+            break
+
+    if not filtered and lines:
+        # Fallback to cleaned lines when sentence split fails.
+        for line in lines:
+            cleaned = clean_title(line)
+            if not cleaned:
+                continue
+            if is_bad_title_line(cleaned):
+                continue
+            if title_clean and cleaned.lower().startswith(title_clean.lower()):
+                continue
+            filtered.append(cleaned)
+            if len(filtered) >= 2:
+                break
+
+    if filtered:
+        summary = " ".join(filtered).strip()
+        if summary and summary[-1] not in ".!?":
+            summary += "."
+        # Keep summaries reasonably short.
+        if len(summary) > 260:
+            cutoff = summary.rfind(".", 0, 260)
+            if cutoff > 80:
+                summary = summary[: cutoff + 1]
+            else:
+                summary = summary[:260].rstrip() + "..."
+
+        # Bail out if summary still looks like a disclaimer.
+        bad_fragments = [
+            "errors or omissions",
+            "liability",
+            "responsibility",
+            "disclaimer",
+            "terms",
+            "proceeding to read",
+            "all rights reserved",
+        ]
+        lowered = summary.lower()
+        if any(bad in lowered for bad in bad_fragments):
+            summary = ""
+
+        word_count = len([w for w in re.split(r"\\s+", summary) if w])
+        if word_count < 6:
+            summary = ""
+
+        if summary:
+            return summary
+
+    fallback = clean_title(title)
+    if not fallback:
+        return "Brief summary not available."
+
+    lower_title = fallback.lower()
+    if "guide" in lower_title or "handbook" in lower_title:
+        return f"Guide on {fallback}."
+    if "report" in lower_title or "survey" in lower_title:
+        return f"Report on {fallback}."
+    return f"Brief on {fallback}."
+
+
+def generate_tags(text: str, title: str, category: str, subfolder: str) -> List[str]:
+    haystack = f" {title} {text} {category} {subfolder} ".lower()
+    tags: List[str] = []
+    for tag, keywords in TAG_RULES.items():
+        for kw in keywords:
+            if kw in haystack:
+                tags.append(tag)
+                break
+
+    # Category-driven tags
+    if category == "Payments_RealTime_and_Liquidity" and "payments" not in tags:
+        tags.append("payments")
+    if category == "Stablecoins_and_CBDC" and "stablecoins" not in tags:
+        tags.append("stablecoins")
+    if category == "Tokenization_Blockchain_and_Digital_Assets" and "tokenization" not in tags:
+        tags.append("tokenization")
+    if category == "Compliance_Risk_and_Standards" and "regulation" not in tags:
+        tags.append("regulation")
+    if category == "AI_and_Digital_Transformation" and "ai" not in tags:
+        tags.append("ai")
+
+    # Keep tags unique and capped.
+    unique = []
+    for t in tags:
+        if t not in unique:
+            unique.append(t)
+    return unique[:5]
 
 
 def classify_category(text: str, filename: str) -> Tuple[str, int]:
@@ -204,6 +594,25 @@ def ensure_unique_path(dest: Path) -> Path:
         i += 1
 
 
+def move_or_copy(src: Path, dest: Path) -> bool:
+    """Move src to dest; if move isn't permitted, copy and try to delete src.
+    Returns True if src was removed, False otherwise.
+    """
+    try:
+        shutil.move(str(src), str(dest))
+        return True
+    except PermissionError:
+        # Fall back to copy if source is in a protected location (e.g., CloudStorage).
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(src, dest)
+        try:
+            src.unlink()
+            return True
+        except PermissionError:
+            log(f"WARN: Could not remove source file: {src}")
+            return False
+
+
 def load_state(state_path: Path) -> Dict[str, str]:
     if not state_path.exists():
         return {}
@@ -233,6 +642,52 @@ def record_run(state_path: Path) -> None:
     state = load_state(state_path)
     state["last_run"] = datetime.now().isoformat(timespec="seconds")
     save_state(state_path, state)
+
+
+def apply_catalog_updates(updates: List[Dict]) -> None:
+    if not updates:
+        return
+    catalog_path = ROOT / "scripts" / "catalog.json"
+    if catalog_path.exists():
+        try:
+            entries = json.loads(catalog_path.read_text())
+        except Exception:
+            entries = []
+    else:
+        entries = []
+
+    index = {entry.get("path"): entry for entry in entries if entry.get("path")}
+
+    for upd in updates:
+        path = upd.get("path")
+        if not path:
+            continue
+        entry = index.get(path)
+        if not entry:
+            entry = {
+                "path": path,
+                "title": upd.get("title", Path(path).stem),
+                "summary": upd.get("summary", ""),
+                "tags": upd.get("tags", []),
+            }
+            entries.append(entry)
+            index[path] = entry
+            continue
+
+        if not entry.get("title"):
+            entry["title"] = upd.get("title", Path(path).stem)
+        if not entry.get("summary"):
+            entry["summary"] = upd.get("summary", "")
+
+        existing_tags = entry.get("tags", []) or []
+        combined: List[str] = []
+        for t in existing_tags + (upd.get("tags", []) or []):
+            if t not in combined:
+                combined.append(t)
+        entry["tags"] = combined
+
+    entries = sorted(entries, key=lambda e: e.get("path", ""))
+    catalog_path.write_text(json.dumps(entries, indent=2))
 
 
 def collect_repo_hashes() -> Dict[str, Path]:
@@ -281,35 +736,55 @@ def process_pdf(
     duplicates_dir: Path,
     review_dir: Path,
     dry_run: bool,
+    catalog_updates: List[Dict],
+    source_name: Optional[str] = None,
 ) -> Tuple[str, Optional[Path]]:
     """Process a single PDF. Returns (status, destination_path)."""
+    name_for_analysis = source_name or source.name
     file_hash = sha256(source)
     if file_hash in repo_hashes or file_hash in seen_hashes:
-        dest = duplicates_dir / f"{source.stem}__dup_{file_hash[:8]}.pdf"
+        dest = duplicates_dir / f"{Path(name_for_analysis).stem}__dup_{file_hash[:8]}.pdf"
         dest = ensure_unique_path(dest)
         if not dry_run:
-            dest.parent.mkdir(parents=True, exist_ok=True)
-            shutil.move(str(source), str(dest))
+            move_or_copy(source, dest)
         return "duplicate", dest
 
-    text = extract_text(source)
-    category, score = classify_category(text, source.name)
+    text, lines, meta = extract_pdf_bundle(source)
+    category, score = classify_category(text, name_for_analysis)
     if not category or score == 0:
-        dest = review_dir / normalize_filename(source.name)
+        dest = review_dir / normalize_filename(name_for_analysis)
         dest = ensure_unique_path(dest)
         if not dry_run:
-            dest.parent.mkdir(parents=True, exist_ok=True)
-            shutil.move(str(source), str(dest))
+            move_or_copy(source, dest)
         return "review", dest
 
-    subfolder = pick_subfolder(category, text, source.name)
+    subfolder = pick_subfolder(category, text, name_for_analysis)
     dest_dir = ROOT / category / subfolder
-    dest_name = normalize_filename(source.name)
+    title = pick_title(name_for_analysis, lines, meta)
+    date_mon_year, year = infer_date(text, name_for_analysis)
+    publisher = infer_publisher(name_for_analysis, text, meta, subfolder)
+    dest_name = build_filename(title, publisher, date_mon_year, year)
     dest = ensure_unique_path(dest_dir / dest_name)
 
     if not dry_run:
         dest_dir.mkdir(parents=True, exist_ok=True)
-        shutil.move(str(source), str(dest))
+        move_or_copy(source, dest)
+
+    summary = generate_summary(text, title, lines)
+    tags = generate_tags(text, title, category, subfolder)
+    try:
+        rel_path = str(dest.relative_to(ROOT))
+    except ValueError:
+        rel_path = ""
+    if rel_path:
+        catalog_updates.append(
+            {
+                "path": rel_path,
+                "title": clean_title(Path(dest_name).stem),
+                "summary": summary,
+                "tags": tags,
+            }
+        )
 
     seen_hashes.add(file_hash)
     return "added", dest
@@ -323,6 +798,7 @@ def process_zip(
     review_dir: Path,
     processed_dir: Path,
     dry_run: bool,
+    catalog_updates: List[Dict],
 ) -> Tuple[int, int, int]:
     added = duplicates = review = 0
     with tempfile.TemporaryDirectory() as tmp_dir:
@@ -334,13 +810,24 @@ def process_zip(
             log(f"WARN: bad zip, skipping: {zip_path}")
             return added, duplicates, review
 
-        for pdf in tmp_root.rglob("*.pdf"):
+        for pdf in tmp_root.rglob("*"):
             if not pdf.is_file():
+                continue
+            if pdf.suffix.lower() != ".pdf":
                 continue
             # Copy to temp location we can move from
             staged = tmp_root / f"_staged_{pdf.name}"
             shutil.copy2(pdf, staged)
-            status, _ = process_pdf(staged, repo_hashes, seen_hashes, duplicates_dir, review_dir, dry_run)
+            status, _ = process_pdf(
+                staged,
+                repo_hashes,
+                seen_hashes,
+                duplicates_dir,
+                review_dir,
+                dry_run,
+                catalog_updates,
+                source_name=pdf.name,
+            )
             if status == "added":
                 added += 1
             elif status == "duplicate":
@@ -353,7 +840,7 @@ def process_zip(
     dest = ensure_unique_path(dest)
     if not dry_run:
         processed_dir.mkdir(parents=True, exist_ok=True)
-        shutil.move(str(zip_path), str(dest))
+        move_or_copy(zip_path, dest)
 
     return added, duplicates, review
 
@@ -390,6 +877,7 @@ def main() -> int:
     seen_hashes: set = set()
 
     added = duplicates = review = 0
+    catalog_updates: List[Dict] = []
 
     pdfs = iter_inbox_pdfs(inbox)
     zips = iter_inbox_zips(inbox)
@@ -401,7 +889,15 @@ def main() -> int:
     log(f"Found {len(pdfs)} PDFs and {len(zips)} ZIPs in inbox.")
 
     for pdf in pdfs:
-        status, dest = process_pdf(pdf, repo_hashes, seen_hashes, duplicates_dir, review_dir, args.dry_run)
+        status, dest = process_pdf(
+            pdf,
+            repo_hashes,
+            seen_hashes,
+            duplicates_dir,
+            review_dir,
+            args.dry_run,
+            catalog_updates,
+        )
         if status == "added":
             added += 1
         elif status == "duplicate":
@@ -412,12 +908,22 @@ def main() -> int:
             log(f"{status.upper()}: {pdf.name} -> {dest}")
 
     for zip_path in zips:
-        a, d, r = process_zip(zip_path, repo_hashes, seen_hashes, duplicates_dir, review_dir, processed_dir, args.dry_run)
+        a, d, r = process_zip(
+            zip_path,
+            repo_hashes,
+            seen_hashes,
+            duplicates_dir,
+            review_dir,
+            processed_dir,
+            args.dry_run,
+            catalog_updates,
+        )
         added += a
         duplicates += d
         review += r
 
     if added > 0 and not args.dry_run:
+        apply_catalog_updates(catalog_updates)
         log("Updating catalog...")
         subprocess.run([sys.executable, str(ROOT / "scripts" / "build_catalog.py")], check=True)
 
