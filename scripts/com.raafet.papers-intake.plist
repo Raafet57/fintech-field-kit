@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>com.raafet.papers-intake</string>
+
+    <key>ProgramArguments</key>
+    <array>
+      <string>/Users/Raafet/Projects/Papers/Papers 2025/scripts/run_intake.sh</string>
+      <string>--schedule</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+      <key>Hour</key>
+      <integer>18</integer>
+      <key>Minute</key>
+      <integer>0</integer>
+    </dict>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/Raafet/Projects/Papers/Papers 2025</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/Raafet/Projects/Papers/_logs/intake.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/Raafet/Projects/Papers/_logs/intake.err.log</string>
+  </dict>
+</plist>
