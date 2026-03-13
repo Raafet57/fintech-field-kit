@@ -17,6 +17,7 @@ import argparse
 import calendar
 import hashlib
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -136,6 +137,7 @@ TAG_RULES = {
     ],
     "stablecoins": ["stablecoin", "stablecoins"],
     "tokenization": ["tokenization", "tokenised", "tokenized", "security token"],
+    "interoperability": ["interoperability", "inter-operability"],
     "crypto": ["crypto", "cryptoasset", "crypto asset", "digital asset"],
     "regulation": ["regulation", "regulatory", "guidance", "act", "directive", "law"],
     "policy": ["policy"],
@@ -274,6 +276,7 @@ def is_bad_title_line(text: str) -> bool:
         "version",
         "draft",
         "confidential",
+        "white paper",
         "links from this document",
         "accepts no responsibility",
         "no responsibility",
@@ -308,6 +311,21 @@ def pick_title(filename: str, lines: List[str], meta: Dict[str, str]) -> str:
     meta_title = clean_title(str(meta.get("/Title", "") or ""))
     if meta_title and not is_generic_title(meta_title):
         return meta_title
+
+    # Try combining early lines into a multi-line title block.
+    if lines:
+        candidates: List[str] = []
+        for line in lines[:8]:
+            candidate = clean_title(line)
+            if is_generic_title(candidate) or is_bad_title_line(candidate):
+                continue
+            candidates.append(candidate)
+            if len(candidates) >= 3:
+                break
+        if len(candidates) >= 2:
+            combined = " ".join(candidates)
+            if 12 <= len(combined) <= 140:
+                return combined
 
     # Prefer the first good-looking line.
     for line in lines[:10]:
@@ -489,6 +507,9 @@ def generate_summary(text: str, title: str, lines: Optional[List[str]] = None) -
         return "Brief summary not available."
 
     lower_title = fallback.lower()
+    lower_text = text.lower() if text else ""
+    if "white paper" in lower_text or "white paper" in lower_title:
+        return f"White paper on {fallback}."
     if "guide" in lower_title or "handbook" in lower_title:
         return f"Guide on {fallback}."
     if "report" in lower_title or "survey" in lower_title:
@@ -690,6 +711,67 @@ def apply_catalog_updates(updates: List[Dict]) -> None:
     catalog_path.write_text(json.dumps(entries, indent=2))
 
 
+def git_add_commit_push(added_paths: List[str], auto_push: bool, push_timeout: int) -> None:
+    if not added_paths:
+        return
+
+    repo = ROOT
+    to_add: List[str] = []
+
+    # Stage newly added PDFs.
+    for rel in added_paths:
+        if (repo / rel).exists():
+            to_add.append(rel)
+
+    # Stage catalog/tree files if they exist.
+    for rel in [
+        "scripts/catalog.json",
+        "catalog.md",
+        "docs/catalog.md",
+        "tree.md",
+        "docs/tree.md",
+        "README.md",
+    ]:
+        if (repo / rel).exists():
+            to_add.append(rel)
+
+    if not to_add:
+        return
+
+    subprocess.run(["git", "-C", str(repo), "add", "--", *to_add], check=False)
+
+    diff_check = subprocess.run(["git", "-C", str(repo), "diff", "--cached", "--quiet"])
+    if diff_check.returncode == 0:
+        return
+
+    stamp = datetime.now().strftime("%Y-%m-%d")
+    msg = f"Auto intake: {len(added_paths)} new paper(s) ({stamp})"
+    subprocess.run(["git", "-C", str(repo), "commit", "-m", msg], check=False)
+
+    if not auto_push:
+        return
+
+    env = os.environ.copy()
+    env["GIT_TERMINAL_PROMPT"] = "0"
+
+    try:
+        subprocess.run(
+            ["git", "-C", str(repo), "push"],
+            check=True,
+            timeout=push_timeout,
+            env=env,
+            capture_output=True,
+            text=True,
+        )
+    except subprocess.TimeoutExpired:
+        log("WARN: git push timed out; will retry on next run.")
+    except subprocess.CalledProcessError as exc:
+        stderr = (exc.stderr or "").strip()
+        stdout = (exc.stdout or "").strip()
+        details = stderr or stdout or str(exc)
+        log(f"WARN: git push failed: {details}")
+
+
 def collect_repo_hashes() -> Dict[str, Path]:
     hashes: Dict[str, Path] = {}
     for path in ROOT.rglob("*"):
@@ -737,6 +819,7 @@ def process_pdf(
     review_dir: Path,
     dry_run: bool,
     catalog_updates: List[Dict],
+    added_paths: List[str],
     source_name: Optional[str] = None,
 ) -> Tuple[str, Optional[Path]]:
     """Process a single PDF. Returns (status, destination_path)."""
@@ -777,6 +860,7 @@ def process_pdf(
     except ValueError:
         rel_path = ""
     if rel_path:
+        added_paths.append(rel_path)
         catalog_updates.append(
             {
                 "path": rel_path,
@@ -799,6 +883,7 @@ def process_zip(
     processed_dir: Path,
     dry_run: bool,
     catalog_updates: List[Dict],
+    added_paths: List[str],
 ) -> Tuple[int, int, int]:
     added = duplicates = review = 0
     with tempfile.TemporaryDirectory() as tmp_dir:
@@ -826,6 +911,7 @@ def process_zip(
                 review_dir,
                 dry_run,
                 catalog_updates,
+                added_paths,
                 source_name=pdf.name,
             )
             if status == "added":
@@ -855,6 +941,9 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--schedule", action="store_true", help="enforce 48h cadence")
     parser.add_argument("--force", action="store_true", help="override schedule guard")
+    parser.add_argument("--no-git", action="store_true", help="skip auto commit/push")
+    parser.add_argument("--no-push", action="store_true", help="skip git push (commit only)")
+    parser.add_argument("--push-timeout", type=int, default=120, help="git push timeout in seconds")
     args = parser.parse_args()
 
     inbox = args.inbox
@@ -878,6 +967,7 @@ def main() -> int:
 
     added = duplicates = review = 0
     catalog_updates: List[Dict] = []
+    added_paths: List[str] = []
 
     pdfs = iter_inbox_pdfs(inbox)
     zips = iter_inbox_zips(inbox)
@@ -897,6 +987,7 @@ def main() -> int:
             review_dir,
             args.dry_run,
             catalog_updates,
+            added_paths,
         )
         if status == "added":
             added += 1
@@ -917,6 +1008,7 @@ def main() -> int:
             processed_dir,
             args.dry_run,
             catalog_updates,
+            added_paths,
         )
         added += a
         duplicates += d
@@ -926,6 +1018,8 @@ def main() -> int:
         apply_catalog_updates(catalog_updates)
         log("Updating catalog...")
         subprocess.run([sys.executable, str(ROOT / "scripts" / "build_catalog.py")], check=True)
+        if not args.no_git:
+            git_add_commit_push(added_paths, auto_push=not args.no_push, push_timeout=args.push_timeout)
 
     if args.schedule and not args.dry_run:
         record_run(state_path)
