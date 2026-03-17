@@ -533,6 +533,18 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Authors Nils Grevenbrock Zhengpu Zhao.pdf",
+    "title": "US - Authors Nils Grevenbrock Zhengpu Zhao",
+    "summary": "White paper on Authors Nils Grevenbrock Zhengpu Zhao.",
+    "tags": [
+      "payments",
+      "regulation",
+      "ai",
+      "genai",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US Public Law 119-27 - GENIUS Act Stablecoin Regulation (Jul 2025).pdf",
     "title": "US Public Law 119-27 - GENIUS Act Stablecoin Regulation (Jul 2025)",
     "summary": "U.S. law establishing a federal framework for payment stablecoins, issuer requirements, supervision, and consumer protections (GENIUS Act).",
@@ -882,6 +894,18 @@
     "title": "BIS - Cross-Border Payments Survey (Dec 2025)",
     "summary": "BIS survey snapshot on cross-border payments, focused on frictions and improvement priorities.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Fostering ISO 20022 harmonisation - follow-up report.pdf",
+    "title": "BIS - Fostering ISO 20022 harmonisation - follow-up report",
+    "summary": "Report on Fostering ISO 20022 harmonisation - follow-up report.",
+    "tags": [
+      "payments",
+      "interoperability",
+      "regulation",
+      "iso20022",
+      "settlement"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Pricing in Fast Payments Working Paper 1295 (Oct 2025).pdf",
