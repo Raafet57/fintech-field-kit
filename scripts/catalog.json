@@ -533,6 +533,30 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/The Fed - Payment Stablecoins and Cross Border Payments: Benefits and Implications for Monetary Policy Implementation (Jul 2025).pdf",
+    "title": "The Fed - Payment Stablecoins and Cross Border Payments: Benefits and Implications for Monetary Policy Implementation (Jul 2025)",
+    "summary": "Brief on The Fed - Payment Stablecoins and Cross Border Payments: Benefits and Implications for Monetary Policy Implementation.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "policy"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Agents of Chaos (Feb 2026).pdf",
+    "title": "US - Agents of Chaos (Feb 2026)",
+    "summary": "Brief on Agents of Chaos.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "risk",
+      "security"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Authors Nils Grevenbrock Zhengpu Zhao.pdf",
     "title": "US - Authors Nils Grevenbrock Zhengpu Zhao",
     "summary": "White paper on Authors Nils Grevenbrock Zhengpu Zhao.",
@@ -543,6 +567,24 @@
       "genai",
       "risk"
     ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - DeFi Lending: Returns, Leverage, and Liquidation (Feb 2026).pdf",
+    "title": "US - DeFi Lending: Returns, Leverage, and Liquidation (Feb 2026)",
+    "summary": "Brief on DeFi Lending: Returns, Leverage, and Liquidation.",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "risk",
+      "compliance"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Regulatory Priorities: Payments report (Mar 2026).pdf",
+    "title": "US - Regulatory Priorities: Payments report (Mar 2026)",
+    "summary": "",
+    "tags": []
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US Public Law 119-27 - GENIUS Act Stablecoin Regulation (Jul 2025).pdf",
@@ -626,6 +668,18 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Academic/arXiv.org - From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence (Dec 2025).pdf",
+    "title": "arXiv.org - From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence (Dec 2025)",
+    "summary": "Guide on From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence.",
+    "tags": [
+      "regulation",
+      "ai",
+      "market research",
+      "fintech",
+      "adoption"
+    ]
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Accenture/Accenture - Top Banking Trends 2026 (Unconstrained Banking).pdf",
     "title": "Accenture - Top Banking Trends 2026 (Unconstrained Banking)",
     "summary": "Accenture's 2026 banking trends report on technology, operating model shifts, and competitive imperatives.",
@@ -684,6 +738,17 @@
     "title": "2026 Banking and Capital Markets Outlook - Deloitte",
     "summary": "Deloitte outlook on 2026 banking and capital markets, AI and stablecoins themes.",
     "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Deloitte/Deloitte - StateofAI Report vF (Jan 2026).pdf",
+    "title": "Deloitte - StateofAI Report vF (Jan 2026)",
+    "summary": "Report on StateofAI Report vF.",
+    "tags": [
+      "regulation",
+      "ai",
+      "market research",
+      "fintech"
+    ]
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Deloitte/Deloitte - Tech Trends 2026.pdf",
@@ -1290,6 +1355,24 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Visa/Visa - SumUp Receipt.pdf",
+    "title": "Visa - SumUp Receipt",
+    "summary": "",
+    "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Visa/Visa - The Eurosystem\u2019s comprehensive payments strategy.pdf",
+    "title": "Visa - The Eurosystem\u2019s comprehensive payments strategy",
+    "summary": "Brief on The Eurosystem\u2019s comprehensive payments strategy.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "regulation",
+      "policy"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/World_Bank/World Bank - A Comparative Methodology for Measuring Supply-Side Domestic Payment Costs (Pilot Study).pdf",
     "title": "World Bank - A Comparative Methodology for Measuring Supply-Side Domestic Payment Costs (Pilot Study)",
     "summary": "World Bank pilot methodology for measuring domestic payment costs and benchmarking supply-side pricing components.",
@@ -1323,6 +1406,18 @@
     "path": "Stablecoins_and_CBDC/Academic/Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025).pdf",
     "title": "Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025)",
     "summary": "Academic-style analysis weighing whether USDC could replace SWIFT for cross-border payments, contrasting speed and cost benefits with regulatory and operational risks.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/BIS/BIS - Tokenomics and blockchain fragmentation (Mar 2026).pdf",
+    "title": "BIS - Tokenomics and blockchain fragmentation (Mar 2026)",
+    "summary": "",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/BIS/BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023).pdf",
+    "title": "BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023)",
+    "summary": "",
     "tags": []
   },
   {
@@ -1384,6 +1479,12 @@
     "path": "Stablecoins_and_CBDC/IMF/Imf cbdc.pdf",
     "title": "Imf cbdc",
     "summary": "IMF primer on central bank digital currency design considerations.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Independent/1774511437493.pdf",
+    "title": "1774511437493",
+    "summary": "",
     "tags": []
   },
   {
