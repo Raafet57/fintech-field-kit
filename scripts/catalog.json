@@ -66,6 +66,16 @@
     "tags": []
   },
   {
+    "path": "AI_and_Digital_Transformation/Reports/Age n t i c Fi na n c e a n d S t a b l ec o i n s: Ev e r y t h i n g t o Kn ow Abou t t h e New S t a c k f o r Au t o n o m ou s.pdf",
+    "title": "Age n t i c Fi na n c e a n d S t a b l ec o i n s: Ev e r y t h i n g t o Kn ow Abou t t h e New S t a c k f o r Au t o n o m ou s",
+    "summary": "Brief on Age n t i c Fi na n c e a n d S t a b l ec o i n s: Ev e r y t h i n g t o Kn ow Abou t t h e New S t a c k f o r Au t o n o m ou s.",
+    "tags": [
+      "regulation",
+      "ai",
+      "security"
+    ]
+  },
+  {
     "path": "AI_and_Digital_Transformation/Reports/Chief Data Officer's Guide to Digital Transformation.pdf",
     "title": "Chief Data Officer's Guide to Digital Transformation",
     "summary": "Guide for CDOs on data centralization, infrastructure modernization, data democratization, and building data-driven solutions.",
@@ -566,6 +576,18 @@
       "ai",
       "genai",
       "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - DEPOSIT TOKENS A foundation for stable digital money (May 2022).pdf",
+    "title": "US - DEPOSIT TOKENS A foundation for stable digital money (May 2022)",
+    "summary": "Brief on DEPOSIT TOKENS A foundation for stable digital money.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
     ]
   },
   {
@@ -1157,6 +1179,18 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Federal Reserve - FEDERAL RESERVE BANK OF KANSAS CITY | APRIL 10 , 2026 What Are Stablecoins Used for Today? Estimating t he Distribution of Stablecoins (Nov 2025).pdf",
+    "title": "Federal Reserve - FEDERAL RESERVE BANK OF KANSAS CITY | APRIL 10 , 2026 What Are Stablecoins Used for Today? Estimating t he Distribution of Stablecoins (Nov 2025)",
+    "summary": "Brief on FEDERAL RESERVE BANK OF KANSAS CITY | APRIL 10 , 2026 What Are Stablecoins Used for Today? Estimating t he Distribution of Stablecoins.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "crypto"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Hybrid Postal Address (Mar 2026).pdf",
     "title": "Hybrid Postal Address (Mar 2026)",
     "summary": "Brief on Hybrid Postal Address.",
@@ -1469,6 +1503,18 @@
     ]
   },
   {
+    "path": "Stablecoins_and_CBDC/IMF/IMF - Stablecoins and the Future of Payments: Evidence from Financial Markets, WP-26-52, March 2026 (Mar 2026).pdf",
+    "title": "IMF - Stablecoins and the Future of Payments: Evidence from Financial Markets, WP-26-52, March 2026 (Mar 2026)",
+    "summary": "Brief on Stablecoins and the Future of Payments: Evidence from Financial Markets, WP/26/52, March 2026.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "adoption"
+    ]
+  },
+  {
     "path": "Stablecoins_and_CBDC/IMF/IMF FinTech Note 2025-010 - Financial Integrity Implications of Retail CBDCs.pdf",
     "title": "IMF FinTech Note 2025-010 - Financial Integrity Implications of Retail CBDCs",
     "summary": "IMF FinTech Note (Nov 2025) examining financial integrity implications and controls for retail CBDCs.",
@@ -1621,6 +1667,18 @@
     "title": "KPMG - Stablecoins Opportunities and Challenges",
     "summary": "KPMG overview of stablecoin opportunities, risks, and challenges.",
     "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Industry/Kamhi, Nya EOP-CEA (Intern) - PowerPoint Presentation (Apr 2026).pdf",
+    "title": "Kamhi, Nya EOP-CEA (Intern) - PowerPoint Presentation (Apr 2026)",
+    "summary": "Brief on PowerPoint Presentation.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "settlement",
+      "risk"
+    ]
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/PCMI - How Banks Can Make Money with Stablecoins (Jun 2025).pdf",
