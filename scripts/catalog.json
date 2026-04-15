@@ -567,6 +567,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Artificial Intelligence Index Report.pdf",
+    "title": "US - Artificial Intelligence Index Report",
+    "summary": "Report on Artificial Intelligence Index Report.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "genai",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Authors Nils Grevenbrock Zhengpu Zhao.pdf",
     "title": "US - Authors Nils Grevenbrock Zhengpu Zhao",
     "summary": "White paper on Authors Nils Grevenbrock Zhengpu Zhao.",
@@ -603,10 +615,46 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026).pdf",
+    "title": "US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026)",
+    "summary": "Brief on Euro stablecoins and their potential effect on sovereign bond markets.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Regulatory Priorities: Payments report (Mar 2026).pdf",
     "title": "US - Regulatory Priorities: Payments report (Mar 2026)",
     "summary": "",
     "tags": []
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - SoK: Blockchain Agent-to-Agent Payments (Apr 2026).pdf",
+    "title": "US - SoK: Blockchain Agent-to-Agent Payments (Apr 2026)",
+    "summary": "Brief on SoK: Blockchain Agent-to-Agent Payments.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "interoperability",
+      "regulation",
+      "settlement"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Who owns crypto in the euro area? Drivers of crypto adoption, payment use, and its interaction with fiat cash.pdf",
+    "title": "US - Who owns crypto in the euro area? Drivers of crypto adoption, payment use, and its interaction with fiat cash",
+    "summary": "Brief on Who owns crypto in the euro area? Drivers of crypto adoption, payment use, and its interaction with fiat cash.",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "policy",
+      "market research"
+    ]
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US Public Law 119-27 - GENIUS Act Stablecoin Regulation (Jul 2025).pdf",
@@ -1282,6 +1330,16 @@
     "title": "The Year in Cross-Border Payments 2025",
     "summary": "Year-in-review digest of cross-border payments developments in 2025.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/The global standard benchmark of AI maturity KEY FINDINGS REPORT (Feb 2026).pdf",
+    "title": "The global standard benchmark of AI maturity KEY FINDINGS REPORT (Feb 2026)",
+    "summary": "Report on The global standard benchmark of AI maturity KEY FINDINGS REPORT.",
+    "tags": [
+      "payments",
+      "ai",
+      "benchmark"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Thunes - Joins WEF Unicorn Community (Dec 2025).pdf",
