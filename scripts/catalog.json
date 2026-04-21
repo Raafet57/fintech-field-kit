@@ -9,6 +9,18 @@
     ]
   },
   {
+    "path": "AI_and_Digital_Transformation/Academic/IMF - BankerToolBench: Evaluating AI Agents in (Apr 2026).pdf",
+    "title": "IMF - BankerToolBench: Evaluating AI Agents in (Apr 2026)",
+    "summary": "Brief on BankerToolBench: Evaluating AI Agents in.",
+    "tags": [
+      "payments",
+      "regulation",
+      "ai",
+      "benchmark",
+      "us"
+    ]
+  },
+  {
     "path": "AI_and_Digital_Transformation/IBM/IBM - The race for ROI.pdf",
     "title": "IBM - The race for ROI",
     "summary": "IBM take on how enterprises can drive measurable ROI from AI deployments.",
@@ -627,6 +639,30 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Fact Sheet: Proposed Rule to Implement the GENIUS Act\u2019s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements.pdf",
+    "title": "US - Fact Sheet: Proposed Rule to Implement the GENIUS Act\u2019s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements",
+    "summary": "Brief on Fact Sheet: Proposed Rule to Implement the GENIUS Act\u2019s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - International Foreign Bribery Taskforce | Indicators of Foreign Bribery.pdf",
+    "title": "US - International Foreign Bribery Taskforce | Indicators of Foreign Bribery",
+    "summary": "Brief on International Foreign Bribery Taskforce | Indicators of Foreign Bribery.",
+    "tags": [
+      "payments",
+      "regulation",
+      "risk",
+      "compliance",
+      "financial crime"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Regulatory Priorities: Payments report (Mar 2026).pdf",
     "title": "US - Regulatory Priorities: Payments report (Mar 2026)",
     "summary": "",
@@ -1025,6 +1061,18 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Academic/James Aris - Working Paper 26-069 Who Pays for Payments? Mark Egan.pdf",
+    "title": "James Aris - Working Paper 26-069 Who Pays for Payments? Mark Egan",
+    "summary": "Brief on Working Paper 26-069 Who Pays for Payments? Mark Egan.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "imf",
+      "federal reserve"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Academic/UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026).pdf",
     "title": "UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026)",
     "summary": "Academic paper on legal and regulatory challenges of interlinking fast payment systems, highlighting cross-border governance and compliance gaps.",
@@ -1080,6 +1128,18 @@
     "tags": [
       "payments",
       "cross-border"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - The Eurosystem\u2019s comprehensive payments strategy (Aug 2003).pdf",
+    "title": "BIS - The Eurosystem\u2019s comprehensive payments strategy (Aug 2003)",
+    "summary": "Brief on The Eurosystem\u2019s comprehensive payments strategy.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "regulation",
+      "policy"
     ]
   },
   {
@@ -1320,6 +1380,18 @@
       "payments",
       "europe",
       "resilience"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - 1776738452984.pdf",
+    "title": "SWIFT - 1776738452984",
+    "summary": "Brief on 1776738452984.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "interoperability",
+      "regulation",
+      "cross-border"
     ]
   },
   {
