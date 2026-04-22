@@ -663,6 +663,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels (Mar 2026).pdf",
+    "title": "US - LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels (Mar 2026)",
+    "summary": "Brief on LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels.",
+    "tags": [
+      "regulation",
+      "policy",
+      "t+1",
+      "ai",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Regulatory Priorities: Payments report (Mar 2026).pdf",
     "title": "US - Regulatory Priorities: Payments report (Mar 2026)",
     "summary": "",
@@ -688,6 +700,18 @@
       "payments",
       "tokenization",
       "interoperability",
+      "regulation",
+      "settlement"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Tokenized Deposits Paper v11.pptx (Apr 2026).pdf",
+    "title": "US - Tokenized Deposits Paper v11.pptx (Apr 2026)",
+    "summary": "Brief on Tokenized Deposits Paper v11.pptx.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
       "regulation",
       "settlement"
     ]
@@ -1778,6 +1802,18 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/Federal Reserve - The Council of Economic Advisers April 2026Effects of Stablecoin Yield Prohibition on Bank Lending (Apr 2026).pdf",
+    "title": "Federal Reserve - The Council of Economic Advisers April 2026Effects of Stablecoin Yield Prohibition on Bank Lending (Apr 2026)",
+    "summary": "Brief on The Council of Economic Advisers April 2026Effects of Stablecoin Yield Prohibition on Bank Lending.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "settlement",
+      "risk"
+    ]
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/Fidelity Digital Assets - Stablecoins Explained.pdf",
     "title": "Fidelity Digital Assets - Stablecoins Explained",
     "summary": "Primer from Fidelity Digital Assets explaining stablecoin basics, mechanics, and key considerations.",
@@ -1953,6 +1989,17 @@
     "title": "BlackRock - How Tokenisation Could Transform Finance",
     "summary": "BlackRock view on tokenization\u2019s potential to transform financial markets.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless (Apr 2026).pdf",
+    "title": "Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless (Apr 2026)",
+    "summary": "Brief on Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless.",
+    "tags": [
+      "tokenization",
+      "crypto",
+      "regulation",
+      "risk"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/DBS Digital Assets Update 4Q25.pdf",
