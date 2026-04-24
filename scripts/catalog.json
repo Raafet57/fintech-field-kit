@@ -627,6 +627,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Effective access to beneficial ownership information User-centred and responsible approaches (Apr 2026).pdf",
+    "title": "US - Effective access to beneficial ownership information User-centred and responsible approaches (Apr 2026)",
+    "summary": "Brief on Effective access to beneficial ownership information User-centred and responsible approaches.",
+    "tags": [
+      "regulation",
+      "policy",
+      "risk",
+      "compliance",
+      "us"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026).pdf",
     "title": "US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026)",
     "summary": "Brief on Euro stablecoins and their potential effect on sovereign bond markets.",
@@ -1188,6 +1200,18 @@
       "tokenization",
       "regulation",
       "policy"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - month and year The future of financial messaging: navigating the ISO 20022 migration (Apr 2026).pdf",
+    "title": "BIS - month and year The future of financial messaging: navigating the ISO 20022 migration (Apr 2026)",
+    "summary": "Brief on month and year The future of financial messaging: navigating the ISO 20022 migration.",
+    "tags": [
+      "payments",
+      "regulation",
+      "iso20022",
+      "settlement",
+      "adoption"
     ]
   },
   {
