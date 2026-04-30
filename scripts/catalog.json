@@ -711,6 +711,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Insurers subject to resolution.pdf",
+    "title": "US - Insurers subject to resolution",
+    "summary": "Brief on Insurers subject to resolution.",
+    "tags": [
+      "regulation",
+      "policy",
+      "risk",
+      "compliance",
+      "us"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - International Foreign Bribery Taskforce | Indicators of Foreign Bribery.pdf",
     "title": "US - International Foreign Bribery Taskforce | Indicators of Foreign Bribery",
     "summary": "Brief on International Foreign Bribery Taskforce | Indicators of Foreign Bribery.",
@@ -720,6 +732,18 @@
       "risk",
       "compliance",
       "financial crime"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future (Apr 2026).pdf",
+    "title": "US - Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future (Apr 2026)",
+    "summary": "Brief on Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "regulation",
+      "policy",
+      "cross-border"
     ]
   },
   {
@@ -786,6 +810,18 @@
       "interoperability",
       "regulation",
       "settlement"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC (Apr 2026).pdf",
+    "title": "US - Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC (Apr 2026)",
+    "summary": "Report on Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "crypto"
     ]
   },
   {
@@ -1381,6 +1417,18 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Do Not Fall Behind - The Corporate Series FX Timing Risk: The Hidden Variable in Corporate.pdf",
+    "title": "Do Not Fall Behind - The Corporate Series FX Timing Risk: The Hidden Variable in Corporate",
+    "summary": "Brief on Do Not Fall Behind - The Corporate Series FX Timing Risk: The Hidden Variable in Corporate.",
+    "tags": [
+      "payments",
+      "regulation",
+      "cross-border",
+      "settlement",
+      "risk"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Drivers of Digital Payment Adoption - Lessons from Brazil Costa Rica and Mexico (2025).pdf",
     "title": "Drivers of Digital Payment Adoption - Lessons from Brazil Costa Rica and Mexico (2025)",
     "summary": "Working paper analyzing what drives digital payment adoption across Brazil, Costa Rica, and Mexico, with lessons for scaling usage.",
@@ -1454,6 +1502,18 @@
     "title": "Mastercard Digital Payment Security Standard (Dec 2025)",
     "summary": "Mastercard whitepaper detailing its digital payment security standard for safer online payments.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Methodology (Jan 2024).pdf",
+    "title": "Methodology (Jan 2024)",
+    "summary": "Brief on Methodology.",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "ai",
+      "market research"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/OUTLOOK PAYMENTS Five shifts.pdf",
@@ -1530,6 +1590,18 @@
     "title": "Settlement Layer Deep Dive",
     "summary": "Slide deck providing a deep-dive overview of settlement layers and their implications for payment infrastructure and liquidity.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER.pdf",
+    "title": "THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER",
+    "summary": "White paper on THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "interoperability",
+      "regulation",
+      "cross-border"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/The Tipping Point for Innovation in B2B Payments - GBA ASEAN.pdf",
@@ -1773,6 +1845,18 @@
     "tags": [
       "cbdc",
       "policy"
+    ]
+  },
+  {
+    "path": "Stablecoins_and_CBDC/IMF/IMF - NOTE- 2026 -001 Tokenized Finance Tobias Adrian.pdf",
+    "title": "IMF - NOTE- 2026 -001 Tokenized Finance Tobias Adrian",
+    "summary": "Brief on NOTE/ 2026 /001 Tokenized Finance Tobias Adrian.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "regulation"
     ]
   },
   {
