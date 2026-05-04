@@ -579,6 +579,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - 1777901224069.pdf",
+    "title": "US - 1777901224069",
+    "summary": "Brief on 1777901224069.",
+    "tags": [
+      "interoperability",
+      "regulation",
+      "policy",
+      "data",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Agents of Chaos (Feb 2026).pdf",
     "title": "US - Agents of Chaos (Feb 2026)",
     "summary": "Brief on Agents of Chaos.",
@@ -768,6 +780,30 @@
       "cross-border",
       "risk",
       "compliance"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Machine Learning and IRB Capital Requirements: Advantages, Risks, and Recommendations\u2217 Christophe Hurlin\u2020Christophe P\u00e9rignon\u2021 (Oct 2021).pdf",
+    "title": "US - Machine Learning and IRB Capital Requirements: Advantages, Risks, and Recommendations\u2217 Christophe Hurlin\u2020Christophe P\u00e9rignon\u2021 (Oct 2021)",
+    "summary": "Brief on Machine Learning and IRB Capital Requirements: Advantages, Risks, and Recommendations\u2217 Christophe Hurlin\u2020Christophe P\u00e9rignon\u2021.",
+    "tags": [
+      "regulation",
+      "ai",
+      "market research",
+      "adoption",
+      "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Making Stablecoins Stable, WP-26-74, April 2026 (Apr 2026).pdf",
+    "title": "US - Making Stablecoins Stable, WP-26-74, April 2026 (Apr 2026)",
+    "summary": "Brief on Making Stablecoins Stable, WP/26/74, April 2026.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "risk"
     ]
   },
   {
@@ -1227,6 +1263,18 @@
     "title": "2025 AFP Payments Fraud Report ",
     "summary": "AFP 2025 report on payments fraud trends and threats.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Academic/Alisa DiCaprio, Marcello Miccoli, Philip Montalvao, Andrew Usher, and Jeanne Verrier - Do Capital Controls Slow Cross-Border Payments in the Last Mile? Preliminary Evidence, WP-26-68, April 2026 (Apr 2026).pdf",
+    "title": "Alisa DiCaprio, Marcello Miccoli, Philip Montalvao, Andrew Usher, and Jeanne Verrier - Do Capital Controls Slow Cross-Border Payments in the Last Mile? Preliminary Evidence, WP-26-68, April 2026 (Apr 2026)",
+    "summary": "Brief on Do Capital Controls Slow Cross-Border Payments in the Last Mile? Preliminary Evidence, WP/26/68, April 2026.",
+    "tags": [
+      "payments",
+      "regulation",
+      "cross-border",
+      "belgium",
+      "imf"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Academic/James Aris - Working Paper 26-069 Who Pays for Payments? Mark Egan.pdf",
