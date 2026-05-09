@@ -711,6 +711,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - FSI Insights on policy implementation Acting under (May 2026).pdf",
+    "title": "US - FSI Insights on policy implementation Acting under (May 2026)",
+    "summary": "Brief on FSI Insights on policy implementation Acting under.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "settlement",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Fact Sheet: Proposed Rule to Implement the GENIUS Act\u2019s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements.pdf",
     "title": "US - Fact Sheet: Proposed Rule to Implement the GENIUS Act\u2019s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements",
     "summary": "Brief on Fact Sheet: Proposed Rule to Implement the GENIUS Act\u2019s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements.",
@@ -803,6 +815,18 @@
       "stablecoins",
       "regulation",
       "policy",
+      "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - May 05, 2026 Categories: Agentic Commerce (Apr 2026).pdf",
+    "title": "US - May 05, 2026 Categories: Agentic Commerce (Apr 2026)",
+    "summary": "Brief on May 05, 2026 Categories: Agentic Commerce.",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "ai",
       "risk"
     ]
   },
@@ -1471,6 +1495,18 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Beyond Concentration: Where Non-USD Stablecoins Can Scale.pdf",
+    "title": "Beyond Concentration: Where Non-USD Stablecoins Can Scale",
+    "summary": "Brief on Beyond Concentration: Where Non-USD Stablecoins Can Scale.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "policy"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Celent - SEPA Instant Adoption in Europe (Build It and They Will Come).pdf",
     "title": "Celent - SEPA Instant Adoption in Europe (Build It and They Will Come)",
     "summary": "Celent research on SCT Inst adoption, market readiness, and projected volume growth across European institutions.",
@@ -1662,6 +1698,30 @@
     "title": "Settlement Layer Deep Dive",
     "summary": "Slide deck providing a deep-dive overview of settlement layers and their implications for payment infrastructure and liquidity.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Sonja Davidovic and Herv\u00e9 Tourpe - How Agentic AI Will Reshape Payments; IMF Note No. 2026-004; April 2026.pdf",
+    "title": "Sonja Davidovic and Herv\u00e9 Tourpe - How Agentic AI Will Reshape Payments; IMF Note No. 2026-004; April 2026",
+    "summary": "Brief on How Agentic AI Will Reshape Payments; IMF Note No. 2026/004; April 2026.",
+    "tags": [
+      "payments",
+      "policy",
+      "settlement",
+      "ai",
+      "risk"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER (2).pdf",
+    "title": "THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER",
+    "summary": "White paper on THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "interoperability",
+      "regulation",
+      "cross-border"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER.pdf",
@@ -2047,6 +2107,18 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/Corporate Bank Digital Money a perspective on (May 2026).pdf",
+    "title": "Corporate Bank Digital Money a perspective on (May 2026)",
+    "summary": "Brief on Corporate Bank Digital Money a perspective on.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
+    ]
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/Crunchfish - Immediate vs Deferred Offline Mode.pdf",
     "title": "Crunchfish - Immediate vs Deferred Offline Mode",
     "summary": "Crunchfish comparison of immediate vs deferred offline modes for CBDC/payments.",
@@ -2383,6 +2455,15 @@
     "title": "The Oracle Platform Powering Institutional Tokenization",
     "summary": "Overview of an oracle platform enabling institutional tokenization.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Tokenization of Money Market Funds FOR INSTITUTIONAL - WHOLESALE - PROFESSIONAL.pdf",
+    "title": "Tokenization of Money Market Funds FOR INSTITUTIONAL - WHOLESALE - PROFESSIONAL",
+    "summary": "Brief on Tokenization of Money Market Funds FOR INSTITUTIONAL / WHOLESALE / PROFESSIONAL.",
+    "tags": [
+      "tokenization",
+      "crypto"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/XRPL - Tokenization is No Longer a Theory (Dec 2025).pdf",
