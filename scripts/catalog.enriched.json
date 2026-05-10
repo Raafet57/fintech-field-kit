@@ -3072,66 +3072,106 @@
   {
     "path": "Stablecoins_and_CBDC/Academic/Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025).pdf",
     "title": "Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025)",
-    "summary": "Academic-style analysis weighing whether USDC could replace SWIFT for cross-border payments, contrasting speed and cost benefits with regulatory and operational risks.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes whether USDC can displace legacy cross-border payment rails such as SWIFT, focusing on speed, cost, settlement efficiency, and the regulatory and interoperability constraints that shape adoption.",
+    "tags": [
+      "stablecoins",
+      "payments",
+      "cross-border",
+      "settlement"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/BIS/BIS - Tokenomics and blockchain fragmentation (Mar 2026).pdf",
     "title": "BIS - Tokenomics and blockchain fragmentation (Mar 2026)",
-    "summary": "",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "BIS examines how tokenomics can fragment blockchain ecosystems by creating incentives that weaken interoperability, concentrate liquidity, and complicate settlement. The analysis highlights implications for market design, financial stability, and the future role of tokenized money.",
+    "tags": [
+      "bis",
+      "stablecoins",
+      "interoperability",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/BIS/BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023).pdf",
     "title": "BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023)",
-    "summary": "",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the competitive and policy relationship between central bank digital currencies, stablecoins, and tokenised forms of money, focusing on implications for monetary sovereignty, regulation, and payment system design.",
+    "tags": [
+      "bis",
+      "stablecoins",
+      "cbdc",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/BIS/BIS Working Paper 1301 - Competing Digital Monies.pdf",
     "title": "BIS Working Paper 1301 - Competing Digital Monies",
-    "summary": "BIS working paper on competition among digital monies and platform dynamics.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes competition between private and public digital money, focusing on stablecoins, bank deposits, and CBDCs. Examines implications for monetary sovereignty, financial stability, and market design under different regulatory and adoption scenarios.",
+    "tags": [
+      "bis",
+      "stablecoins",
+      "cbdc",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/ECB_Ulrich_Bindseil/Bindseil 2025, Regulatory responses_stablecoins.pdf",
-    "title": "Bindseil 2025, Regulatory responses_stablecoins",
-    "summary": "ECB Bindseil paper on regulatory responses to stablecoins.",
-    "tags": [],
-    "source": "manual",
-    "needsReview": false
+    "title": "Regulatory Responses to Stablecoins",
+    "summary": "Analyzes how regulators can respond to stablecoins, comparing policy options and their implications for monetary sovereignty, financial stability, and competition with public digital money such as CBDCs.",
+    "tags": [
+      "stablecoins",
+      "regulation",
+      "policy",
+      "cbdc"
+    ],
+    "source": "auto-flag",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/ECB_Ulrich_Bindseil/ssrn-5710762.pdf",
     "title": "ssrn-5710762",
-    "summary": "ECB staff memo on stablecoin regulation and policy considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes stablecoins and central bank digital currency through a monetary policy and financial stability lens, likely arguing that private digital money raises design, governance, and systemic questions that public money frameworks must address.",
+    "tags": [
+      "stablecoins",
+      "cbdc",
+      "financial stability",
+      "monetary policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/ECB/ECB Working Paper 3174 - Private Money and Public Debt - US Stablecoins and the Global Safe Asset Channel.pdf",
     "title": "ECB Working Paper 3174 - Private Money and Public Debt: US Stablecoins and the Global Safe Asset Channel",
-    "summary": "ECB working paper on the macro-financial implications of U.S. dollar-backed stablecoins and the global safe asset channel.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how US dollar stablecoins may transmit demand for US public debt through a global safe asset channel, with implications for monetary sovereignty, financial stability, and cross-border payment structures. Frames stablecoins as private money linked to public debt markets.",
+    "tags": [
+      "stablecoins",
+      "financial stability",
+      "cross-border",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/FTN008 - Evaluating the Implications of CBDC for Financial Stability.pdf",
     "title": "FTN008 - Evaluating the Implications of CBDC for Financial Stability",
-    "summary": "IMF note assessing CBDC implications for financial stability.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how central bank digital currencies could affect financial stability through changes in bank funding, deposit substitution, and payment behavior. Assesses design choices and policy safeguards that could mitigate risks while preserving public policy objectives.",
+    "tags": [
+      "cbdc",
+      "financial stability",
+      "imf",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/IMF - Central Bank Digital Currency - Further Navigating Challenges and Risks (Nov 2025).pdf",
@@ -3147,46 +3187,54 @@
   {
     "path": "Stablecoins_and_CBDC/IMF/IMF - NOTE- 2026 -001 Tokenized Finance Tobias Adrian.pdf",
     "title": "IMF - NOTE- 2026 -001 Tokenized Finance Tobias Adrian",
-    "summary": "Brief on NOTE/ 2026 /001 Tokenized Finance Tobias Adrian.",
+    "summary": "IMF note by Tobias Adrian examines tokenized finance, outlining how tokenization can reshape money and capital markets while raising policy, legal, and financial stability questions. It emphasizes interoperability, sound market design, and regulatory clarity for safe adoption.",
     "tags": [
-      "payments",
-      "stablecoins",
+      "imf",
       "tokenization",
-      "interoperability",
-      "regulation"
+      "digital assets",
+      "financial stability"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/IMF - Stablecoins and the Future of Payments: Evidence from Financial Markets, WP-26-52, March 2026 (Mar 2026).pdf",
     "title": "IMF - Stablecoins and the Future of Payments: Evidence from Financial Markets, WP-26-52, March 2026 (Mar 2026)",
-    "summary": "Brief on Stablecoins and the Future of Payments: Evidence from Financial Markets, WP/26/52, March 2026.",
+    "summary": "IMF working paper assesses how stablecoins are affecting payment markets using financial market evidence, highlighting implications for adoption, market structure, and financial stability. It frames stablecoins as a growing payments instrument with policy relevance for the future of money.",
     "tags": [
-      "payments",
       "stablecoins",
-      "crypto",
-      "regulation",
-      "adoption"
+      "payments",
+      "imf",
+      "financial stability"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/Imf cbdc.pdf",
     "title": "Imf cbdc",
-    "summary": "IMF primer on central bank digital currency design considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "IMF analysis of central bank digital currencies, focusing on policy design, monetary and financial stability implications, and implementation considerations for central banks. It likely compares CBDC models with existing payment and money systems.",
+    "tags": [
+      "imf",
+      "cbdc",
+      "policy",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/IMF FinTech Note 2025-010 - Financial Integrity Implications of Retail CBDCs.pdf",
     "title": "IMF FinTech Note 2025-010 - Financial Integrity Implications of Retail CBDCs",
-    "summary": "IMF FinTech Note (Nov 2025) examining financial integrity implications and controls for retail CBDCs.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Assesses how retail CBDCs could affect financial integrity, focusing on AML, CFT, sanctions screening, privacy, and cross-border risks. It argues that design choices and legal frameworks will determine whether CBDCs strengthen or weaken compliance outcomes.",
+    "tags": [
+      "cbdc",
+      "imf",
+      "aml",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/IMF Working Paper 26-5 - From Par to Pressure: Liquidity, Redemptions, and Fire Sales with a Systemic Stablecoin (Jan 2026).pdf",
@@ -3202,11 +3250,16 @@
   },
   {
     "path": "Stablecoins_and_CBDC/Independent/1774511437493.pdf",
-    "title": "1774511437493",
-    "summary": "(auto-flagged: upstream title looks unusable; please review and provide a clean title.)",
-    "tags": [],
-    "source": "manual",
-    "needsReview": false
+    "title": "Independent Analysis of Stablecoins and CBDC",
+    "summary": "Independent analysis of stablecoins and central bank digital currencies, likely comparing their roles, design trade-offs, and implications for payments, monetary systems, and financial services.",
+    "tags": [
+      "stablecoins",
+      "cbdc",
+      "payments",
+      "financial services"
+    ],
+    "source": "auto-flag",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Independent/E-Money and Stablecoin Tax Reporting Framework (2025).pdf",
@@ -3222,158 +3275,236 @@
   {
     "path": "Stablecoins_and_CBDC/Independent/Multi-Jurisdictional Stablecoins.pdf",
     "title": "Multi-Jurisdictional Stablecoins",
-    "summary": "Paper on legal and regulatory issues for multi-jurisdictional stablecoins.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes stablecoin models that operate across multiple legal regimes, focusing on how differing regulatory, reserve, and governance requirements affect issuance, use, and scalability. Highlights cross-border coordination challenges and implications for market structure and oversight.",
+    "tags": [
+      "stablecoins",
+      "regulation",
+      "cross-border",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Independent/Oxford Business Law Blog - What Scottish Banknotes Can Teach Stablecoin Regulators (Feb 2026).pdf",
     "title": "Oxford Business Law Blog - What Scottish Banknotes Can Teach Stablecoin Regulators (Feb 2026)",
-    "summary": "Short essay using Scottish banknote history to draw lessons for stablecoin regulation and issuer design.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Scottish banknotes offer a historical model for stablecoin oversight, showing how private money can circulate credibly when backed by clear redemption rules, prudential safeguards, and supervisory discipline. The analysis draws lessons for modern stablecoin regulation and financial stability.",
+    "tags": [
+      "stablecoins",
+      "regulation",
+      "financial stability",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Independent/The Hidden Plumbing of Stablecoins - Risks in the GENIUS Act Era.pdf",
     "title": "The Hidden Plumbing of Stablecoins - Risks in the GENIUS Act Era",
-    "summary": "Academic paper analyzing financial and technological risks of stablecoins as payment and settlement instruments in the post-GENIUS Act era.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the operational and market structure risks embedded in stablecoin infrastructure as policy attention rises around the GENIUS Act. Emphasizes hidden dependencies in issuance, reserves, settlement, and interoperability that could affect resilience and financial stability.",
+    "tags": [
+      "stablecoins",
+      "risk",
+      "regulation",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/2025 Asia Stablecoin Conference - Event Report (Sep 2025).pdf",
     "title": "2025 Asia Stablecoin Conference - Event Report (Sep 2025)",
-    "summary": "Recap of the Sept 2025 Asia Stablecoin Conference, sessions, and key takeaways from regulators, banks, and issuers.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Event report from the 2025 Asia Stablecoin Conference, highlighting regional policy developments, industry use cases, and infrastructure priorities shaping stablecoin adoption in Asia. It emphasizes interoperability, regulatory clarity, and cross-border payments as key enablers of scale.",
+    "tags": [
+      "stablecoins",
+      "cross-border",
+      "policy",
+      "adoption"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/2025 Stablecoin Trends - Building Bridges with Trust and Execution.pdf",
     "title": "2025 Stablecoin Trends - Building Bridges with Trust and Execution",
-    "summary": "Industry survey of 2025 stablecoin trends, adoption timelines, and strategies.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Reviews 2025 stablecoin developments, arguing that growth will depend on trust, regulatory clarity, and strong execution across payments and digital asset ecosystems. It frames stablecoins as infrastructure linking traditional finance and emerging tokenized markets.",
+    "tags": [
+      "stablecoins",
+      "payments",
+      "digital assets",
+      "trends"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/2025 Stablecoin Trends in Business and Beyond.pdf",
     "title": "2025 Stablecoin Trends in Business and Beyond",
-    "summary": "Survey-driven overview of how financial institutions plan to use stablecoins in 2025, covering opportunities, timelines, and strategies for tokenization and payments.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes 2025 stablecoin developments in business use cases, highlighting growing adoption beyond crypto-native activity and the strategic implications for payments, settlement, and financial services infrastructure.",
+    "tags": [
+      "stablecoins",
+      "adoption",
+      "payments",
+      "financial services"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Artemis - Stablecoin Payments.pdf",
     "title": "Artemis - Stablecoin Payments",
-    "summary": "Report on stablecoin payments with methodology, key findings, regional breakdowns, and transaction-type analysis.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how stablecoins are being positioned for payments use cases, focusing on market structure, adoption drivers, and operational constraints. Highlights implications for settlement efficiency, interoperability, and the broader digital assets landscape.",
+    "tags": [
+      "stablecoins",
+      "payments",
+      "settlement",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Banking on Stablecoins.pdf",
     "title": "Banking on Stablecoins",
-    "summary": "Industry perspective on how banks can approach stablecoins, including use cases and risk considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how stablecoins could reshape banking by affecting deposits, payments, and settlement, while highlighting the strategic, regulatory, and financial stability questions banks and policymakers must address.",
+    "tags": [
+      "stablecoins",
+      "payments",
+      "financial stability",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Binance Research - The Stablecoin Business (Nov 2025).pdf",
     "title": "Binance Research - The Stablecoin Business (Nov 2025)",
-    "summary": "Binance Research analysis of stablecoin business models, revenue streams, adoption trends, and competitive dynamics as of Nov 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes stablecoins as a business model, focusing on issuance economics, reserve management, distribution, and competitive dynamics. Highlights how regulation, payments use cases, and market structure shape profitability and adoption.",
+    "tags": [
+      "stablecoins",
+      "crypto",
+      "market research",
+      "payments"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Citi - Stablecoins 2030 Web3 to Wall Street.pdf",
     "title": "Citi - Stablecoins 2030 Web3 to Wall Street",
-    "summary": "Citi outlook on stablecoins through 2030 bridging Web3 and Wall Street.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how stablecoins could evolve from crypto-native instruments into mainstream financial infrastructure by 2030, highlighting use cases, adoption drivers, and implications for banks, payments, and market structure.",
+    "tags": [
+      "stablecoins",
+      "digital assets",
+      "payments",
+      "adoption"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Corporate Bank Digital Money a perspective on (May 2026).pdf",
     "title": "Corporate Bank Digital Money a perspective on (May 2026)",
-    "summary": "Brief on Corporate Bank Digital Money a perspective on.",
+    "summary": "Analyzes corporate bank digital money as a bank-issued digital settlement instrument for institutional use, comparing it with stablecoins and CBDCs. Focuses on implications for liquidity, interoperability, and market design in wholesale payments.",
     "tags": [
-      "payments",
       "stablecoins",
-      "tokenization",
-      "crypto",
-      "regulation"
+      "cbdc",
+      "liquidity",
+      "market design"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Crunchfish - Immediate vs Deferred Offline Mode.pdf",
     "title": "Crunchfish - Immediate vs Deferred Offline Mode",
-    "summary": "Crunchfish comparison of immediate vs deferred offline modes for CBDC/payments.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Compares immediate and deferred offline payment modes, focusing on how each handles transaction validation, double-spend risk, and settlement timing in digital cash systems. Highlights trade-offs between user experience, security, and operational design for offline CBDC or similar instruments.",
+    "tags": [
+      "cbdc",
+      "payments",
+      "risk",
+      "settlement"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/CSI - Stablecoins and Tokenized Deposits - What Bank Leaders Need to Know.pdf",
     "title": "CSI - Stablecoins and Tokenized Deposits: What Bank Leaders Need to Know",
-    "summary": "CSI primer comparing stablecoins and tokenized deposits for banks, highlighting market growth, regulatory alignment (GENIUS Act), and use cases for treasury and payments.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Compares stablecoins and tokenized deposits from a bank leadership perspective, focusing on their design, regulatory treatment, and strategic implications for payments and deposit models. It highlights key choices banks face as digital money infrastructure evolves.",
+    "tags": [
+      "stablecoins",
+      "tokenised deposits",
+      "strategy",
+      "payments"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/European Banks and Stablecoins Report 2025.pdf",
     "title": "European Banks and Stablecoins Report 2025",
-    "summary": "Report on European banks’ engagement with stablecoins in 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how European banks are approaching stablecoins in 2025, focusing on strategic use cases, regulatory constraints, and implications for payments and deposit models. Highlights adoption drivers alongside policy and market structure considerations.",
+    "tags": [
+      "stablecoins",
+      "europe",
+      "strategy",
+      "regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/EYP - Stablecoin Survey.pdf",
     "title": "EYP - Stablecoin Survey",
-    "summary": "Survey report on stablecoins and market sentiment/adoption themes.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Industry survey findings on stablecoin usage, demand, and perceived barriers, highlighting where market participants see near-term opportunities and constraints. Emphasizes adoption patterns, payments use cases, and strategic implications for digital asset markets.",
+    "tags": [
+      "stablecoins",
+      "adoption",
+      "payments",
+      "market research"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Federal Reserve - The Council of Economic Advisers April 2026Effects of Stablecoin Yield Prohibition on Bank Lending (Apr 2026).pdf",
     "title": "Federal Reserve - The Council of Economic Advisers April 2026Effects of Stablecoin Yield Prohibition on Bank Lending (Apr 2026)",
-    "summary": "Brief on The Council of Economic Advisers April 2026Effects of Stablecoin Yield Prohibition on Bank Lending.",
+    "summary": "Analyzes how banning yield on stablecoins could shift deposits back to banks, affecting funding costs and credit supply. Frames stablecoin design as a policy lever with implications for bank lending and financial stability.",
     "tags": [
-      "payments",
       "stablecoins",
-      "regulation",
-      "settlement",
-      "risk"
+      "federal reserve",
+      "policy",
+      "financial stability"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Fidelity Digital Assets - Stablecoins Explained.pdf",
     "title": "Fidelity Digital Assets - Stablecoins Explained",
-    "summary": "Primer from Fidelity Digital Assets explaining stablecoin basics, mechanics, and key considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Explains stablecoins as digital assets designed to maintain price stability, outlining major types, reserve models, and use cases. Highlights their role in payments and crypto markets, alongside key risks, regulation, and adoption considerations.",
+    "tags": [
+      "stablecoins",
+      "crypto",
+      "payments",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/GDF - Global Stablecoin Regulatory Playbook (Jan 2026).pdf",
     "title": "GDF - Global Stablecoin Regulatory Playbook",
-    "summary": "Global Digital Finance playbook outlining regulatory considerations and policy recommendations for stablecoin issuance and oversight.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Provides a practical framework for how stablecoin activity is being regulated across jurisdictions, highlighting common policy themes, supervisory expectations, and implementation considerations for market participants.",
+    "tags": [
+      "stablecoins",
+      "regulation",
+      "policy",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/How Stablecoins Can Improve Payments and Global Finance.pdf",
@@ -3389,32 +3520,41 @@
   {
     "path": "Stablecoins_and_CBDC/Industry/How to Launch a Stablecoin - Behind the Peg.pdf",
     "title": "How to Launch a Stablecoin - Behind the Peg",
-    "summary": "Step-by-step guide to designing and launching a stablecoin, covering purpose, compliance, governance, tech stack, distribution rails, and a M^0 protocol case study.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the practical requirements for launching a stablecoin, focusing on reserve design, issuance structure, compliance obligations, and operational controls needed to maintain a credible peg. It frames stablecoin success as a mix of market design, regulation, and risk management.",
+    "tags": [
+      "stablecoins",
+      "digital assets",
+      "regulation",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Kamhi, Nya EOP-CEA (Intern) - PowerPoint Presentation (Apr 2026).pdf",
     "title": "Kamhi, Nya EOP-CEA (Intern) - PowerPoint Presentation (Apr 2026)",
-    "summary": "Brief on PowerPoint Presentation.",
+    "summary": "Industry presentation on stablecoins and CBDC, likely comparing design choices, use cases, and policy implications for payments and monetary systems. It appears positioned as a market and policy overview rather than a technical specification.",
     "tags": [
-      "payments",
       "stablecoins",
-      "regulation",
-      "settlement",
-      "risk"
+      "cbdc",
+      "policy",
+      "market research"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/KPMG - Stablecoins Opportunities and Challenges.pdf",
     "title": "KPMG - Stablecoins Opportunities and Challenges",
-    "summary": "KPMG overview of stablecoin opportunities, risks, and challenges.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes stablecoins as a growing payments and digital asset instrument, highlighting efficiency and innovation opportunities alongside key challenges in regulation, risk management, and financial stability.",
+    "tags": [
+      "stablecoins",
+      "payments",
+      "regulation",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/PayWithZ - Bank-Grade Compliant Stablecoin Infrastructure (Nov 2025).pdf",
@@ -3430,10 +3570,15 @@
   {
     "path": "Stablecoins_and_CBDC/Industry/PCMI - How Banks Can Make Money with Stablecoins (Jun 2025).pdf",
     "title": "PCMI - How Banks Can Make Money with Stablecoins (Jun 2025)",
-    "summary": "Industry report on how banks can generate revenue with stablecoins through partnerships and product strategies.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes revenue models for banks using stablecoins, focusing on payments, treasury, custody, and deposit-linked services. Argues that monetization depends on regulatory clarity, operating model choices, and integration with existing banking infrastructure.",
+    "tags": [
+      "stablecoins",
+      "strategy",
+      "payments",
+      "financial services"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/PitchBook - Stablecoins Complement TradFi Not Replace It.pdf",
@@ -3449,66 +3594,106 @@
   {
     "path": "Stablecoins_and_CBDC/Industry/S&P Global Ratings - European Banks Are Embracing Stablecoins (Feb 2026).pdf",
     "title": "S&P Global Ratings - European Banks Are Embracing Stablecoins (Feb 2026)",
-    "summary": "S&P Global Ratings analysis of European banks’ stablecoin adoption, drivers, and potential implications.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "European banks are increasingly exploring stablecoins to improve payments efficiency, settlement speed, and product innovation, while adoption remains shaped by regulation, risk management, and broader digital asset strategy.",
+    "tags": [
+      "stablecoins",
+      "europe",
+      "payments",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Sveriges_Riksbank/Sveriges Riksbank Staff memo November 2025.pdf",
     "title": "Sveriges Riksbank Staff memo November 2025",
-    "summary": "Sveriges Riksbank staff memo on CBDC/stablecoin policy considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Riksbank staff analysis likely examines implications of stablecoins and central bank digital currency for Sweden's monetary system, payments, and financial stability. It situates policy and design choices within a central bank research context.",
+    "tags": [
+      "stablecoins",
+      "cbdc",
+      "policy",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/TRM_Labs/2025 Crypto Adoption and Stablecoin Usage - TRM Labs.pdf",
     "title": "2025 Crypto Adoption and Stablecoin Usage - TRM Labs",
-    "summary": "TRM Labs report on 2025 crypto adoption and stablecoin usage patterns.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "TRM Labs analyzes 2025 crypto adoption patterns with a focus on how stablecoins are used in practice, highlighting growth drivers, transaction behavior, and implications for the digital asset ecosystem.",
+    "tags": [
+      "stablecoins",
+      "crypto",
+      "adoption",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/UNITE_Global/Executive Briefing - Stablecoins vs UNITE Global FMI.pdf",
     "title": "Executive Briefing - Stablecoins vs UNITE Global FMI",
-    "summary": "UNITE Global briefing comparing stablecoins with FMI models.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Compares stablecoins with the UNITE Global FMI model, likely focusing on differences in settlement architecture, governance, and systemic implications for cross-border financial infrastructure. The briefing frames these models as competing approaches to digital money and market design.",
+    "tags": [
+      "stablecoins",
+      "cbdc",
+      "settlement",
+      "market design"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Unknown/RBI - On Stablecoins.pdf",
     "title": "RBI - On Stablecoins",
-    "summary": "RBI material discussing stablecoins from a policy and regulatory perspective.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "RBI assesses stablecoins through a central bank lens, emphasizing risks to monetary sovereignty, financial stability, and consumer protection while noting implications for payments and cross-border use. The analysis supports cautious policy and regulatory scrutiny rather than broad endorsement.",
+    "tags": [
+      "stablecoins",
+      "cbdc",
+      "risk",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Unknown/Stablecoins - effective bridge between fiat and crypto or a bridge too far.pdf",
     "title": "Stablecoins - effective bridge between fiat and crypto or a bridge too far",
-    "summary": "Discussion on whether stablecoins effectively bridge fiat and crypto.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Assesses whether stablecoins can serve as a practical link between fiat money and crypto markets, weighing their utility in payments and settlement against risks tied to regulation, stability, and broader financial system impacts.",
+    "tags": [
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Unknown/The New Era of StableCoins-1.pdf",
     "title": "The New Era of StableCoins-1",
-    "summary": "Overview of the evolving stablecoin landscape and future outlook.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the emerging role of stablecoins in digital finance, focusing on their potential to reshape payments, settlement, and monetary ecosystems. It likely frames stablecoins as a bridge between crypto markets and mainstream financial services, while highlighting policy and adoption questions.",
+    "tags": [
+      "stablecoins",
+      "payments",
+      "digital assets",
+      "cbdc"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Unknown/The Stablecoin Business.pdf",
     "title": "The Stablecoin Business",
-    "summary": "Business-oriented guide to stablecoin models and monetization.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes stablecoins as a business model, focusing on how issuers generate revenue, manage reserves, and scale distribution. Highlights the strategic, regulatory, and market structure factors shaping competition with banks and payment providers.",
+    "tags": [
+      "stablecoins",
+      "strategy",
+      "market design",
+      "payments"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Academic/Halaburda - Impossibility of Transparent and Decentralized Trading on Permissionless Blockchains (Dec 2025).pdf",
@@ -3524,10 +3709,14 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Academic/myths of blockchain governance.pdf",
     "title": "myths of blockchain governance",
-    "summary": "Academic paper debunking myths around blockchain governance.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Examines common misconceptions about blockchain governance, arguing that governance is neither absent nor purely decentralized but shaped by technical design, social coordination, and power structures. Highlights governance as a central factor in blockchain legitimacy and evolution.",
+    "tags": [
+      "digital assets",
+      "decentralization",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/BIS/BIS - How Deposits Can Harness Tokenisation (Nov 2025).pdf",
@@ -3543,42 +3732,67 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/GFTN/GFTN - Global Digital Assets Report.pdf",
     "title": "GFTN - Global Digital Assets Report",
-    "summary": "GFTN report on global digital asset trends and market infrastructure.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Global Digital Assets Report surveys the digital asset landscape, focusing on tokenization, market structure, and adoption trends across financial services. It highlights strategic implications for institutions navigating evolving infrastructure, regulation, and interoperability.",
+    "tags": [
+      "digital assets",
+      "tokenization",
+      "market research",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/GFTN/GFTN Global Digital Assets Report.pdf",
     "title": "GFTN Global Digital Assets Report",
-    "summary": "GFTN companion report on digital asset developments worldwide.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Global digital assets report surveying tokenization, blockchain infrastructure, and market development across the financial sector. It highlights adoption drivers, regulatory considerations, and strategic implications for institutions building digital asset capabilities.",
+    "tags": [
+      "digital assets",
+      "tokenization",
+      "market research",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/IMF/IMF Working Paper 25-186 - Blockchain Consensus Mechanisms - A Primer for Supervisors (2025 Update).pdf",
     "title": "IMF Working Paper 25-186 - Blockchain Consensus Mechanisms: A Primer for Supervisors",
-    "summary": "IMF working paper primer on blockchain consensus mechanisms and supervisory implications, with comparative analysis.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Primer for financial supervisors on blockchain consensus mechanisms, comparing how major designs work and the trade-offs they create for governance, security, scalability, and oversight. It frames consensus as a key policy and risk consideration in digital asset markets.",
+    "tags": [
+      "imf",
+      "primer",
+      "digital assets",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Asset Tokenization 101.pdf",
     "title": "Asset Tokenization 101",
-    "summary": "Introductory deck on what asset tokenization is and how it works.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Introductory overview of asset tokenization, explaining how real-world and financial assets can be represented on blockchain infrastructure to improve transferability, efficiency, and access. It frames tokenization as a practical digital assets use case with implications for market structure and financial services.",
+    "tags": [
+      "tokenization",
+      "digital assets",
+      "dlt",
+      "financial services"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/BlackRock - How Tokenisation Could Transform Finance.pdf",
     "title": "BlackRock - How Tokenisation Could Transform Finance",
-    "summary": "BlackRock view on tokenization’s potential to transform financial markets.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "BlackRock argues that tokenisation can modernize financial markets by improving operational efficiency, transparency, and transferability across assets. It frames tokenized funds and securities as a pathway to broader market innovation, while noting adoption depends on infrastructure, standards, and regulation.",
+    "tags": [
+      "tokenization",
+      "digital assets",
+      "financial services",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless (Apr 2026) (2).pdf",
@@ -3769,10 +3983,15 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/IOSCO/Financial Assets Tokenization .pdf",
     "title": "Financial Assets Tokenization ",
-    "summary": "IOSCO paper on tokenization of financial assets and regulatory considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes tokenization of financial assets, outlining potential efficiency gains in issuance, trading, and post-trade processes alongside risks related to market integrity, investor protection, and operational resilience. It frames regulatory and market structure considerations for broader adoption.",
+    "tags": [
+      "tokenization",
+      "digital assets",
+      "regulation",
+      "market design"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/MAS_FCA_DeutscheBank_Schroder/MAS, FCA, Deutsche Bank, Schroder - Tokenized Funds.pdf",
