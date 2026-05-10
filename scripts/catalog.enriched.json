@@ -828,10 +828,15 @@
   {
     "path": "Compliance_Risk_and_Standards/Singapore/Singapore - Payment Services Act 2019 (consolidated Mar 2025).pdf",
     "title": "Singapore - Payment Services Act 2019 (consolidated Mar 2025)",
-    "summary": "Consolidated Payment Services Act text (through Mar 2025) covering licensing, designation, safeguarding, and conduct rules for Singapore payment service providers.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Consolidated March 2025 text of Singapore's Payment Services Act 2019, setting the licensing, conduct, AML and supervisory framework for payment service providers and digital payment token activities. It is a core legal reference for compliance and risk assessment in Singapore payments.",
+    "tags": [
+      "regulation",
+      "compliance",
+      "payments",
+      "aml"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/SWIFT/After coexistence - whats next for ISO 20022 in 2026.pdf",
@@ -884,10 +889,15 @@
   {
     "path": "Compliance_Risk_and_Standards/UAE_VARA/VARA - Virtual Assets and Related Activities Regulations 2023.pdf",
     "title": "VARA - Virtual Assets and Related Activities Regulations 2023",
-    "summary": "Dubai VARA’s 2023 regulatory framework defining virtual assets, licensing, supervision, and activity-specific rules for VA service providers.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Overview of Dubai VARA's 2023 regulatory framework for virtual assets and related activities, outlining licensing, conduct, prudential, and market integrity requirements for firms operating in the emirate.",
+    "tags": [
+      "regulation",
+      "compliance",
+      "crypto",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/UK/FCA - Cryptoassets Consumer Research 2025 (Wave 6).pdf",
@@ -904,18 +914,28 @@
   {
     "path": "Compliance_Risk_and_Standards/UK/Financial Services and Markets Act 2023 (UKPGA 2023 c29).pdf",
     "title": "Financial Services and Markets Act 2023 (UKPGA 2023 c29)",
-    "summary": "UK Financial Services and Markets Act 2023 text modernizing regulatory powers, including stablecoins as payment systems and post-Brexit rulemaking changes.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "UK Financial Services and Markets Act 2023 updates the UK's post-Brexit financial regulatory framework, expanding rulemaking powers, reforming oversight, and creating pathways for digital asset and payment-related regulation.",
+    "tags": [
+      "regulation",
+      "uk",
+      "compliance",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/UK/Lexology - Panoramic Cryptoassets and Blockchain (UK).pdf",
     "title": "Lexology - Panoramic Cryptoassets and Blockchain (UK)",
-    "summary": "Lexology Panoramic report summarizing the UK legal and regulatory landscape for cryptoassets and blockchain, with topical snapshots.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Overview of the UK legal and regulatory framework for cryptoassets and blockchain, covering licensing, compliance obligations, market conduct, and enforcement. It highlights how evolving UK rules shape risk management and business activity in digital assets.",
+    "tags": [
+      "crypto",
+      "uk",
+      "regulation",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026).pdf",
@@ -943,476 +963,477 @@
   {
     "path": "Compliance_Risk_and_Standards/US/NIST IR 8408 - Understanding Stablecoin Technology and Related Security Considerations.pdf",
     "title": "NIST IR 8408 - Understanding Stablecoin Technology and Related Security Considerations",
-    "summary": "NIST guide to stablecoin architectures, implementation models, and key security considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "NIST IR 8408 explains stablecoin architectures, operational models, and key security risks, including custody, smart contracts, governance, and reserve management. It frames stablecoins as a technical and risk management issue with implications for U.S. oversight and standards.",
+    "tags": [
+      "stablecoins",
+      "security",
+      "risk",
+      "us"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/The Fed - Payment Stablecoins and Cross Border Payments: Benefits and Implications for Monetary Policy Implementation (Jul 2025).pdf",
     "title": "The Fed - Payment Stablecoins and Cross Border Payments: Benefits and Implications for Monetary Policy Implementation (Jul 2025)",
-    "summary": "Brief on The Fed - Payment Stablecoins and Cross Border Payments: Benefits and Implications for Monetary Policy Implementation.",
+    "summary": "Analyzes how payment stablecoins could improve cross-border payments while altering bank deposits, reserves, and transmission channels relevant to Federal Reserve monetary policy implementation. Assesses benefits, risks, and policy implications in a US regulatory context.",
     "tags": [
-      "payments",
       "stablecoins",
-      "crypto",
-      "regulation",
-      "policy"
+      "cross-border",
+      "monetary policy",
+      "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - 1777901224069.pdf",
     "title": "US - 1777901224069",
-    "summary": "Brief on 1777901224069.",
+    "summary": "Likely a US-focused compliance, risk, or standards item, based on the folder context. The document appears positioned around regulatory or operational considerations relevant to financial services in the United States.",
     "tags": [
-      "interoperability",
-      "regulation",
-      "policy",
-      "data",
-      "risk"
+      "compliance",
+      "risk",
+      "us",
+      "standards"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Agents of Chaos (Feb 2026).pdf",
     "title": "US - Agents of Chaos (Feb 2026)",
-    "summary": "Brief on Agents of Chaos.",
+    "summary": "Analyzes how AI agents could amplify operational, conduct, and systemic risks in U.S. financial services, while also creating new compliance and governance challenges. Emphasizes the need for controls, accountability, and regulatory readiness as agentic systems scale.",
     "tags": [
-      "regulation",
-      "policy",
-      "ai",
+      "agentic ai",
       "risk",
-      "security"
+      "compliance",
+      "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - April 2026Mutual Evaluation of Italy Anti-money laundering and countering the financing of terrorism and proliferation financing measures (Apr 2026).pdf",
     "title": "US - April 2026Mutual Evaluation of Italy Anti-money laundering and countering the financing of terrorism and proliferation financing measures (Apr 2026)",
-    "summary": "Brief on April 2026Mutual Evaluation of Italy Anti-money laundering and countering the financing of terrorism and proliferation financing measures.",
+    "summary": "Mutual evaluation of Italy's AML, CFT, and proliferation financing framework assesses technical compliance and effectiveness, highlighting strengths, gaps, and priority actions for supervision, enforcement, and risk mitigation.",
     "tags": [
-      "regulation",
-      "policy",
-      "risk",
       "compliance",
-      "us"
+      "risk",
+      "aml",
+      "financial crime"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Artificial Intelligence Index Report.pdf",
     "title": "US - Artificial Intelligence Index Report",
-    "summary": "Report on Artificial Intelligence Index Report.",
+    "summary": "Annual benchmark report tracking the state of artificial intelligence across research, industry, policy, and public adoption, with a US lens. It highlights rapid capability gains, rising investment, and growing governance and risk considerations.",
     "tags": [
-      "regulation",
-      "policy",
       "ai",
-      "genai",
-      "risk"
+      "benchmark",
+      "us",
+      "policy"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Authors Nils Grevenbrock Zhengpu Zhao.pdf",
     "title": "US - Authors Nils Grevenbrock Zhengpu Zhao",
-    "summary": "White paper on Authors Nils Grevenbrock Zhengpu Zhao.",
+    "summary": "Analysis of a US-focused compliance and risk topic, likely examining regulatory or standards-related implications for financial services. The item appears to be author metadata rather than a descriptive title, so the precise thesis is unclear.",
     "tags": [
-      "payments",
-      "regulation",
-      "ai",
-      "genai",
+      "us",
+      "compliance",
       "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Consultation Paper CP26-13** Cryptoasset Perimeter Guidance (Apr 2026).pdf",
     "title": "US - Consultation Paper CP26-13** Cryptoasset Perimeter Guidance (Apr 2026)",
-    "summary": "Brief on Consultation Paper CP26/13** Cryptoasset Perimeter Guidance.",
+    "summary": "Consultation paper CP26-13 outlines proposed US guidance on the regulatory perimeter for cryptoassets, clarifying how existing rules may apply and where supervisory expectations could tighten. It is most relevant for compliance, risk, and legal interpretation in digital asset activities.",
     "tags": [
       "crypto",
-      "regulation",
-      "policy",
-      "risk",
-      "compliance"
+      "compliance",
+      "us regulation",
+      "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - DeFi Lending: Returns, Leverage, and Liquidation (Feb 2026).pdf",
     "title": "US - DeFi Lending: Returns, Leverage, and Liquidation (Feb 2026)",
-    "summary": "Brief on DeFi Lending: Returns, Leverage, and Liquidation.",
+    "summary": "Analyzes DeFi lending markets in the US, focusing on how returns are generated, how leverage builds through collateralized borrowing, and how liquidation mechanisms transmit stress. Highlights implications for market risk, investor behavior, and regulatory oversight of digital assets.",
     "tags": [
-      "payments",
-      "crypto",
-      "regulation",
       "risk",
-      "compliance"
+      "crypto",
+      "us",
+      "digital assets"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - DEPOSIT TOKENS A foundation for stable digital money (May 2022).pdf",
     "title": "US - DEPOSIT TOKENS A foundation for stable digital money (May 2022)",
-    "summary": "Brief on DEPOSIT TOKENS A foundation for stable digital money.",
+    "summary": "Explains deposit tokens as bank-issued digital money designed to combine the stability of deposits with programmable, tokenized functionality. It argues they could support safer digital payments and settlement within existing regulated banking frameworks in the US.",
     "tags": [
-      "payments",
+      "tokenised deposits",
       "stablecoins",
-      "tokenization",
-      "crypto",
-      "regulation"
+      "payments",
+      "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Effective access to beneficial ownership information User-centred and responsible approaches (Apr 2026).pdf",
     "title": "US - Effective access to beneficial ownership information User-centred and responsible approaches (Apr 2026)",
-    "summary": "Brief on Effective access to beneficial ownership information User-centred and responsible approaches.",
+    "summary": "Analyzes how US beneficial ownership information can be made more effectively accessible through user-centred, responsible design. Emphasizes balancing investigative utility, privacy, governance, and compliance controls in access frameworks.",
     "tags": [
-      "regulation",
-      "policy",
-      "risk",
       "compliance",
-      "us"
+      "risk",
+      "us",
+      "policy"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026).pdf",
     "title": "US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026)",
-    "summary": "Brief on Euro stablecoins and their potential effect on sovereign bond markets.",
+    "summary": "Analyzes how euro-denominated stablecoins issued or distributed in the US could influence demand, liquidity, and transmission channels in sovereign bond markets. Focuses on regulatory, market structure, and financial stability implications across jurisdictions.",
     "tags": [
-      "payments",
       "stablecoins",
-      "tokenization",
-      "crypto",
-      "regulation"
+      "us",
+      "risk",
+      "financial stability"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Fact Sheet: Proposed Rule to Implement the GENIUS Act’s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements.pdf",
     "title": "US - Fact Sheet: Proposed Rule to Implement the GENIUS Act’s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements",
-    "summary": "Brief on Fact Sheet: Proposed Rule to Implement the GENIUS Act’s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements.",
+    "summary": "Fact sheet outlining a proposed US rule to implement the GENIUS Act's anti-money laundering and sanctions compliance requirements. Focuses on how covered entities would need to structure AML controls, compliance programs, and related oversight obligations.",
     "tags": [
-      "payments",
-      "stablecoins",
-      "regulation",
-      "policy",
+      "compliance",
+      "aml",
+      "us regulation",
       "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - FINTECH & PAYMENTS PAYMENT RAILS WITHOUT BORDERS: THE RISE OF STABLECOINS (Jul 2023).pdf",
     "title": "US - FINTECH & PAYMENTS PAYMENT RAILS WITHOUT BORDERS: THE RISE OF STABLECOINS (Jul 2023)",
-    "summary": "Brief on FINTECH & PAYMENTS PAYMENT RAILS WITHOUT BORDERS: THE RISE OF STABLECOINS.",
+    "summary": "Analyzes how stablecoins are emerging as borderless payment rails, with implications for speed, cost, and global reach in financial services. Highlights the related US regulatory, risk, and market structure questions shaping adoption.",
     "tags": [
-      "payments",
       "stablecoins",
-      "interoperability",
-      "crypto",
-      "regulation"
+      "payments",
+      "cross-border",
+      "us regulation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - FSI Insights on policy implementation Acting under (May 2026).pdf",
     "title": "US - FSI Insights on policy implementation Acting under (May 2026)",
-    "summary": "Brief on FSI Insights on policy implementation Acting under.",
+    "summary": "FSI Insights examines how authorities implement policy when acting under uncertainty, highlighting supervisory judgment, sequencing, and practical trade-offs in execution. It emphasizes implications for regulatory consistency, risk management, and institutional resilience in the US context.",
     "tags": [
-      "payments",
-      "regulation",
-      "policy",
-      "settlement",
-      "risk"
-    ],
-    "source": "upstream",
-    "needsReview": false
-  },
-  {
-    "path": "Compliance_Risk_and_Standards/US/US - Insurers subject to resolution.pdf",
-    "title": "US - Insurers subject to resolution",
-    "summary": "Brief on Insurers subject to resolution.",
-    "tags": [
-      "regulation",
       "policy",
       "risk",
       "compliance",
       "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Insurers subject to resolution.pdf",
+    "title": "US - Insurers subject to resolution",
+    "summary": "Analyzes how US insurers can be placed into resolution, outlining the legal and supervisory framework, triggers for intervention, and implications for policyholders and financial stability.",
+    "tags": [
+      "risk",
+      "regulation",
+      "us",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - International Foreign Bribery Taskforce | Indicators of Foreign Bribery.pdf",
     "title": "US - International Foreign Bribery Taskforce | Indicators of Foreign Bribery",
-    "summary": "Brief on International Foreign Bribery Taskforce | Indicators of Foreign Bribery.",
+    "summary": "US enforcement guidance outlines common indicators of foreign bribery in international business, highlighting red flags in third-party relationships, payments, procurement, and internal controls to support detection and investigation.",
     "tags": [
-      "payments",
-      "regulation",
-      "risk",
       "compliance",
-      "financial crime"
+      "risk",
+      "financial crime",
+      "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future (Apr 2026).pdf",
     "title": "US - Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future (Apr 2026)",
-    "summary": "Brief on Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future.",
+    "summary": "Speech argues that a digital euro would strengthen Europe's strategic autonomy by preserving monetary sovereignty and public money in an increasingly digital payments landscape. It frames the project as a policy and financial stability response to foreign dependence and technological change.",
     "tags": [
-      "payments",
-      "tokenization",
-      "regulation",
+      "eu",
       "policy",
-      "cross-border"
+      "payments",
+      "financial stability"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Leveraging shareholder data for beneficial ownership transparency (Apr 2026).pdf",
     "title": "US - Leveraging shareholder data for beneficial ownership transparency (Apr 2026)",
-    "summary": "Brief on Leveraging shareholder data for beneficial ownership transparency.",
+    "summary": "Analyzes how shareholder data can improve beneficial ownership transparency in the US, likely focusing on compliance, risk reduction, and stronger oversight of opaque ownership structures. It highlights data use as a tool for regulatory and financial crime objectives.",
     "tags": [
-      "regulation",
-      "policy",
-      "cross-border",
+      "compliance",
       "risk",
-      "compliance"
+      "us",
+      "financial crime"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels (Mar 2026).pdf",
     "title": "US - LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels (Mar 2026)",
-    "summary": "Brief on LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels.",
+    "summary": "Research paper presenting LeWorldModel, a stable end-to-end joint-embedding predictive architecture that learns from pixel inputs. The core contribution is a more stable world-modeling approach for prediction and representation learning, with broad relevance to AI system design.",
     "tags": [
-      "regulation",
-      "policy",
-      "t+1",
       "ai",
-      "risk"
+      "technology",
+      "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Machine Learning and IRB Capital Requirements: Advantages, Risks, and Recommendations∗ Christophe Hurlin†Christophe Pérignon‡ (Oct 2021).pdf",
     "title": "US - Machine Learning and IRB Capital Requirements: Advantages, Risks, and Recommendations∗ Christophe Hurlin†Christophe Pérignon‡ (Oct 2021)",
-    "summary": "Brief on Machine Learning and IRB Capital Requirements: Advantages, Risks, and Recommendations∗ Christophe Hurlin†Christophe Pérignon‡.",
+    "summary": "Analyzes the use of machine learning in internal ratings-based capital models, weighing gains in predictive accuracy against model risk, opacity, and governance challenges. Recommends supervisory safeguards to align innovation with prudent bank capital regulation in the US.",
     "tags": [
-      "regulation",
-      "ai",
-      "market research",
-      "adoption",
-      "risk"
+      "risk",
+      "compliance",
+      "us regulation",
+      "standards"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Making Stablecoins Stable, WP-26-74, April 2026 (Apr 2026).pdf",
     "title": "US - Making Stablecoins Stable, WP-26-74, April 2026 (Apr 2026)",
-    "summary": "Brief on Making Stablecoins Stable, WP/26/74, April 2026.",
+    "summary": "Analyzes how US stablecoin frameworks can better preserve par value and redemption confidence, focusing on reserve quality, legal structure, supervision, and run risk. Highlights implications for financial stability and the design of effective US regulation.",
     "tags": [
-      "payments",
       "stablecoins",
-      "regulation",
-      "policy",
-      "risk"
+      "us regulation",
+      "risk",
+      "financial stability"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - May 05, 2026 Categories: Agentic Commerce (Apr 2026).pdf",
     "title": "US - May 05, 2026 Categories: Agentic Commerce (Apr 2026)",
-    "summary": "Brief on May 05, 2026 Categories: Agentic Commerce.",
+    "summary": "Analyzes April 2026 developments in agentic commerce in the US, focusing on how autonomous AI agents affect payments, compliance, and risk management. Highlights emerging standards and regulatory considerations for financial services adoption.",
     "tags": [
+      "agentic ai",
       "payments",
-      "crypto",
-      "regulation",
-      "ai",
-      "risk"
+      "compliance",
+      "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Position: Agentic AI systems should be making Bayes-consistent decisions.pdf",
     "title": "US - Position: Agentic AI systems should be making Bayes-consistent decisions",
-    "summary": "Brief on Position: Agentic AI systems should be making Bayes-consistent decisions.",
+    "summary": "Argues that agentic AI used in decision-making should satisfy Bayes consistency, aligning outputs with statistically optimal choices under uncertainty. Frames the issue as a US governance and risk standard for reliable AI deployment.",
     "tags": [
-      "regulation",
-      "policy",
-      "ai",
+      "agentic ai",
       "risk",
-      "compliance"
+      "standards",
+      "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025 (Dec 2025).pdf",
     "title": "US - Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025 (Dec 2025)",
-    "summary": "Brief on Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025.",
+    "summary": "Argues that professional software developers in 2025 derive the most value from AI coding agents through structured oversight, clear controls, and disciplined workflows, rather than unconstrained experimentation. Emphasizes governance, reliability, and measurable productivity in enterprise use.",
     "tags": [
-      "regulation",
       "ai",
-      "market research",
-      "risk",
-      "compliance"
+      "agentic ai",
+      "us",
+      "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Regulatory Priorities: Payments report (Mar 2026).pdf",
     "title": "US - Regulatory Priorities: Payments report (Mar 2026)",
-    "summary": "",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Overview of likely US regulatory priorities shaping the payments sector in March 2026, with emphasis on compliance expectations, risk management, and evolving policy direction for market participants.",
+    "tags": [
+      "payments",
+      "us regulation",
+      "compliance",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Sample Report.pdf",
     "title": "US - Sample Report",
-    "summary": "Report on Sample Report.",
+    "summary": "Overview of a US-focused report in a compliance, risk, and standards context. Likely addresses regulatory expectations, risk management, and applicable standards shaping financial services activity in the United States.",
     "tags": [
-      "crypto",
-      "regulation",
-      "policy",
-      "data",
-      "risk"
+      "us",
+      "compliance",
+      "risk",
+      "standards"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Securing AI-Generated Code | Replit White Paper.pdf",
     "title": "US - Securing AI-Generated Code | Replit White Paper",
-    "summary": "White paper on Securing AI-Generated Code | Replit White Paper.",
+    "summary": "White paper on securing AI-generated code in a US context, focusing on governance, control frameworks, and practical risk mitigation for software development. It highlights how organizations can manage security, compliance, and operational exposure as AI coding tools are adopted.",
     "tags": [
-      "regulation",
       "ai",
       "risk",
-      "security",
-      "compliance"
+      "compliance",
+      "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - SoK: Blockchain Agent-to-Agent Payments (Apr 2026).pdf",
     "title": "US - SoK: Blockchain Agent-to-Agent Payments (Apr 2026)",
-    "summary": "Brief on SoK: Blockchain Agent-to-Agent Payments.",
+    "summary": "Analyzes blockchain-based agent-to-agent payments in the US, focusing on how autonomous software agents could transact using digital assets and smart contracts. Highlights implications for compliance, risk management, and emerging regulatory standards.",
     "tags": [
+      "us",
       "payments",
-      "tokenization",
-      "interoperability",
-      "regulation",
-      "settlement"
+      "crypto",
+      "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC (Apr 2026).pdf",
     "title": "US - Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC (Apr 2026)",
-    "summary": "Report on Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC.",
+    "summary": "Survey-based analysis of Nordic financial services highlights how banks and fintechs are responding to regulatory pressure, digital transformation, and evolving customer expectations. It emphasizes operational resilience, compliance priorities, and technology adoption across the region.",
     "tags": [
-      "payments",
-      "stablecoins",
-      "tokenization",
-      "interoperability",
-      "crypto"
+      "risk",
+      "compliance",
+      "standards",
+      "transformation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Tokenized Deposits Paper v11.pptx (Apr 2026).pdf",
     "title": "US - Tokenized Deposits Paper v11.pptx (Apr 2026)",
-    "summary": "Brief on Tokenized Deposits Paper v11.pptx.",
+    "summary": "Analyzes tokenized deposits in the US, focusing on legal, regulatory, and risk considerations for bank-issued digital money. Assesses how tokenized deposits compare with stablecoins and their implications for payments, settlement, and financial stability.",
     "tags": [
-      "payments",
-      "stablecoins",
-      "tokenization",
+      "tokenised deposits",
+      "us",
       "regulation",
-      "settlement"
+      "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Who owns crypto in the euro area? Drivers of crypto adoption, payment use, and its interaction with fiat cash.pdf",
     "title": "US - Who owns crypto in the euro area? Drivers of crypto adoption, payment use, and its interaction with fiat cash",
-    "summary": "Brief on Who owns crypto in the euro area? Drivers of crypto adoption, payment use, and its interaction with fiat cash.",
+    "summary": "Analyzes who holds and uses crypto in the euro area, identifying adoption drivers, payment behavior, and how crypto use interacts with fiat cash. Highlights implications for consumer payments patterns, risk, and policy assessment.",
     "tags": [
-      "payments",
       "crypto",
-      "regulation",
-      "policy",
-      "market research"
+      "payments",
+      "risk",
+      "europe"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US Public Law 119-27 - GENIUS Act Stablecoin Regulation (Jul 2025).pdf",
     "title": "US Public Law 119-27 - GENIUS Act Stablecoin Regulation (Jul 2025)",
-    "summary": "U.S. law establishing a federal framework for payment stablecoins, issuer requirements, supervision, and consumer protections (GENIUS Act).",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "US Public Law 119-27 establishes a federal framework for payment stablecoins, setting rules for issuance, reserve backing, supervision, and consumer protections. It clarifies the US regulatory perimeter for stablecoins and related compliance obligations.",
+    "tags": [
+      "stablecoins",
+      "us regulation",
+      "compliance",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/UTS_Tech/UTS Tech – Conformité Bancaire et Moyens de Paiement au Maroc.pdf",
     "title": "UTS Tech – Conformité Bancaire et Moyens de Paiement au Maroc",
-    "summary": "French guide on banking compliance and payment means in Morocco.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes banking compliance and payment instruments in Morocco, focusing on regulatory obligations, operational controls, and risk management considerations for financial institutions. It highlights how compliance frameworks shape payment practices and oversight.",
+    "tags": [
+      "compliance",
+      "payments",
+      "risk",
+      "regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/zkOrigoPlus/zkOrigoPlus  a stateless real-time compliance validator -1.pdf",
     "title": "zkOrigoPlus  a stateless real-time compliance validator -1",
-    "summary": "zkOrigoPlus proposal for a stateless, real-time compliance validator using cryptography.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Overview of zkOrigoPlus, a stateless real-time compliance validation approach focused on checking transactions or data flows without retaining state. It emphasizes faster controls, reduced operational burden, and standards-aligned compliance processing.",
+    "tags": [
+      "compliance",
+      "risk",
+      "standards",
+      "technology"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Core_Banking_and_Lending_Modernization/FIS/FIS Commercial Lending Suite Case Study.pdf",
     "title": "FIS Commercial Lending Suite Case Study",
-    "summary": "Case study on FIS commercial lending suite modernization.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Case study on FIS Commercial Lending Suite, focusing on how lending platform modernization can streamline commercial loan origination, servicing, and operational efficiency for financial institutions.",
+    "tags": [
+      "core banking",
+      "financial services",
+      "operations"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Core_Banking_and_Lending_Modernization/Gulf_Islamic_Bank/T24_Transact Transformation Program.pdf",
-    "title": "T24_Transact Transformation Program",
-    "summary": "Gulf Islamic Bank T24 Transact core banking transformation program overview.",
-    "tags": [],
+    "title": "Gulf Islamic Bank T24 Transact Transformation Program",
+    "summary": "Overview of a core banking modernization initiative centered on the T24 Transact platform, likely outlining program scope, migration approach, and expected operational and product benefits for Gulf Islamic Bank.",
+    "tags": [
+      "core banking",
+      "transformation",
+      "financial services"
+    ],
     "source": "auto-flag",
     "needsReview": true
   },
@@ -1430,50 +1451,77 @@
   {
     "path": "Core_Banking_and_Lending_Modernization/Zafin/Core Modernization Playbook.pdf",
     "title": "Core Modernization Playbook",
-    "summary": "Zafin playbook for core banking modernization and product agility.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how banks can modernize core systems through phased transformation, product simplification, and architecture change to improve agility, reduce operational complexity, and support faster innovation in lending and deposit businesses.",
+    "tags": [
+      "core banking",
+      "transformation",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "FX_and_Currency_Strategy/SWIFT/SWIFT - RMB Tracker (Feb 2026).pdf",
     "title": "SWIFT - RMB Tracker (Feb 2026)",
-    "summary": "Monthly SWIFT Business Intelligence report tracking RMB internationalization metrics and payment share trends (Feb 2026).",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "SWIFT's February 2026 RMB Tracker likely assesses the renminbi's share and trajectory in global payments and trade flows, offering a data-based view of international currency usage and cross-border settlement patterns.",
+    "tags": [
+      "payments",
+      "currency",
+      "cross-border",
+      "data"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "FX_and_Currency_Strategy/UNITE_Global/Currency Freedom.pdf",
     "title": "Currency Freedom",
-    "summary": "UNITE Global paper on achieving currency flexibility in cross-border flows.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Examines the strategic case for greater choice and flexibility in currency use, likely focusing on how currency competition, convertibility, or access can affect financial systems, cross-border activity, and policy outcomes.",
+    "tags": [
+      "currency",
+      "strategy",
+      "cross-border"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "FX_and_Currency_Strategy/UNITE_Global/From Dollar Dependence to Currency Balance.pdf",
     "title": "From Dollar Dependence to Currency Balance",
-    "summary": "UNITE Global view on reducing dollar dependence via multi-currency strategies.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the risks of heavy reliance on the US dollar and argues for a more balanced currency strategy to improve resilience, autonomy, and stability in international finance and trade.",
+    "tags": [
+      "currency",
+      "strategy",
+      "geopolitics"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "FX_and_Currency_Strategy/UNITE_Global/FXaaS - The competitive edge in the Real-Time Economy.pdf",
     "title": "FXaaS - The competitive edge in the Real-Time Economy",
-    "summary": "UNITE Global on FX-as-a-Service as an edge in real-time economies.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Argues that FX as a Service helps firms compete in a real-time economy by embedding foreign exchange capabilities into payments and treasury flows, improving speed, transparency, and operational efficiency for cross-border transactions.",
+    "tags": [
+      "payments",
+      "cross-border",
+      "strategy",
+      "currency"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "FX_and_Currency_Strategy/UNITE_Global/USD Demand and the Use of Intermediary Currencies.pdf",
     "title": "USD Demand and the Use of Intermediary Currencies",
-    "summary": "UNITE Global analysis of USD demand and intermediary currency usage.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes why the US dollar remains the dominant intermediary currency in foreign exchange markets, emphasizing network effects, liquidity, and market structure. Highlights implications for currency strategy, cross-border transactions, and global monetary dynamics.",
+    "tags": [
+      "currency",
+      "cross-border",
+      "us",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Academic/arXiv.org - From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence (Dec 2025).pdf",
@@ -1492,127 +1540,195 @@
   {
     "path": "Market_Research_and_Fintech_Landscapes/Academic/Kakushadze & Serur - Trading Strategies (SSRN 3247865, 2018).pdf",
     "title": "Kakushadze & Serur - Trading Strategies (SSRN 3247865)",
-    "summary": "SSRN academic paper surveying trading strategies and their performance characteristics across markets.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Academic paper examining trading strategies, likely comparing construction, performance, and implementation considerations across systematic approaches. Useful as a market-oriented reference on strategy design and evaluation in financial markets.",
+    "tags": [
+      "market research",
+      "strategy",
+      "benchmark"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Accenture/Accenture - Top Banking Trends 2026 (Unconstrained Banking).pdf",
     "title": "Accenture - Top Banking Trends 2026 (Unconstrained Banking)",
-    "summary": "Accenture's 2026 banking trends report on technology, operating model shifts, and competitive imperatives.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Accenture argues banks are entering an era of unconstrained banking, where AI, ecosystem models, and modernized technology stacks reshape products, operations, and customer relationships. Competitive advantage depends on faster transformation and strategic reinvention.",
+    "tags": [
+      "market research",
+      "transformation",
+      "ai",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/BCG/BCG - State of Fintech Q3 2025 - Digital Assets Deep Dive.pdf",
     "title": "BCG - State of Fintech Q3 2025 - Digital Assets Deep Dive",
-    "summary": "BCG Q3 2025 deep dive on digital assets and fintech state.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "BCG's Q3 2025 fintech review examines digital assets as a key fintech growth area, assessing market momentum, investment patterns, and the evolving role of tokenization, stablecoins, and crypto in financial services.",
+    "tags": [
+      "market research",
+      "fintech",
+      "digital assets",
+      "tokenization"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Binance/Binance - State of the Blockchain 2025 Year in Review.pdf",
     "title": "Binance - State of the Blockchain 2025 Year in Review",
-    "summary": "Binance annual review of crypto market milestones, adoption metrics, and regulatory/compliance developments in 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Reviews 2025 blockchain market developments across major digital asset segments, highlighting adoption trends, infrastructure progress, and shifting market structure. Frames the year as one of broader institutional participation and maturing crypto ecosystems.",
+    "tags": [
+      "crypto",
+      "digital assets",
+      "market research",
+      "adoption"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/BIS/BIS - Annual Economic Report 2025 Chapter III - The Next-Generation Monetary and Financial System.pdf",
     "title": "BIS - Annual Economic Report 2025 Chapter III - The Next-Generation Monetary and Financial System",
-    "summary": "BIS Annual Economic Report 2025 Chapter III on the evolution of the monetary and financial system and the role of new digital infrastructures.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "BIS argues for a next-generation monetary and financial system that combines tokenization, programmability, and trusted central bank money to improve payments and settlement while preserving financial stability. It contrasts unified ledger-style architectures with fragmented crypto models and emphasizes policy-led design.",
+    "tags": [
+      "bis",
+      "tokenization",
+      "settlement",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/BIS/BIS_ Big techs, credit, and digital money.pdf",
-    "title": "BIS_ Big techs, credit, and digital money",
-    "summary": "BIS report on big tech involvement in credit and digital money.",
-    "tags": [],
+    "title": "Big Techs, Credit, and Digital Money",
+    "summary": "Analyzes how big tech firms could reshape credit intermediation and digital money by leveraging data, networks, and platform scale. Assesses implications for competition, financial stability, and the structure of financial services.",
+    "tags": [
+      "bis",
+      "financial stability",
+      "financial services"
+    ],
     "source": "auto-flag",
     "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/Bank of Canada - Project Samara Research Paper (SAP 2026-8).pdf",
     "title": "Bank of Canada - Project Samara Research Paper (SAP 2026-8)",
-    "summary": "Bank of Canada staff analytical paper describing Project Samara, with design findings and experiments involving industry participants.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Bank of Canada research on Project Samara examines how digital forms of money and related infrastructure could support future payment and settlement systems, with attention to design trade-offs, policy implications, and financial system resilience.",
+    "tags": [
+      "cbdc",
+      "payments",
+      "market research",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/BOC - The Costs of Electronic Retail Payment Networks.pdf",
     "title": "BOC - The Costs of Electronic Retail Payment Networks",
-    "summary": "Central bank research on the cost economics of electronic retail payment networks.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the cost structure of electronic retail payment networks, focusing on how network design, scale, and pricing affect efficiency and competition in payment systems. Highlights implications for policy and market performance in retail payments.",
+    "tags": [
+      "payments",
+      "market research",
+      "retail banking",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/Norges Bank - Strategy 28.pdf",
     "title": "Norges Bank - Strategy 28",
-    "summary": "Norges Bank's Strategy 28 sets priorities through 2028 on price stability, financial stability, secure payments, and organizational capabilities as Norway adapts to a changing economy.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Norges Bank's Strategy 28 outlines priorities for maintaining monetary and financial stability while modernizing central bank operations, payments, and data capabilities. It emphasizes resilience, efficiency, and preparedness amid technological and geopolitical change.",
+    "tags": [
+      "strategy",
+      "market research",
+      "financial stability",
+      "payments"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/CEPR/CEPR - Frontiers of Digital Finance.pdf",
     "title": "CEPR - Frontiers of Digital Finance",
-    "summary": "CEPR collection on emerging research at the frontiers of digital finance.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "CEPR's Frontiers of Digital Finance examines how emerging technologies are reshaping financial intermediation, payments, and market structure, highlighting both innovation opportunities and the policy, regulatory, and stability challenges they create.",
+    "tags": [
+      "fintech",
+      "market research",
+      "transformation",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Deloitte/2026 Banking and Capital Markets Outlook - Deloitte.pdf",
     "title": "2026 Banking and Capital Markets Outlook - Deloitte",
-    "summary": "Deloitte outlook on 2026 banking and capital markets, AI and stablecoins themes.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Deloitte's 2026 outlook examines how banks and capital markets firms are adapting strategy, technology, and operating models to manage margin pressure, regulatory demands, and shifting client expectations. It highlights transformation priorities shaping growth and resilience.",
+    "tags": [
+      "market research",
+      "strategy",
+      "transformation",
+      "financial services"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Deloitte/Deloitte - StateofAI Report vF (Jan 2026).pdf",
     "title": "Deloitte - StateofAI Report vF (Jan 2026)",
-    "summary": "Report on StateofAI Report vF.",
+    "summary": "Deloitte's State of AI report surveys enterprise AI adoption, highlighting where organizations are moving from experimentation to scaled deployment, the barriers to value realization, and the operating model, governance, and workforce changes needed to capture returns.",
     "tags": [
-      "regulation",
       "ai",
       "market research",
-      "fintech"
+      "adoption",
+      "strategy"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Deloitte/Deloitte - Tech Trends 2026.pdf",
     "title": "Deloitte - Tech Trends 2026",
-    "summary": "Deloitte’s 2026 Tech Trends report on scaling AI, data foundations, platform modernization, trust, and human-centered design for enterprises.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Deloitte's Tech Trends 2026 surveys emerging enterprise technologies and assesses how they may reshape business models, operating processes, and competitive positioning. It emphasizes practical adoption pathways, risks, and strategic implications for financial services leaders.",
+    "tags": [
+      "market research",
+      "technology",
+      "strategy",
+      "transformation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Entlaq/Egyptian Fin-Tech Landscape 2024.pdf",
     "title": "Egyptian Fin-Tech Landscape 2024",
-    "summary": "Survey of Egypt’s fintech landscape in 2024.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Maps Egypt's fintech ecosystem in 2024, highlighting sector growth, investment activity, regulatory support, and key market segments. It offers a landscape view of opportunities, challenges, and adoption trends shaping digital financial services.",
+    "tags": [
+      "market research",
+      "fintech",
+      "adoption",
+      "financial services"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey - Global Payments Report 2025 - Competing systems contested outcomes.pdf",
     "title": "McKinsey - Global Payments Report 2025",
-    "summary": "McKinsey 2025 global payments outlook on competing systems, revenue shifts, and strategic implications.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the global payments industry's growth, margin pressures, and shifting revenue pools, highlighting how real-time infrastructure, cross-border modernization, and value-added services are reshaping competitive strategy for banks and fintechs.",
+    "tags": [
+      "payments",
+      "market research",
+      "strategy",
+      "cross-border"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey - How Retail Banks Build Strategic Distance (Dec 2025).pdf",
@@ -1627,67 +1743,106 @@
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey_ 2025 global banking review.pdf",
-    "title": "McKinsey_ 2025 global banking review",
-    "summary": "McKinsey 2025 global banking review on profitability, technology, and risk.",
-    "tags": [],
+    "title": "McKinsey 2025 Global Banking Review",
+    "summary": "McKinsey's 2025 global banking review likely assesses the banking sector's performance, strategic pressures, and growth outlook across regions, highlighting how profitability, technology investment, and business model shifts are reshaping competitive dynamics.",
+    "tags": [
+      "market research",
+      "financial services",
+      "strategy"
+    ],
     "source": "auto-flag",
     "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Annual Global Crypto Hedge Fund Report 2025.pdf",
     "title": "Annual Global Crypto Hedge Fund Report 2025",
-    "summary": "Annual report on global crypto hedge fund performance and strategies in 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Global crypto hedge funds are expanding assets, institutional participation, and trading sophistication, while adapting to tighter regulation and evolving market structure. The report benchmarks fund strategies, allocations, service providers, and regional trends in digital assets.",
+    "tags": [
+      "crypto",
+      "market research",
+      "digital assets",
+      "benchmark"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/APAC Digital Asset Adoption 2025 - Stablecoins Tokenization Integration.pdf",
     "title": "APAC Digital Asset Adoption 2025 - Stablecoins Tokenization Integration",
-    "summary": "APAC survey on stablecoin and tokenization adoption and integration paths.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes digital asset adoption across APAC in 2025, focusing on how stablecoins and tokenization are being integrated into financial services. Highlights regional market momentum, use cases, and strategic implications for institutions.",
+    "tags": [
+      "market research",
+      "stablecoins",
+      "tokenization",
+      "adoption"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Chainalysis - Geography of Crypto Report 2025.pdf",
     "title": "Chainalysis - Geography of Crypto Report 2025",
-    "summary": "Chainalysis regional analysis of crypto adoption, on-chain flows, and policy enforcement trends across key markets in 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Global crypto activity in 2025 is increasingly shaped by regional differences in adoption, use cases, and regulatory conditions. The report compares markets to show where retail, institutional, and illicit flows are growing or shifting.",
+    "tags": [
+      "crypto",
+      "market research",
+      "adoption",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Digital Assets Outlook 2026.pdf",
     "title": "Digital Assets Outlook 2026",
-    "summary": "High-level outlook for digital assets heading into 2026, capturing major themes and market signals.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Outlooks for 2026 likely assess how digital asset markets are evolving across regulation, adoption, and infrastructure, with attention to institutional participation and the role of tokenization in financial services.",
+    "tags": [
+      "digital assets",
+      "market research",
+      "tokenization",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Digital Assets Report - Fasanara and Glassnode (Q4 2025).pdf",
     "title": "Digital Assets Report - Fasanara and Glassnode (Q4 2025)",
-    "summary": "Institutional perspective on digital assets in Q4 2025, with market structure insights and on-chain analytics from Fasanara and Glassnode.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Quarterly market research on digital assets, combining investment perspective and on-chain analytics to assess market structure, adoption trends, and key risks shaping the crypto landscape in Q4 2025.",
+    "tags": [
+      "market research",
+      "digital assets",
+      "crypto",
+      "trends"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Digital Assets UAE - Lessons from 2025, Signals for 2026.pdf",
     "title": "Digital Assets UAE - Lessons from 2025, Signals for 2026",
-    "summary": "UAE-focused digital assets recap for 2025 and forward-looking signals for 2026.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Reviews the UAE digital assets landscape in 2025, highlighting regulatory progress, market structure, and adoption signals that may shape strategy and policy in 2026. Emphasizes implications for fintech participants, investors, and financial services incumbents.",
+    "tags": [
+      "digital assets",
+      "market research",
+      "regulation",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/EFG - Outlook 2026.pdf",
     "title": "EFG - Outlook 2026",
-    "summary": "EFG’s annual outlook presenting top 10 themes for 2026 and a review of 2025 predictions across macro and geopolitical topics.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Forward-looking market research on the fintech and digital banking landscape through 2026, highlighting expected industry shifts, strategic priorities, and likely areas of transformation. The report appears positioned as an outlook for planning and benchmarking.",
+    "tags": [
+      "market research",
+      "trends",
+      "strategy",
+      "transformation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Finovate - Fintech at the Crossroads (2026).pdf",
@@ -1703,26 +1858,41 @@
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/FinTech District - Italian Fintech Map 2025.pdf",
     "title": "FinTech District - Italian Fintech Map 2025",
-    "summary": "Comprehensive map of Italy’s 2025 fintech ecosystem, profiling sectors, companies, investors, and growth trends.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Maps Italy's fintech ecosystem in 2025, highlighting key segments, market participants, and growth patterns. Provides a landscape view of sector development, adoption trends, and strategic positioning within financial services.",
+    "tags": [
+      "market research",
+      "fintech",
+      "financial services",
+      "adoption"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/FinTech Group - Digital Assets Market Update Fall 2025.pdf",
     "title": "FinTech Group - Digital Assets Market Update Fall 2025",
-    "summary": "FinTech Group fall 2025 snapshot of digital asset markets, adoption trends, and capital flows.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Market update on the digital assets sector in fall 2025, highlighting key market developments, adoption trends, and strategic implications for fintech participants. It frames digital assets as an evolving segment shaped by technology, regulation, and investor sentiment.",
+    "tags": [
+      "market research",
+      "digital assets",
+      "fintech",
+      "trends"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Fintech in ASEAN 2025.pdf",
     "title": "Fintech in ASEAN 2025",
-    "summary": "Overview of the 2025 fintech landscape across ASEAN, with ecosystem growth, investment, and regulatory highlights.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the fintech landscape across ASEAN in 2025, highlighting market growth drivers, competitive dynamics, and key opportunities in digital banking and payments. Likely emphasizes regional adoption trends, regulatory variation, and strategic implications for financial services providers.",
+    "tags": [
+      "market research",
+      "fintech",
+      "asean",
+      "trends"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Goldman Sachs - The US-China Tech Race Issue 144 (Dec 2025).pdf",
@@ -1749,37 +1919,53 @@
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/IMF WP 25-255 - Taxing Mobile Money Theory and Evidence.pdf",
     "title": "IMF WP 25-255 - Taxing Mobile Money: Theory and Evidence",
-    "summary": "IMF Working Paper 25/255 modeling mobile money taxation and presenting empirical evidence on impacts.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the economic rationale and real-world effects of taxing mobile money, combining theory and evidence to assess impacts on usage, inclusion, and government revenue. It highlights trade-offs between fiscal goals and broader financial services adoption.",
+    "tags": [
+      "imf",
+      "tax",
+      "financial services",
+      "market research"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Logica - Future of Money 2025 Highlight Report.pdf",
     "title": "Logica - Future of Money 2025 Highlight Report",
-    "summary": "Logica consumer research snapshot on how Americans earn, save, spend, and plan in 2025 amid inflation worries and economic uncertainty.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Highlights key shifts shaping money and banking in 2025, including digital assets, payments modernization, AI, and regulatory change. Frames how financial institutions can adapt strategy and operating models to emerging market structures.",
+    "tags": [
+      "market research",
+      "financial services",
+      "payments",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Pricing Guide for B2B SaaS Founders.pdf",
     "title": "Pricing Guide for B2B SaaS Founders",
-    "summary": "Guide for B2B SaaS founders on building effective pricing strategies.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Guide to designing and testing pricing for B2B SaaS, covering value metrics, packaging, customer segmentation, and monetization trade-offs. Emphasizes pricing as a strategic growth lever rather than a one-time finance decision.",
+    "tags": [
+      "pricing",
+      "strategy",
+      "market research"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Reimagining Everyday Banking Products - Oct 2025.pdf",
     "title": "Reimagining Everyday Banking Products - Oct 2025",
-    "summary": "White paper on redesigning everyday banking products to meet evolving customer needs and digital expectations.",
+    "summary": "Analyzes how everyday banking products are being redesigned through digital experiences, embedded capabilities, and data-driven personalization. Highlights strategic implications for incumbents competing on customer value, product simplicity, and operating model change.",
     "tags": [
+      "market research",
       "retail banking",
-      "product"
+      "product",
+      "transformation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/RFI Global - Trends and Predictions 2026 (Financial Services).pdf",
@@ -1795,138 +1981,182 @@
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/State of Crypto - Market Outlook 2026 (Dec 2025).pdf",
     "title": "State of Crypto - Market Outlook 2026 (Dec 2025)",
-    "summary": "Market outlook for 2026 highlighting crypto adoption, macro drivers, and investment themes as of December 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the 2026 crypto market outlook, likely assessing macro drivers, adoption trends, and sector positioning across digital assets. Frames expected opportunities and risks for market participants in a maturing crypto ecosystem.",
+    "tags": [
+      "crypto",
+      "market research",
+      "digital assets",
+      "trends"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Strategies for Scalable Sustainable Operations - Banking Perspective.pdf",
     "title": "Strategies for Scalable Sustainable Operations - Banking Perspective",
-    "summary": "Banking-focused strategies for scalable, sustainable fintech operations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how banks can scale operations sustainably by combining process redesign, technology adoption, and governance changes. Emphasizes efficiency, resilience, and long-term operating models as strategic priorities in banking transformation.",
+    "tags": [
+      "market research",
+      "strategy",
+      "operations",
+      "transformation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/The Power of Together - Fintech Ecosystems in Sub-Saharan Africa.pdf",
     "title": "The Power of Together - Fintech Ecosystems in Sub-Saharan Africa",
-    "summary": "Report on how ecosystems enable fintech growth across Sub-Saharan Africa, with country case studies and recommendations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how collaborative fintech ecosystems in Sub-Saharan Africa drive innovation, inclusion, and scale by linking startups, incumbents, regulators, and infrastructure providers. Highlights ecosystem dynamics, growth enablers, and regional market opportunities.",
+    "tags": [
+      "market research",
+      "fintech",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/US Crypto Market Structure Guide 2025 - End of Year Snapshot.pdf",
     "title": "US Crypto Market Structure Guide 2025 - End of Year Snapshot",
-    "summary": "End-of-year 2025 snapshot of U.S. crypto market structure, venues, and regulatory considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Year-end snapshot of the 2025 US crypto market structure landscape, outlining key regulatory, policy, and market design developments shaping digital asset trading, custody, and oversight. It highlights implications for industry participants and the evolving legal framework.",
+    "tags": [
+      "crypto",
+      "us",
+      "market research",
+      "regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/WEF/WEF_Future_of_Jobs_Report_2025.pdf",
-    "title": "WEF_Future_of_Jobs_Report_2025",
-    "summary": "WEF Future of Jobs 2025 report on workforce trends and skills.",
-    "tags": [],
+    "title": "WEF Future of Jobs Report 2025",
+    "summary": "World Economic Forum analysis of how technology adoption, macroeconomic shifts and the green transition are reshaping global labor demand through 2030. It highlights changing skill needs, job creation and displacement patterns, and implications for workforce strategy.",
+    "tags": [
+      "market research",
+      "trends",
+      "workforce"
+    ],
     "source": "auto-flag",
     "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Academic/Alisa DiCaprio, Marcello Miccoli, Philip Montalvao, Andrew Usher, and Jeanne Verrier - Do Capital Controls Slow Cross-Border Payments in the Last Mile? Preliminary Evidence, WP-26-68, April 2026 (Apr 2026).pdf",
     "title": "Alisa DiCaprio, Marcello Miccoli, Philip Montalvao, Andrew Usher, and Jeanne Verrier - Do Capital Controls Slow Cross-Border Payments in the Last Mile? Preliminary Evidence, WP-26-68, April 2026 (Apr 2026)",
-    "summary": "Brief on Do Capital Controls Slow Cross-Border Payments in the Last Mile? Preliminary Evidence, WP/26/68, April 2026.",
+    "summary": "Preliminary evidence suggests capital controls can slow the final stage of cross-border payments, affecting speed and efficiency in the last mile. The analysis links policy frictions to payment performance and liquidity outcomes across jurisdictions.",
     "tags": [
       "payments",
-      "regulation",
       "cross-border",
-      "belgium",
-      "imf"
+      "policy",
+      "market research"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Academic/James Aris - Working Paper 26-069 Who Pays for Payments? Mark Egan.pdf",
     "title": "James Aris - Working Paper 26-069 Who Pays for Payments? Mark Egan",
-    "summary": "Brief on Working Paper 26-069 Who Pays for Payments? Mark Egan.",
+    "summary": "Analyzes how payment system costs are allocated across participants, and who ultimately bears those costs. Examines pricing, incentives, and market structure in payments, with implications for efficiency and policy design.",
     "tags": [
       "payments",
-      "regulation",
-      "policy",
-      "imf",
-      "federal reserve"
+      "pricing",
+      "market design",
+      "market research"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Academic/UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026).pdf",
     "title": "UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026)",
-    "summary": "Academic paper on legal and regulatory challenges of interlinking fast payment systems, highlighting cross-border governance and compliance gaps.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the legal and regulatory barriers to linking fast payment systems across jurisdictions, arguing that interoperability depends on clearer governance, liability allocation, and harmonized rules for cross-border real-time payments.",
+    "tags": [
+      "payments",
+      "regulation",
+      "cross-border",
+      "interoperability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/AFP/2025 AFP Payments Fraud Report .pdf",
     "title": "2025 AFP Payments Fraud Report ",
-    "summary": "AFP 2025 report on payments fraud trends and threats.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "AFP's 2025 payments fraud report examines current fraud patterns affecting organizations, highlighting payment channels, attack methods, and control gaps. It offers benchmark insights on how firms are adapting fraud prevention and treasury practices.",
+    "tags": [
+      "payments",
+      "risk",
+      "financial crime",
+      "benchmark"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS_SNB/othp104.pdf",
     "title": "othp104",
-    "summary": "BIS-SNB study on operational aspects of payment systems (othp104).",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "BIS and Swiss National Bank research on real-time payments and liquidity likely examines how payment system design affects intraday liquidity needs, settlement efficiency, and operational resilience in modern payment infrastructures.",
+    "tags": [
+      "payments",
+      "settlement",
+      "bis",
+      "liquidity"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/AI Agents for Cash Management in Payment Systems.pdf",
     "title": "AI Agents for Cash Management in Payment Systems",
-    "summary": "BIS paper on AI agents optimizing cash management in payment systems.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Examines how AI agents could improve cash management in payment systems by optimizing liquidity, forecasting flows, and automating operational decisions. Likely highlights efficiency gains alongside governance, risk, and oversight considerations for critical payment infrastructure.",
+    "tags": [
+      "payments",
+      "ai",
+      "liquidity",
+      "bis"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Cross-Border Payments Survey (Dec 2025).pdf",
     "title": "BIS - Cross-Border Payments Survey (Dec 2025)",
-    "summary": "BIS survey snapshot on cross-border payments, focused on frictions and improvement priorities.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "BIS survey findings on cross-border payments likely assess progress, frictions, and priorities in speed, cost, access, and transparency, offering a benchmark for policy and industry efforts to improve international payment systems.",
+    "tags": [
+      "bis",
+      "cross-border",
+      "payments",
+      "benchmark"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Fostering ISO 20022 harmonisation - follow-up report.pdf",
     "title": "BIS - Fostering ISO 20022 harmonisation - follow-up report",
-    "summary": "Report on Fostering ISO 20022 harmonisation - follow-up report.",
+    "summary": "BIS reviews progress on harmonising ISO 20022 implementation and identifies remaining gaps in market practice, data usage, and governance. It argues that stronger alignment is needed to improve interoperability, payment efficiency, and cross-border outcomes.",
     "tags": [
-      "payments",
-      "interoperability",
-      "regulation",
       "iso20022",
-      "settlement"
+      "bis",
+      "interoperability",
+      "payments"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - month and year The future of financial messaging: navigating the ISO 20022 migration (Apr 2026).pdf",
     "title": "BIS - month and year The future of financial messaging: navigating the ISO 20022 migration (Apr 2026)",
-    "summary": "Brief on month and year The future of financial messaging: navigating the ISO 20022 migration.",
+    "summary": "BIS examines the migration to ISO 20022 as a foundational upgrade for financial messaging, highlighting gains in richer data, interoperability, and payment efficiency. It also notes implementation challenges around standards alignment, legacy systems, and cross-border coordination.",
     "tags": [
-      "payments",
-      "regulation",
       "iso20022",
-      "settlement",
-      "adoption"
+      "payments",
+      "interoperability",
+      "bis"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Pricing in Fast Payments Working Paper 1295 (Oct 2025).pdf",
@@ -1965,48 +2195,67 @@
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - The Eurosystem’s comprehensive payments strategy (Aug 2003).pdf",
     "title": "BIS - The Eurosystem’s comprehensive payments strategy (Aug 2003)",
-    "summary": "Brief on The Eurosystem’s comprehensive payments strategy.",
+    "summary": "Outlines the Eurosystem's strategy to build an integrated, efficient euro area payments market through harmonised infrastructure, common standards, and stronger cross-border interoperability. It emphasizes safety, competition, and support for financial integration.",
     "tags": [
       "payments",
-      "stablecoins",
-      "tokenization",
-      "regulation",
-      "policy"
+      "bis",
+      "cross-border",
+      "standards"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS Bulletin 119 - Enhancing Cross-Border Payments (Dec 2025).pdf",
     "title": "BIS Bulletin 119 - Enhancing Cross-Border Payments (Dec 2025)",
-    "summary": "BIS Bulletin 119 summarizing the state of cross-border payment enhancements and the path forward.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "BIS Bulletin 119 examines how to improve cross-border payments by addressing frictions in speed, cost, transparency and access. It highlights coordinated policy, standards and infrastructure changes needed to make international payments more efficient and resilient.",
+    "tags": [
+      "cross-border",
+      "payments",
+      "bis",
+      "standards"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS Papers 152 - Faster Digital Payments - Global and Regional Perspectives (Dec 2024).pdf",
     "title": "BIS Papers 152 - Faster Digital Payments - Global and Regional Perspectives (Dec 2024)",
-    "summary": "BIS Papers No. 152 reviewing faster digital payments globally and regionally, covering adoption drivers and system design lessons.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "BIS Papers 152 examines how jurisdictions are accelerating faster digital payments, comparing regional approaches, infrastructure choices, and policy priorities. It highlights interoperability, access, and liquidity considerations shaping adoption and cross-border integration.",
+    "tags": [
+      "payments",
+      "bis",
+      "cross-border",
+      "interoperability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS Working Paper 1112 - Trust Bridges and Money Flows (Jul 2023).pdf",
     "title": "BIS Working Paper 1112 - Trust Bridges and Money Flows",
-    "summary": "BIS working paper on cross-border payments, trust frictions, and how network structures shape money flows.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how trust relationships between payment systems and institutions shape cross-border money flows, with implications for liquidity, interoperability, and the design of payment networks. Frames trust as a key determinant of efficiency and resilience in moving funds across jurisdictions.",
+    "tags": [
+      "bis",
+      "payments",
+      "cross-border",
+      "interoperability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/CPMI/CPMI - Harmonised ISO 20022 Data Requirements for Cross-Border Payments (Feb 2026).pdf",
     "title": "CPMI - Harmonised ISO 20022 Data Requirements for Cross-Border Payments (Feb 2026)",
-    "summary": "Updated CPMI report on harmonised ISO 20022 data requirements to improve cross-border payments (Feb 2026).",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "CPMI sets harmonised ISO 20022 data requirements to improve the quality, consistency, and interoperability of cross-border payment messages. The framework supports more efficient processing, compliance screening, and end-to-end transparency across payment chains.",
+    "tags": [
+      "payments",
+      "iso20022",
+      "cross-border",
+      "interoperability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/CPMI/CPMI Brief 9 - Safety and efficiency through payment pre-validation (Nov 2025).pdf",
@@ -2023,42 +2272,66 @@
   {
     "path": "Payments_RealTime_and_Liquidity/CPMI/Harmonised ISO 20022 Data Requirements for Cross-Border Payments - CPMI Oct 2023.pdf",
     "title": "Harmonised ISO 20022 Data Requirements for Cross-Border Payments - CPMI Oct 2023",
-    "summary": "CPMI guidance on harmonized ISO 20022 data for cross-border payments.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "CPMI outlines harmonised ISO 20022 data requirements to improve the consistency, quality, and interoperability of cross-border payment messages. The framework supports more efficient processing, compliance screening, and end-to-end transparency across payment chains.",
+    "tags": [
+      "payments",
+      "iso20022",
+      "cross-border",
+      "interoperability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/CPMI/Principles for Financial Market Infrastructures (Apr 2012).pdf",
     "title": "Principles for Financial Market Infrastructures (Apr 2012)",
-    "summary": "CPMI-IOSCO foundational principles for FMIs covering governance, credit and liquidity risk, settlement, default management, and disclosure expectations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Global principles for systemically important payment systems, central securities depositories, securities settlement systems, central counterparties, and trade repositories set minimum standards for governance, credit and liquidity risk, settlement, and operational resilience to support financial stability.",
+    "tags": [
+      "payments",
+      "risk",
+      "standards",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/EPC/EPC162-24 v2.0 2025 Payments Threats and Fraud Trends Report.pdf",
     "title": "EPC162-24 v2.0 2025 Payments Threats and Fraud Trends Report",
-    "summary": "EPC report on 2025 payment threats and fraud trends.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Reviews the evolving fraud and threat landscape in payments for 2025, highlighting key attack patterns, operational vulnerabilities, and emerging scam trends. Emphasizes risk mitigation priorities for payment service providers and ecosystem participants.",
+    "tags": [
+      "payments",
+      "risk",
+      "financial crime",
+      "trends"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/MallaPayments/The Real Story Behind SEPA Instant.pdf",
     "title": "The Real Story Behind SEPA Instant",
-    "summary": "MallaPayments perspective on SEPA Instant implementation realities.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes SEPA Instant beyond the headline speed benefits, focusing on the operational, liquidity, and market structure factors shaping adoption and value in European real-time payments.",
+    "tags": [
+      "payments",
+      "cross-border",
+      "europe",
+      "adoption"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/ACH with Billing and Recurring Payments.pdf",
     "title": "ACH with Billing and Recurring Payments",
-    "summary": "Primer on using ACH rails for billing and recurring payment use cases.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Explores how ACH supports bill pay and recurring payment use cases, focusing on operational flows, customer experience, and efficiency in account-to-account payments. Highlights ACH's role in routine payment orchestration within retail and business contexts.",
+    "tags": [
+      "payments",
+      "b2b payments",
+      "operations"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Ant International and HSBC - Tokenised Deposit Cross-Border Payments Pilot on SWIFT (Dec 2025).pdf",
@@ -2074,10 +2347,15 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/API Integrations with Your TMS.pdf",
     "title": "API Integrations with Your TMS",
-    "summary": "Short explainer on how API integrations modernize treasury management systems by replacing batch files, reducing errors, and improving real-time visibility.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how integrating treasury management systems with payment and banking APIs can improve real-time cash visibility, automate workflows, and strengthen liquidity decision-making. Emphasizes operational efficiency, connectivity, and faster treasury execution.",
+    "tags": [
+      "payments",
+      "liquidity",
+      "operations",
+      "technology"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/AWS - Agentic Payments The Next Evolution in the Payments Value Chain (Nov 2025).pdf",
@@ -2093,62 +2371,80 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - RTGS Renewal Programme.pdf",
     "title": "Bank of England - RTGS Renewal Programme",
-    "summary": "Overview of the Bank of England's RTGS renewal programme, objectives, and implementation roadmap.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Overview of the Bank of England's RTGS Renewal Programme, focused on modernising the UK's real-time gross settlement infrastructure to improve resilience, interoperability, and support for innovation in payments and settlement.",
+    "tags": [
+      "payments",
+      "uk",
+      "settlement",
+      "interoperability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Beyond Concentration: Where Non-USD Stablecoins Can Scale.pdf",
     "title": "Beyond Concentration: Where Non-USD Stablecoins Can Scale",
-    "summary": "Brief on Beyond Concentration: Where Non-USD Stablecoins Can Scale.",
+    "summary": "Analyzes where non-USD stablecoins have the strongest scaling potential, arguing growth is more likely in specific payment, liquidity, and regional use cases than through direct competition with dollar dominance alone.",
     "tags": [
-      "payments",
       "stablecoins",
-      "crypto",
-      "regulation",
-      "policy"
+      "payments",
+      "cross-border",
+      "liquidity"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Celent - SEPA Instant Adoption in Europe (Build It and They Will Come).pdf",
     "title": "Celent - SEPA Instant Adoption in Europe (Build It and They Will Come)",
-    "summary": "Celent research on SCT Inst adoption, market readiness, and projected volume growth across European institutions.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Celent examines SEPA Instant adoption in Europe, arguing that broad uptake depends on more than scheme availability, including bank execution, customer value propositions, and ecosystem readiness. The report frames instant payments as a strategic payments transformation opportunity.",
+    "tags": [
+      "payments",
+      "europe",
+      "adoption",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Crunchfish - Offline Payments at Scale as Digital Money (Mar 2026).pdf",
     "title": "Crunchfish - Offline Payments at Scale as Digital Money (Mar 2026)",
-    "summary": "Crunchfish whitepaper on offline payments as digital money, outlining architectures and trade-offs for scalable offline capability.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how offline payment capability can be scaled for digital money, focusing on architectures and operational requirements that preserve usability and resilience when connectivity is unavailable. It positions offline payments as a strategic enabler for broader digital currency and payment adoption.",
+    "tags": [
+      "payments",
+      "cbdc",
+      "resilience",
+      "adoption"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Data Tagging - Turning Treasury Transactions into Insights - Priscila Nagalli.pdf",
     "title": "Data Tagging - Turning Treasury Transactions into Insights - Priscila Nagalli",
-    "summary": "Guide to data tagging treasury transactions to generate insights.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Explains how structured data tagging can turn treasury transaction flows into actionable insights, improving visibility, liquidity management, and operational decision-making. Emphasizes better data quality and classification as foundations for more effective payments analysis.",
+    "tags": [
+      "payments",
+      "data",
+      "liquidity",
+      "operations"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Do Not Fall Behind - The Corporate Series FX Timing Risk: The Hidden Variable in Corporate.pdf",
     "title": "Do Not Fall Behind - The Corporate Series FX Timing Risk: The Hidden Variable in Corporate",
-    "summary": "Brief on Do Not Fall Behind - The Corporate Series FX Timing Risk: The Hidden Variable in Corporate.",
+    "summary": "Analyzes corporate FX timing risk as an overlooked driver of payment and liquidity outcomes, arguing that firms need better visibility, controls, and execution strategies to reduce hidden costs and operational exposure.",
     "tags": [
       "payments",
-      "regulation",
-      "cross-border",
-      "settlement",
-      "risk"
+      "risk",
+      "liquidity",
+      "cross-border"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Drivers of Digital Payment Adoption - Lessons from Brazil Costa Rica and Mexico (2025).pdf",
@@ -2165,10 +2461,15 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/EU - T+1 Securities Settlement Handbook (Feb 2026).pdf",
     "title": "EU - T+1 Securities Settlement Handbook (Feb 2026)",
-    "summary": "EU handbook outlining the transition to T+1 securities settlement, its risk-reduction rationale, and implementation considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Handbook outlines the EU transition to T+1 securities settlement, focusing on operational changes, market coordination, and risk controls needed to shorten the settlement cycle. It highlights implications for liquidity, post-trade processes, and cross-border market participants.",
+    "tags": [
+      "t+1",
+      "settlement",
+      "eu",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/EU T+1 Industry Committee - Guides & Resources (2025).pdf",
@@ -2185,65 +2486,78 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Europe Payment Fraud Report.pdf",
     "title": "Europe Payment Fraud Report",
-    "summary": "Europe-focused payments fraud report covering trends and control themes.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes payment fraud patterns in Europe, highlighting how real-time payments, evolving scam typologies, and uneven controls are reshaping risk exposure. Emphasizes the need for stronger prevention, monitoring, and coordinated industry responses.",
+    "tags": [
+      "payments",
+      "risk",
+      "europe",
+      "financial crime"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/FASTT - ID Meets Instant - Enabling Trusted, Inclusive Fast Payments through Digital ID (Feb 2026).pdf",
     "title": "FASTT - ID Meets Instant - Enabling Trusted, Inclusive Fast Payments through Digital ID (Feb 2026)",
-    "summary": "World Bank technical note on enabling fast payments through digital ID, focusing on trust, inclusion, and implementation considerations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Explores how digital identity can strengthen instant payment systems by improving trust, fraud controls, and inclusion. Argues that linking fast payments with interoperable ID frameworks can support safer access, better compliance, and broader adoption.",
+    "tags": [
+      "payments",
+      "digital identity",
+      "financial crime",
+      "adoption"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Federal Reserve - FEDERAL RESERVE BANK OF KANSAS CITY | APRIL 10 , 2026 What Are Stablecoins Used for Today? Estimating t he Distribution of Stablecoins (Nov 2025).pdf",
     "title": "Federal Reserve - FEDERAL RESERVE BANK OF KANSAS CITY | APRIL 10 , 2026 What Are Stablecoins Used for Today? Estimating t he Distribution of Stablecoins (Nov 2025)",
-    "summary": "Brief on FEDERAL RESERVE BANK OF KANSAS CITY | APRIL 10 , 2026 What Are Stablecoins Used for Today? Estimating t he Distribution of Stablecoins.",
+    "summary": "Analyzes current stablecoin use by estimating how holdings are distributed across functions such as trading, payments, and savings. The paper helps clarify whether stablecoin activity is driven mainly by crypto market demand or broader financial use cases.",
     "tags": [
-      "payments",
       "stablecoins",
-      "tokenization",
-      "interoperability",
+      "federal reserve",
+      "payments",
       "crypto"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Hybrid Postal Address (Mar 2026).pdf",
     "title": "Hybrid Postal Address (Mar 2026)",
-    "summary": "Brief on Hybrid Postal Address.",
+    "summary": "Analyzes a hybrid postal address approach for payments and real-time liquidity workflows, likely combining structured and unstructured address data to improve routing, validation, and operational efficiency. Emphasizes data quality and interoperability implications.",
     "tags": [
       "payments",
-      "regulation"
+      "data",
+      "interoperability"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard Digital Payment Security Standard (Dec 2025).pdf",
     "title": "Mastercard Digital Payment Security Standard (Dec 2025)",
-    "summary": "Mastercard whitepaper detailing its digital payment security standard for safer online payments.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Mastercard's Digital Payment Security Standard outlines a framework to strengthen payment security across digital channels, likely emphasizing consistent controls, fraud mitigation, and operational resilience for evolving payment ecosystems.",
+    "tags": [
+      "payments",
+      "security",
+      "standards",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Methodology (Jan 2024).pdf",
     "title": "Methodology (Jan 2024)",
-    "summary": "Brief on Methodology.",
+    "summary": "January 2024 methodology note outlining the analytical framework, data sources, and assumptions used in a report on real-time payments and liquidity. It supports interpretation of findings rather than advancing a standalone market thesis.",
     "tags": [
       "payments",
-      "crypto",
-      "regulation",
-      "ai",
+      "liquidity",
       "market research"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/MPRA Paper 126747 - The Digital Leap: Assessing the Impact of Payment Technologies on Currency Choices in Cambodia (Aug 2025).pdf",
@@ -2260,62 +2574,80 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/OUTLOOK PAYMENTS Five shifts.pdf",
     "title": "OUTLOOK PAYMENTS Five shifts",
-    "summary": "Brief on OUTLOOK PAYMENTS Five shifts.",
+    "summary": "Analyzes five major shifts reshaping payments, likely focusing on real-time infrastructure, liquidity management, and strategic implications for providers navigating changing customer expectations and market structure.",
     "tags": [
       "payments",
-      "digital identity",
-      "ai",
-      "market research"
+      "liquidity",
+      "trends",
+      "strategy"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/PALMER Rachel - PowerPoint Presentation (Mar 2026).pdf",
     "title": "PALMER Rachel - PowerPoint Presentation (Mar 2026)",
-    "summary": "Brief on PowerPoint Presentation.",
+    "summary": "Presentation on real-time payments and liquidity management, likely examining operational pressures, settlement timing, and funding implications for payment providers. Emphasis appears to be on how faster payment flows reshape treasury, risk controls, and payment operations.",
     "tags": [
       "payments",
-      "regulation"
+      "liquidity",
+      "settlement",
+      "operations"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Payments Forward Plan (Feb 2026).pdf",
     "title": "Payments Forward Plan (Feb 2026)",
-    "summary": "Payments Forward Plan (Feb 2026) outlining priorities and initiatives for payments modernization and infrastructure.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Outlines a forward plan for payments, likely focusing on priorities for real-time infrastructure, liquidity management, and operational readiness. The report appears positioned as a strategic view of upcoming payments developments and implementation considerations.",
+    "tags": [
+      "payments",
+      "strategy",
+      "liquidity",
+      "operations"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Payments in Transition - Leadership in an Era of Transformation.pdf",
     "title": "Payments in Transition - Leadership in an Era of Transformation",
-    "summary": "Report on payment industry transformation, outlining barriers, drivers, leadership readiness, and actions to navigate new standards and customer expectations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Examines how payments leaders can navigate rapid industry change, focusing on real-time payments, liquidity demands, and strategic transformation. Highlights leadership priorities for adapting operating models, technology, and market positioning.",
+    "tags": [
+      "payments",
+      "transformation",
+      "liquidity",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Payments Report March 2026 2 The Riksbank’s Payment Report (Mar 2026).pdf",
     "title": "Payments Report March 2026 2 The Riksbank’s Payment Report (Mar 2026)",
-    "summary": "Report on Payments Report March 2026 2 The Riksbank’s Payment Report.",
+    "summary": "Riksbank's March 2026 payments report reviews developments in Sweden's payment system, focusing on real-time payments, cash and digital payment usage, and implications for resilience, competition, and financial stability.",
     "tags": [
       "payments",
-      "policy",
-      "risk"
+      "financial stability",
+      "market research",
+      "resilience"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Paystand - Top B2B Payment Trends for 2026 and Beyond.pdf",
     "title": "Paystand - Top B2B Payment Trends for 2026 and Beyond",
-    "summary": "Paystand report on 2026 B2B payment trends such as real-time payments, A2A/open banking, and automation in AR/AP.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes emerging B2B payment trends shaping 2026 and beyond, likely emphasizing faster digital payment rails, automation, and liquidity optimization as strategic priorities for businesses. Frames these shifts as drivers of operational efficiency and competitive advantage.",
+    "tags": [
+      "payments",
+      "b2b payments",
+      "trends",
+      "market research"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Resilience of the Banking Unions Non-Cash Payment Systems - Nov 2025.pdf",
@@ -2332,78 +2664,80 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Settlement Layer Deep Dive.pdf",
     "title": "Settlement Layer Deep Dive",
-    "summary": "Slide deck providing a deep-dive overview of settlement layers and their implications for payment infrastructure and liquidity.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes settlement-layer design choices for real-time payments, focusing on liquidity, finality, and operational trade-offs. Highlights how infrastructure and market design shape efficiency, resilience, and interoperability across payment systems.",
+    "tags": [
+      "payments",
+      "settlement",
+      "liquidity",
+      "market design"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Sonja Davidovic and Hervé Tourpe - How Agentic AI Will Reshape Payments; IMF Note No. 2026-004; April 2026.pdf",
     "title": "Sonja Davidovic and Hervé Tourpe - How Agentic AI Will Reshape Payments; IMF Note No. 2026-004; April 2026",
-    "summary": "Brief on How Agentic AI Will Reshape Payments; IMF Note No. 2026/004; April 2026.",
+    "summary": "IMF analysis argues that agentic AI could materially change payments by automating decision-making, orchestration, and exception handling across payment flows. It highlights efficiency gains alongside governance, risk, and policy challenges for financial institutions and authorities.",
     "tags": [
       "payments",
-      "policy",
-      "settlement",
-      "ai",
+      "agentic ai",
+      "imf",
       "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - 1776738452984.pdf",
     "title": "SWIFT - 1776738452984",
-    "summary": "Brief on 1776738452984.",
+    "summary": "Analyzes real-time payments and liquidity management, focusing on how institutions can optimize funding, intraday visibility, and settlement processes as payment flows accelerate. Highlights operational and strategic implications for banks and payment infrastructures.",
     "tags": [
       "payments",
-      "tokenization",
-      "interoperability",
-      "regulation",
-      "cross-border"
+      "liquidity",
+      "settlement",
+      "operations"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER (2).pdf",
     "title": "THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER",
-    "summary": "White paper on THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER.",
+    "summary": "Analyzes Asia's cross-border payments landscape in 2026, highlighting current industry conditions, structural frictions, and growth drivers. Assesses future potential through evolving infrastructure, regional connectivity, and liquidity-related opportunities.",
     "tags": [
       "payments",
-      "stablecoins",
-      "interoperability",
-      "regulation",
-      "cross-border"
+      "cross-border",
+      "market research",
+      "liquidity"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER.pdf",
     "title": "THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER",
-    "summary": "White paper on THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER.",
+    "summary": "Report examines Asia's cross-border payments landscape in 2026, assessing current industry conditions and the factors shaping future growth. It highlights regional payment modernization, interoperability, and liquidity as key enablers of faster cross-border transactions.",
     "tags": [
+      "cross-border",
       "payments",
-      "stablecoins",
-      "interoperability",
-      "regulation",
-      "cross-border"
+      "liquidity",
+      "market research"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/The global standard benchmark of AI maturity KEY FINDINGS REPORT (Feb 2026).pdf",
     "title": "The global standard benchmark of AI maturity KEY FINDINGS REPORT (Feb 2026)",
-    "summary": "Report on The global standard benchmark of AI maturity KEY FINDINGS REPORT.",
+    "summary": "Benchmark report on global AI maturity, highlighting how organizations compare on strategy, governance, talent, and deployment. It identifies leading practices and gaps shaping enterprise adoption and operational readiness.",
     "tags": [
-      "payments",
       "ai",
-      "benchmark"
+      "benchmark",
+      "strategy",
+      "adoption"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/The Tipping Point for Innovation in B2B Payments - GBA ASEAN.pdf",
@@ -2419,10 +2753,15 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/The Year in Cross-Border Payments 2025.pdf",
     "title": "The Year in Cross-Border Payments 2025",
-    "summary": "Year-in-review digest of cross-border payments developments in 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Reviews the 2025 cross-border payments landscape, highlighting progress in speed, transparency, and interoperability alongside persistent frictions in liquidity, compliance, and market structure. It frames key industry trends shaping future payment corridors and infrastructure.",
+    "tags": [
+      "cross-border",
+      "payments",
+      "liquidity",
+      "trends"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Thunes - Joins WEF Unicorn Community (Dec 2025).pdf",
@@ -2438,120 +2777,183 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Worldline - India Digital Payments Report 1H 2025.pdf",
     "title": "Worldline - India Digital Payments Report 1H 2025",
-    "summary": "Worldline report on India’s digital payments volumes, UPI growth, merchant adoption, and user behavior in 1H 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes India's digital payments landscape in 1H 2025, highlighting growth drivers, evolving payment behaviors, and competitive dynamics across real-time and merchant payments. It offers market-level insight into adoption trends and strategic implications for providers.",
+    "tags": [
+      "payments",
+      "market research",
+      "adoption",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX Interbank Clearing - Instant Payments Bridge (IPB) Rough Concept (Jan 2026).pdf",
     "title": "SIX Interbank Clearing - Instant Payments Bridge (IPB) Rough Concept",
-    "summary": "Market consultation document describing a possible Instant Payments Bridge (IPB) implementation, use cases, and design options.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "A rough concept for SIX's Instant Payments Bridge outlines how to connect instant payment systems to support faster interbank transfers and improve cross-border payment interoperability. It focuses on operational design considerations rather than a finalized implementation model.",
+    "tags": [
+      "payments",
+      "cross-border",
+      "interoperability",
+      "settlement"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/Global Currency Access-The End of Correspondent Dependency.pdf",
     "title": "Global Currency Access-The End of Correspondent Dependency",
-    "summary": "UNITE Global vision for reducing correspondent banking dependency for currency access.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Argues that global currency access can move beyond reliance on correspondent banking by using alternative network models that improve payment reach, speed, and liquidity efficiency. Highlights implications for cross-border infrastructure and market structure.",
+    "tags": [
+      "payments",
+      "cross-border",
+      "liquidity",
+      "market design"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/How continuous settlement will transform bank profits.pdf",
     "title": "How continuous settlement will transform bank profits",
-    "summary": "UNITE Global argument for continuous settlement improving bank profitability.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Continuous settlement could materially reshape bank profitability by reducing float income, changing liquidity needs, and pressuring legacy payment economics. It argues banks will need new pricing, treasury, and operating models to adapt.",
+    "tags": [
+      "payments",
+      "liquidity",
+      "settlement",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/How Instant Settlement Frees Corporate Liquidity.pdf",
     "title": "How Instant Settlement Frees Corporate Liquidity",
-    "summary": "UNITE Global on liquidity benefits of instant settlement for corporates.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Instant settlement can reduce trapped working capital for corporates by shortening payment cycles and improving cash visibility. The analysis links real-time payments infrastructure to better liquidity management and operational efficiency.",
+    "tags": [
+      "payments",
+      "liquidity",
+      "b2b payments",
+      "financial services"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/How Real-Time Payments Empower.pdf",
     "title": "How Real-Time Payments Empower",
-    "summary": "UNITE Global on how real-time payments empower institutions and users.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Examines how real-time payments can improve cash flow visibility, speed fund availability, and strengthen liquidity management for businesses and financial institutions. Highlights operational and strategic implications of always-on payment rails.",
+    "tags": [
+      "payments",
+      "liquidity",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/Risk Reduction Through RT-SCL.pdf",
     "title": "Risk Reduction Through RT-SCL",
-    "summary": "UNITE Global paper on risk reduction via real-time settlement and clearing layers.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how RT-SCL can reduce payment and settlement risk by improving real-time liquidity management and transaction control. Emphasizes operational efficiency and safer payment flows in real-time clearing environments.",
+    "tags": [
+      "payments",
+      "risk",
+      "liquidity",
+      "settlement"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The Core Principle of RT-SCL.pdf",
     "title": "The Core Principle of RT-SCL",
-    "summary": "UNITE Global core principles behind RT-SCL architecture.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Explains the core operating principle of RT-SCL, focusing on how real-time payment processing and liquidity coordination support efficient settlement. Highlights the role of shared rules and infrastructure in enabling reliable transaction flows.",
+    "tags": [
+      "payments",
+      "liquidity",
+      "settlement",
+      "standards"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The End of the Waiting Period.pdf",
     "title": "The End of the Waiting Period",
-    "summary": "UNITE Global essay on eliminating waiting periods in settlement.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how real-time payment expectations are eliminating settlement delays and forcing institutions to redesign liquidity, operations, and customer experience around always-on money movement.",
+    "tags": [
+      "payments",
+      "liquidity",
+      "settlement",
+      "operations"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The New Architecture of Global Liquidity.pdf",
     "title": "The New Architecture of Global Liquidity",
-    "summary": "UNITE Global proposal for a new liquidity architecture with real-time rails.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Examines how global liquidity is being reshaped by faster payments, interoperable networks, and new settlement models. Highlights implications for cross-border flows, market structure, and the strategic role of liquidity management in financial services.",
+    "tags": [
+      "liquidity",
+      "payments",
+      "cross-border",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The New Neutral - How FMI will restore trust.pdf",
     "title": "The New Neutral - How FMI will restore trust",
-    "summary": "UNITE Global view on FMI neutrality and trust restoration.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Argues that financial market infrastructures can rebuild trust in payments and markets by acting as neutral coordinators, improving interoperability, liquidity management, and resilience across fragmented systems.",
+    "tags": [
+      "payments",
+      "interoperability",
+      "liquidity",
+      "resilience"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The Rise of Functional Interoperability.pdf",
     "title": "The Rise of Functional Interoperability",
-    "summary": "UNITE Global take on achieving functional interoperability in payments.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Argues that practical, function-level interoperability is becoming more important than full system integration, especially in payments and liquidity networks. Highlights how shared functions and standards can improve cross-network efficiency and scalability.",
+    "tags": [
+      "interoperability",
+      "payments",
+      "liquidity",
+      "standards"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Appia - paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT (Nov 2024).pdf",
     "title": "Visa - Appia - paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT (Nov 2024)",
-    "summary": "Brief on Appia - paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT.",
+    "summary": "Visa's Appia outlines a network-of-networks approach to connect tokenized deposits, stablecoins and CBDCs across DLT and traditional rails, aiming to improve interoperability, settlement efficiency and cross-border payments.",
     "tags": [
       "payments",
       "tokenization",
-      "regulation",
-      "policy",
-      "settlement"
+      "interoperability",
+      "visa"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Financial Institutions, Fintechs and the Gray Area.pdf",
     "title": "Visa - Financial Institutions, Fintechs and the Gray Area",
-    "summary": "Visa market scan on bank–fintech convergence, overlapping offerings, and partnership strategies.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Examines the ambiguous operating space between banks and fintechs, focusing on how financial institutions can partner, compete, and manage risk as payment models and service boundaries evolve. Highlights strategic implications for real-time payments and ecosystem roles.",
+    "tags": [
+      "payments",
+      "strategy",
+      "fintech",
+      "visa"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Fiscal 2025 Annual Report.pdf",
@@ -2567,72 +2969,105 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Global Payments and Fraud Report 2025.pdf",
     "title": "Visa - Global Payments and Fraud Report 2025",
-    "summary": "Visa’s 2025 survey on eCommerce payments performance and fraud trends.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes global payment trends and fraud patterns in 2025, highlighting how real-time payments growth, evolving scam tactics, and stronger security controls are reshaping risk management and operational priorities for financial institutions and merchants.",
+    "tags": [
+      "payments",
+      "risk",
+      "security",
+      "visa"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - SumUp Receipt.pdf",
     "title": "Visa - SumUp Receipt",
-    "summary": "",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Receipt or transaction record related to a Visa payment processed through SumUp, likely serving as operational evidence of card acceptance and settlement details. The item appears administrative rather than analytical research.",
+    "tags": [
+      "payments",
+      "visa",
+      "operations"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - The Eurosystem’s comprehensive payments strategy.pdf",
     "title": "Visa - The Eurosystem’s comprehensive payments strategy",
-    "summary": "Brief on The Eurosystem’s comprehensive payments strategy.",
+    "summary": "Analyzes the Eurosystem's payments strategy through a Visa lens, focusing on how coordinated infrastructure, standards, and policy can strengthen European payments efficiency, resilience, and innovation.",
     "tags": [
       "payments",
-      "stablecoins",
-      "tokenization",
-      "regulation",
-      "policy"
+      "strategy",
+      "europe",
+      "visa"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/World_Bank/World Bank - A Comparative Methodology for Measuring Supply-Side Domestic Payment Costs (Pilot Study).pdf",
     "title": "World Bank - A Comparative Methodology for Measuring Supply-Side Domestic Payment Costs (Pilot Study)",
-    "summary": "World Bank pilot methodology for measuring domestic payment costs and benchmarking supply-side pricing components.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Presents a comparative pilot methodology for measuring supply-side domestic payment costs across providers and instruments, to improve transparency, benchmarking, and policy analysis of payment system efficiency.",
+    "tags": [
+      "payments",
+      "benchmark",
+      "market research",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/A Stablecoin Thats Actually Stable - A Portfolio Optimi.pdf",
     "title": "A Stablecoin Thats Actually Stable - A Portfolio Optimi",
-    "summary": "Research note on stablecoin stability using a portfolio-optimization framing.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Proposes a portfolio optimization approach to design a stablecoin with stronger price stability than single-asset pegs, emphasizing reserve composition and risk management as key determinants of robustness.",
+    "tags": [
+      "stablecoins",
+      "risk",
+      "market design",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/FTN011 - Central Bank Exploration of Tokenized Reserves (2025).pdf",
     "title": "FTN011 - Central Bank Exploration of Tokenized Reserves (2025)",
-    "summary": "Note on how central banks could tokenize reserves, outlining design considerations, pilots, and balance sheet implications.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Reviews central bank research into tokenized reserves, focusing on how reserve tokenization could support settlement efficiency, interoperability, and new forms of digital money while raising policy and financial stability questions.",
+    "tags": [
+      "cbdc",
+      "tokenization",
+      "settlement",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/NBER - Stablecoins A Revolutionary Payment Technology with Financial Risks.pdf",
     "title": "NBER - Stablecoins A Revolutionary Payment Technology with Financial Risks",
-    "summary": "NBER working paper on stablecoins as payment tech and associated financial risks.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes stablecoins as a potentially transformative payment technology, while emphasizing their vulnerabilities around runs, reserve quality, regulation, and broader financial stability. It frames innovation benefits against systemic risk concerns.",
+    "tags": [
+      "stablecoins",
+      "payments",
+      "risk",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/Wharton - The Stablecoin Toolkit Part I (Jan 2026).pdf",
     "title": "Wharton - The Stablecoin Toolkit Part I",
-    "summary": "Wharton toolkit covering stablecoin market structure, risks, and financial/market dimensions.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Academic primer outlining the core design choices, risks, and policy trade-offs of stablecoins, with emphasis on how reserve structures, governance, and regulation shape their role in payments and digital finance.",
+    "tags": [
+      "stablecoins",
+      "crypto",
+      "policy",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025).pdf",
