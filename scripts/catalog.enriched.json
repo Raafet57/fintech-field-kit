@@ -94,8 +94,8 @@
       "technology",
       "transformation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Industry/Standard Chartered - Scaling AI in Banking.pdf",
@@ -106,8 +106,8 @@
       "transformation",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/OECD/Artificial Intelligence in Asias Financial Sector - OECD WP50.pdf",
@@ -119,8 +119,8 @@
       "risk",
       "financial services"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/OECD/OECD - Due Diligence Guidance for Responsible AI.pdf",
@@ -132,8 +132,8 @@
       "policy",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/Age n t i c Fi na n c e a n d S t a b l ec o i n s: Ev e r y t h i n g t o Kn ow Abou t t h e New S t a c k f o r Au t o n o m ou s.pdf",
@@ -179,8 +179,8 @@
       "technology",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/IMD - Winning with AI (2025).pdf",
@@ -192,8 +192,8 @@
       "strategy",
       "workforce"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/Jiacheng Liu; Xiaohan Zhao; Xinyi Shang; Zhiqiang Shen - Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems (Apr 2026).pdf",
@@ -205,8 +205,8 @@
       "technology",
       "transformation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/McKinsey - Agents Robots and Us Skill Partnerships in the Age of AI (Nov 2025).pdf",
@@ -253,8 +253,8 @@
       "transformation",
       "operations"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/The AI Divide in Banking Will Impact Banks - Credit Ratings.pdf",
@@ -266,8 +266,8 @@
       "transformation",
       "financial services"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/The data leaders guide to digital transformation.pdf",
@@ -291,8 +291,8 @@
       "adoption",
       "transformation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/Yanosy - Universal Meta Prompts for Governing AI Reasoning.pdf",
@@ -339,8 +339,8 @@
       "standards",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Adeel_Mirza/FC  Risks.pdf",
@@ -376,8 +376,8 @@
       "reporting",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Belgium_Parliament/Belgium Parliament - Supervision of Financial Messaging Service Providers - Doc 56 0610-005 First Reading Report (Mar 2025).pdf",
@@ -413,8 +413,8 @@
       "financial crime",
       "crypto"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/China/PBOC - Notice on Virtual Currencies (2026).pdf",
@@ -426,8 +426,8 @@
       "compliance",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Elliptic/Elliptic - Global Crypto Regulation Review 2025.pdf",
@@ -476,8 +476,8 @@
       "payments",
       "eu"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Proposal PSD3 - Payment Services and E-Money Directive COM(2023)366.pdf",
@@ -489,8 +489,8 @@
       "payments",
       "eu"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Regulation (EU) 2022-2554 DORA.pdf",
@@ -502,8 +502,8 @@
       "compliance",
       "eu"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Regulation (EU) 2022-858 DLT Pilot Reg.pdf",
@@ -515,8 +515,8 @@
       "dlt",
       "securities"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Regulation (EU) 2023-1113 Funds and Crypto-Asset Transfers (TFR).pdf",
@@ -528,8 +528,8 @@
       "crypto",
       "eu"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Regulation (EU) 2023-1114 MiCA.pdf",
@@ -541,8 +541,8 @@
       "eu",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/FinCEN/FinCEN - CVC Guidance FIN-2019-G001 (May 2019).pdf",
@@ -578,8 +578,8 @@
       "risk",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/FSB/Global Regulatory Framework for Cryptoassets.pdf",
@@ -591,8 +591,8 @@
       "risk",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/FSOC/FSOC - Annual Report 2025.pdf",
@@ -725,8 +725,8 @@
       "compliance",
       "financial crime"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/FFEdu - TBML Enters the Stablecoin Settlement Layer Era (2025 Observation Brief).pdf",
@@ -848,8 +848,8 @@
       "payments",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/SWIFT/Hybrid Postal Address - Grace Period Guide for Banks - Dec 2025.pdf",
@@ -1009,8 +1009,8 @@
       "compliance",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - April 2026Mutual Evaluation of Italy Anti-money laundering and countering the financing of terrorism and proliferation financing measures (Apr 2026).pdf",
@@ -1022,8 +1022,8 @@
       "aml",
       "financial crime"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Artificial Intelligence Index Report.pdf",
@@ -1035,8 +1035,8 @@
       "us",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Authors Nils Grevenbrock Zhengpu Zhao.pdf",
@@ -1099,8 +1099,8 @@
       "us",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026).pdf",
@@ -3259,7 +3259,7 @@
       "financial services"
     ],
     "source": "manual",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Independent/E-Money and Stablecoin Tax Reporting Framework (2025).pdf",
