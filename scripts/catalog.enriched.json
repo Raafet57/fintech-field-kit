@@ -1750,8 +1750,8 @@
       "financial services",
       "strategy"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Annual Global Crypto Hedge Fund Report 2025.pdf",
