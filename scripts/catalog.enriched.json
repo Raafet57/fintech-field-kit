@@ -3797,98 +3797,131 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless (Apr 2026) (2).pdf",
     "title": "Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless (Apr 2026)",
-    "summary": "Brief on Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless.",
+    "summary": "Consultation paper examines how prudential rules should apply to cryptoasset exposures on permissionless blockchains, focusing on capital treatment, risk drivers, and supervisory safeguards. It highlights implications for banks engaging with tokenized and blockchain-based activities.",
     "tags": [
-      "tokenization",
       "crypto",
-      "regulation",
-      "risk"
+      "digital assets",
+      "risk",
+      "regulation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless (Apr 2026).pdf",
     "title": "Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless (Apr 2026)",
-    "summary": "Brief on Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless.",
+    "summary": "Consultation paper examining how prudential rules should apply to cryptoasset exposures on permissionless blockchains, with emphasis on risk sensitivity, capital treatment, and safeguards for regulated institutions. It highlights implications for supervisory standards and financial stability.",
     "tags": [
-      "tokenization",
       "crypto",
+      "risk",
       "regulation",
-      "risk"
+      "digital assets"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/DBS Digital Assets Update 4Q25.pdf",
     "title": "DBS Digital Assets Update 4Q25",
-    "summary": "DBS update on digital assets initiatives in Q4 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Quarterly update on DBS's digital assets activities, highlighting progress in tokenization, institutional crypto services, and related market developments. Emphasizes strategic positioning of digital asset infrastructure within broader financial services.",
+    "tags": [
+      "digital assets",
+      "tokenization",
+      "crypto",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Digital Asset Report 2025 - Institutional Perspective.pdf",
     "title": "Digital Asset Report 2025 - Institutional Perspective",
-    "summary": "Institutional-focused digital asset report for 2025.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Institutional analysis of the 2025 digital asset landscape, focusing on adoption drivers, market structure, and the role of tokenization in financial services. Highlights strategic implications for firms navigating evolving crypto and digital asset markets.",
+    "tags": [
+      "digital assets",
+      "tokenization",
+      "strategy",
+      "market research"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Digital Asset Security in the Quantum Era (Dec 2025).pdf",
     "title": "Digital Asset Security in the Quantum Era (Dec 2025)",
-    "summary": "Overview of quantum-era security threats and resilience approaches for digital assets.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how quantum computing could weaken current cryptography used across digital assets and tokenized systems, and outlines migration priorities such as quantum-resistant standards, key management, and ecosystem coordination to reduce future security risk.",
+    "tags": [
+      "digital assets",
+      "security",
+      "tokenization",
+      "standards"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Do Fundamentals Drive DeFi Valuations - Greenfield 2025.pdf",
     "title": "Do Fundamentals Drive DeFi Valuations - Greenfield 2025",
-    "summary": "Greenfield study on fundamentals driving DeFi valuations using ML models.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes whether DeFi token valuations are explained by underlying protocol fundamentals, assessing the link between usage, revenues, and market pricing. Highlights how valuation dispersion may reflect evolving market structure and investor expectations in crypto markets.",
+    "tags": [
+      "crypto",
+      "digital assets",
+      "market research",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Driving Public Blockchain Integration in Banking.pdf",
     "title": "Driving Public Blockchain Integration in Banking",
-    "summary": "Guide on integrating public blockchains into banking operations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how banks can integrate public blockchains into core activities, focusing on operational models, risk controls, and strategic pathways for adoption in tokenized financial services.",
+    "tags": [
+      "digital assets",
+      "tokenization",
+      "strategy",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/DTCC - Paving the Way to Tokenized DTC-Custodied Assets (Dec 2025).pdf",
     "title": "DTCC - Paving the Way to Tokenized DTC-Custodied Assets (Dec 2025)",
-    "summary": "DTCC press release on SEC no-action relief enabling a new tokenization service for DTC-custodied assets and plans to accelerate adoption of digital markets infrastructure.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "DTCC outlines a framework for enabling tokenized representations of DTC-custodied assets within existing market infrastructure. The paper emphasizes interoperability, operational control, and standards to support institutional adoption of tokenization at scale.",
+    "tags": [
+      "tokenization",
+      "digital assets",
+      "settlement",
+      "interoperability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/DTCC, Clearstream, Euroclear & BCG - Building the Path Towards Digital Asset Securities Interoperability (Feb 2026).pdf",
     "title": "DTCC, Clearstream, Euroclear & BCG - Building the Path Towards Digital Asset Securities Interoperability (Feb 2026)",
-    "summary": "White paper on Building the Path Towards Digital Asset Securities Interoperability.",
+    "summary": "Industry participants outline how interoperable infrastructure can enable digital asset securities at scale, focusing on standards, governance, and coordinated market design. The analysis highlights operational and settlement challenges that must be addressed across platforms and institutions.",
     "tags": [
-      "payments",
-      "tokenization",
+      "digital assets",
       "interoperability",
-      "crypto",
-      "regulation"
+      "tokenization",
+      "settlement"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/HSBC - Asset Tokenisation in the Quantum Age.pdf",
     "title": "HSBC - Asset Tokenisation in the Quantum Age",
-    "summary": "HSBC paper on tokenizing gold with post-quantum security considerations and architecture for resilient tokenized assets.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Examines how asset tokenization could reshape financial markets, with emphasis on infrastructure, interoperability, and future technological change. Frames tokenization as a strategic evolution in digital assets rather than a near-term standalone disruption.",
+    "tags": [
+      "tokenization",
+      "digital assets",
+      "strategy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/I-SODA - Interoperability Standards for Digital Assets White Paper (Jan 2026).pdf",
@@ -3916,69 +3949,106 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/JPMorgan - Tokenization of Money Market Funds.pdf",
     "title": "JPMorgan - Tokenization of Money Market Funds",
-    "summary": "JPMorgan perspective on tokenizing money market funds for institutional/wholesale clients.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "JPMorgan examines how tokenizing money market fund shares could improve collateral mobility, intraday liquidity, and operational efficiency, while outlining the legal, settlement, and market structure considerations needed for broader institutional adoption.",
+    "tags": [
+      "tokenization",
+      "funds",
+      "liquidity",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/OMFIF - Public Blockchain Working Group Report.pdf",
     "title": "OMFIF - Public Blockchain Working Group Report",
-    "summary": "OMFIF working group report on public blockchain integration in banking.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Industry report from OMFIF's Public Blockchain Working Group examining how public blockchains can support tokenization and digital asset use cases, while highlighting interoperability, standards, and policy considerations for institutional adoption.",
+    "tags": [
+      "tokenization",
+      "digital assets",
+      "dlt",
+      "standards"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Blueprint - DeFi Risk Stablecoins and the Future of Finance.pdf",
     "title": "The Blueprint - DeFi Risk Stablecoins and the Future of Finance",
-    "summary": "Blueprint on DeFi risk, stablecoins, and institutional on-chain finance.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how DeFi and stablecoins are reshaping financial markets, with emphasis on risk transmission, market structure, and the implications for the future design of finance. It frames stablecoins as a key bridge between crypto innovation and mainstream financial services.",
+    "tags": [
+      "stablecoins",
+      "risk",
+      "crypto",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The New Financial Order - RWAs and Stablecoins.pdf",
     "title": "The New Financial Order - RWAs and Stablecoins",
-    "summary": "Report on how RWAs and stablecoins are reshaping financial infrastructure.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how real-world assets and stablecoins are reshaping financial market structure, with emphasis on tokenization, settlement efficiency, and the evolving role of digital money in institutional finance.",
+    "tags": [
+      "stablecoins",
+      "tokenization",
+      "digital assets",
+      "market design"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Next Frontier of Financial Markets.pdf",
     "title": "The Next Frontier of Financial Markets",
-    "summary": "Perspective on what could define the next frontier in financial market infrastructure and digital assets.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Explores tokenization as a structural shift in financial markets, arguing that programmable digital assets can improve market efficiency, liquidity, and settlement while requiring coordinated standards, infrastructure, and regulatory progress.",
+    "tags": [
+      "tokenization",
+      "digital assets",
+      "market design",
+      "settlement"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Oracle Platform Powering Institutional Tokenization.pdf",
     "title": "The Oracle Platform Powering Institutional Tokenization",
-    "summary": "Overview of an oracle platform enabling institutional tokenization.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how oracle infrastructure supports institutional tokenization by connecting blockchains with trusted external data, automation, and interoperability. Highlights the role of reliable data feeds in scaling digital asset and tokenized finance use cases.",
+    "tags": [
+      "tokenization",
+      "digital assets",
+      "dlt",
+      "technology"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Tokenization of Money Market Funds FOR INSTITUTIONAL - WHOLESALE - PROFESSIONAL.pdf",
     "title": "Tokenization of Money Market Funds FOR INSTITUTIONAL - WHOLESALE - PROFESSIONAL",
-    "summary": "Brief on Tokenization of Money Market Funds FOR INSTITUTIONAL / WHOLESALE / PROFESSIONAL.",
+    "summary": "Analyzes the tokenization of money market funds for institutional, wholesale, and professional use cases, focusing on how digital fund shares can improve liquidity management, settlement efficiency, and integration with digital asset markets.",
     "tags": [
       "tokenization",
-      "crypto"
+      "funds",
+      "digital assets",
+      "liquidity"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/XRPL - Tokenization is No Longer a Theory (Dec 2025).pdf",
     "title": "XRPL - Tokenization is No Longer a Theory (Dec 2025)",
-    "summary": "Innovative App World whitepaper on XRPL-native infrastructure for tokenized markets.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Argues that tokenization has moved from concept to live market infrastructure, with real-world asset issuance and settlement on XRPL illustrating practical adoption. Emphasizes interoperability, efficiency gains, and institutional use cases in digital asset markets.",
+    "tags": [
+      "tokenization",
+      "digital assets",
+      "adoption",
+      "dlt"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/IOSCO/Financial Assets Tokenization .pdf",
@@ -3996,10 +4066,15 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/MAS_FCA_DeutscheBank_Schroder/MAS, FCA, Deutsche Bank, Schroder - Tokenized Funds.pdf",
     "title": "MAS, FCA, Deutsche Bank, Schroder - Tokenized Funds",
-    "summary": "Joint paper by MAS/FCA/Deutsche Bank/Schroder on tokenized funds.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Joint work by MAS, FCA, Deutsche Bank and Schroders examines tokenized funds, focusing on how fund structures, distribution and servicing can be improved through shared ledger infrastructure. It highlights operational efficiencies, interoperability needs and regulatory considerations for broader adoption.",
+    "tags": [
+      "tokenization",
+      "funds",
+      "digital assets",
+      "regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/CFTC - Tokenized Collateral Guidance (Dec 2025).pdf",
@@ -4040,10 +4115,15 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/MAS - Guide on the Tokenisation of Capital Markets Products (Nov 2025).pdf",
     "title": "MAS - Guide on the Tokenisation of Capital Markets Products (Nov 2025)",
-    "summary": "MAS guide on tokenising capital markets products and related regulatory expectations (Nov 2025 update).",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "MAS provides regulatory and operational guidance for tokenising capital markets products, outlining legal, risk, governance, and technology considerations to support compliant issuance, custody, and lifecycle management in Singapore's financial markets.",
+    "tags": [
+      "tokenization",
+      "regulation",
+      "digital assets",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/New Zealand - Digital Assets Strategy 2025-2030.pdf",
@@ -4060,33 +4140,53 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/SEC - Statement on Tokenized Securities (Jan 2026).pdf",
     "title": "SEC - Statement on Tokenized Securities",
-    "summary": "SEC staff statement clarifying application of U.S. securities laws to tokenized securities and related market participants.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "SEC staff statement outlines how federal securities laws apply to tokenized securities, emphasizing that tokenization does not alter the legal obligations of issuers, intermediaries, or market participants. It highlights compliance, custody, disclosure, and market structure considerations for digital asset securities.",
+    "tags": [
+      "regulation",
+      "tokenization",
+      "digital assets",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/Trump and Cryptocurrency.pdf",
     "title": "Trump and Cryptocurrency",
-    "summary": "Brief discussing Trump and cryptocurrency.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how Donald Trump's positions and political influence could shape US cryptocurrency regulation, market sentiment, and adoption. Focuses on implications for digital asset policy and the broader regulatory environment.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "us",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/UK - Property Digital Assets Act 2025.pdf",
     "title": "UK - Property Digital Assets Act 2025",
-    "summary": "UK Property (Digital Assets etc) Act 2025 explanatory notes on digital assets law.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Covers the UK's Property (Digital Assets etc.) Act 2025, which clarifies the legal status of digital assets as property and strengthens the basis for ownership, transfer, and dispute resolution. The measure supports greater legal certainty for digital asset markets.",
+    "tags": [
+      "regulation",
+      "digital assets",
+      "uk",
+      "policy"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/OECD - Tokenisation of Assets and DLT in Financial Markets (Policy Paper 75).pdf",
     "title": "OECD - Tokenisation of Assets and DLT in Financial Markets (Policy Paper 75)",
-    "summary": "OECD policy paper on tokenised assets and DLT in financial markets, identifying impediments to adoption and policy recommendations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "OECD Policy Paper 75 examines how tokenisation and distributed ledger technology could reshape financial markets by improving efficiency, transparency, and settlement processes, while highlighting legal, operational, and regulatory challenges to broader adoption.",
+    "tags": [
+      "tokenization",
+      "dlt",
+      "digital assets",
+      "regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
   }
 ]
