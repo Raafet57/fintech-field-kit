@@ -432,10 +432,15 @@
   {
     "path": "Compliance_Risk_and_Standards/Elliptic/Elliptic - Global Crypto Regulation Review 2025.pdf",
     "title": "Elliptic - Global Crypto Regulation Review 2025",
-    "summary": "Elliptic's 2025 review of crypto regulation across the Americas, EMEA, and APAC with key country updates and compliance takeaways for exchanges and financial institutions.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Reviews the global crypto regulatory landscape in 2025, comparing how major jurisdictions are tightening rules on licensing, AML, stablecoins, and market oversight. Highlights growing convergence in compliance expectations alongside persistent regional differences in implementation.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "compliance",
+      "aml"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/ESMA/ESMA - Data Strategy 2023-2028 (2025 Update).pdf",
@@ -451,66 +456,106 @@
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Directive (EU) 2015-2366 PSD2.pdf",
     "title": "Directive (EU) 2015-2366 PSD2",
-    "summary": "Full PSD2 text setting EU payment services rules, third-party access, consumer protection, and security/strong authentication requirements.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "EU PSD2 sets the legal framework for payment services in the EU, aiming to increase competition, strengthen consumer protection, and improve security in electronic payments through rules on access, transparency, and authentication.",
+    "tags": [
+      "regulation",
+      "payments",
+      "eu",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Proposal PSD3 - Annexes COM(2023)366.pdf",
     "title": "Proposal PSD3 Annexes COM(2023)366",
-    "summary": "Annexes to the EU PSD3/EMI directive proposal with detailed amendments, tables, and supporting material.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Proposal annexes to PSD3 set out detailed supervisory, authorization, and operational requirements for payment service providers in the EU. The material supports implementation of updated rules on licensing, governance, security, and consumer protection in payments.",
+    "tags": [
+      "regulation",
+      "compliance",
+      "payments",
+      "eu"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Proposal PSD3 - Payment Services and E-Money Directive COM(2023)366.pdf",
     "title": "Proposal PSD3 - Payment Services and E-Money Directive COM(2023)366",
-    "summary": "European Commission proposal to recast PSD2/EMD into PSD3 and a new E-Money framework, updating authorization, conduct, safeguarding, and oversight rules.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "European Commission proposal COM(2023)366 updates the EU framework for payment services and e-money, aiming to strengthen consumer protection, fraud prevention, open banking access, and prudential oversight. It signals tighter operational and compliance expectations for payment firms.",
+    "tags": [
+      "regulation",
+      "compliance",
+      "payments",
+      "eu"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Regulation (EU) 2022-2554 DORA.pdf",
     "title": "Regulation (EU) 2022-2554 DORA",
-    "summary": "Digital Operational Resilience Act establishing EU-wide ICT risk management, testing, incident reporting, and critical third-party oversight for financial entities.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "EU Regulation 2022-2554, DORA, establishes a harmonized framework for digital operational resilience in financial services, covering ICT risk management, incident reporting, testing, and oversight of critical third-party providers across the EU.",
+    "tags": [
+      "regulation",
+      "risk",
+      "compliance",
+      "eu"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Regulation (EU) 2022-858 DLT Pilot Reg.pdf",
     "title": "Regulation (EU) 2022-858 DLT Pilot Reg",
-    "summary": "EU DLT Pilot Regime enabling market infrastructure sandboxes for tokenized securities with adjusted MiFID/CSDR requirements.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "EU Regulation 2022-858 creates a pilot regime for market infrastructures using distributed ledger technology, allowing temporary regulatory exemptions to test trading and settlement of tokenised financial instruments under supervisory safeguards.",
+    "tags": [
+      "regulation",
+      "eu",
+      "dlt",
+      "securities"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Regulation (EU) 2023-1113 Funds and Crypto-Asset Transfers (TFR).pdf",
     "title": "Regulation (EU) 2023-1113 - Funds and Crypto-Asset Transfers (TFR)",
-    "summary": "Recast EU Transfer of Funds Regulation extending travel rule requirements to crypto-asset transfers and tightening AML/CFT data obligations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "EU Regulation 2023/1113 extends transfer of funds rules to crypto-asset transfers, imposing traceability, information-sharing, and due diligence requirements on payment service providers and crypto-asset service providers to strengthen AML and sanctions compliance.",
+    "tags": [
+      "regulation",
+      "compliance",
+      "crypto",
+      "eu"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Regulation (EU) 2023-1114 MiCA.pdf",
     "title": "Regulation (EU) 2023-1114 MiCA",
-    "summary": "Markets in Crypto-Assets Regulation establishing EU licensing, conduct, and prudential rules for CASPs and issuers of asset-referenced and e-money tokens.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "EU Regulation 2023/1114, MiCA establishes a harmonized framework for crypto-asset issuance, service providers, consumer protection, and market integrity across the EU. It clarifies authorization, disclosure, prudential, and conduct requirements for digital asset markets.",
+    "tags": [
+      "regulation",
+      "crypto",
+      "eu",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/FinCEN/FinCEN - CVC Guidance FIN-2019-G001 (May 2019).pdf",
     "title": "FinCEN - CVC Guidance FIN-2019-G001 (May 2019)",
-    "summary": "FinCEN interpretive guidance applying BSA/MSB rules to convertible virtual currency business models (exchangers, administrators, hosted wallets, kiosks, and P2P).",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "FinCEN's 2019 guidance clarifies how Bank Secrecy Act rules apply to convertible virtual currency activities, distinguishing users from money transmitters and outlining when exchangers, administrators, and certain business models trigger MSB obligations.",
+    "tags": [
+      "compliance",
+      "crypto",
+      "aml",
+      "us regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/FINMA/FINMA - Guidance 01-2026 - Custody of Crypto-based Assets.pdf",
@@ -526,26 +571,41 @@
   {
     "path": "Compliance_Risk_and_Standards/FSB/FSB - Global Regulatory Framework for Crypto-Asset Activities - Umbrella Note.pdf",
     "title": "FSB - Global Regulatory Framework for Crypto-Asset Activities - Umbrella Note",
-    "summary": "FSB umbrella note summarizing global regulatory framework for crypto-asset activities.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "FSB's umbrella note outlines a global regulatory framework for crypto-asset activities, aiming to align oversight across jurisdictions and address financial stability, risk, and cross-border supervisory gaps. It emphasizes consistent regulation based on activity and risk rather than technology.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "risk",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/FSB/Global Regulatory Framework for Cryptoassets.pdf",
     "title": "Global Regulatory Framework for Cryptoassets",
-    "summary": "FSB framework outlining policy recommendations for regulating crypto-assets.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "FSB outlines a global regulatory framework for cryptoassets, emphasizing consistent oversight, cross-border coordination, and safeguards to address financial stability and market integrity risks. It argues for applying existing regulatory principles while closing gaps for emerging crypto activities.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "risk",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/FSOC/FSOC - Annual Report 2025.pdf",
     "title": "FSOC - Annual Report 2025",
-    "summary": "FSOC’s 2025 annual assessment of U.S. financial stability risks, covering macro conditions, cyber and operational risk, digital assets, and key policy recommendations.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "FSOC's 2025 annual report reviews vulnerabilities across the U.S. financial system, highlighting risks from nonbank finance, cyber incidents, AI, digital assets, and climate-related exposures, while outlining regulatory priorities to strengthen resilience and oversight.",
+    "tags": [
+      "risk",
+      "regulation",
+      "us",
+      "financial stability"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/GLEIF/GLEIF - vLEI Hackathon 2025.pdf",
@@ -561,26 +621,40 @@
   {
     "path": "Compliance_Risk_and_Standards/HK_SFC/SFC - Guidelines for Virtual Asset Trading Platform Operators (Jun 2023).pdf",
     "title": "SFC - Guidelines for Virtual Asset Trading Platform Operators (Jun 2023)",
-    "summary": "Hong Kong SFC licensing and conduct standards for virtual asset trading platforms, including custody, onboarding, disclosures, and AML/market integrity controls.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Hong Kong SFC guidelines set licensing, custody, governance, disclosure, and investor protection requirements for virtual asset trading platform operators. The framework clarifies compliance expectations and risk controls for regulated crypto market infrastructure.",
+    "tags": [
+      "compliance",
+      "risk",
+      "crypto",
+      "regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/Morocco_Compliance/Conformité bancaire et PSP Maroc.pdf",
     "title": "Conformité bancaire et PSP Maroc",
-    "summary": "French-language report on banking and payment service provider compliance in Morocco.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Overview of banking and payment service provider compliance in Morocco, focusing on regulatory obligations, risk controls, and supervisory expectations. Highlights the operational requirements institutions must meet to align with local standards.",
+    "tags": [
+      "compliance",
+      "risk",
+      "regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/OCC/OCC Comptroller Gould - Remarks at Blockchain Association (Dec 2025).pdf",
     "title": "OCC Comptroller Gould - Remarks at Blockchain Association (Dec 2025)",
-    "summary": "OCC Comptroller Jonathan Gould’s speech on digital asset innovation, safety and soundness expectations, and supervisory priorities.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Remarks by the OCC Comptroller to the Blockchain Association likely outline the agency's supervisory stance on blockchain and digital assets, emphasizing risk management, compliance expectations, and the role of banks in adopting new financial technologies.",
+    "tags": [
+      "regulation",
+      "compliance",
+      "risk",
+      "digital assets"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/OCC/OCC Interpretive Letter 1188 - Riskless Principal Crypto Transactions (Dec 2025).pdf",
@@ -596,18 +670,28 @@
   {
     "path": "Compliance_Risk_and_Standards/PSD3/PSD3 Cheat Sheet.pdf",
     "title": "PSD3 Cheat Sheet",
-    "summary": "Cheat sheet summarizing PSD3 key provisions and impacts.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Concise reference to PSD3, outlining the proposed EU payment services changes, likely focusing on compliance impacts, fraud controls, open banking updates, and operational implications for payment providers and banks.",
+    "tags": [
+      "regulation",
+      "compliance",
+      "payments",
+      "eu"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/2025 LATAM Crypto Regulation Report.pdf",
     "title": "2025 LATAM Crypto Regulation Report",
-    "summary": "Survey of 2025 crypto regulation across Latin America, covering licensing, AML/CFT, taxation, and supervisory trends.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes the 2025 regulatory landscape for crypto across Latin America, highlighting jurisdictional differences, compliance expectations, and implications for market development and risk management.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "latin america",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/Acceleron & Payment Labs - Leveraging ISO 20022's Full Potential.pdf",
@@ -634,10 +718,15 @@
   {
     "path": "Compliance_Risk_and_Standards/Reports/Crypto Kleptocracy.pdf",
     "title": "Crypto Kleptocracy",
-    "summary": "Overview of kleptocracy-linked and illicit activity risks in crypto ecosystems.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how crypto markets can enable corruption, sanctions evasion, and illicit finance, arguing that weak oversight and opaque structures create governance and financial crime risks that demand stronger regulatory responses.",
+    "tags": [
+      "crypto",
+      "risk",
+      "compliance",
+      "financial crime"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/FFEdu - TBML Enters the Stablecoin Settlement Layer Era (2025 Observation Brief).pdf",
@@ -663,27 +752,41 @@
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/Outcome_ISC2508SF002968_02.pdf",
-    "title": "Outcome_ISC2508SF002968_02",
-    "summary": "Unclassified outcome document (note: this file appears to be a 0-page PDF).",
-    "tags": [],
+    "title": "Compliance, Risk And Standards Outcome Report",
+    "summary": "Outcome-style report in a compliance, risk, and standards context, likely documenting findings, decisions, or supervisory results relevant to control frameworks and adherence obligations. The exact subject is unclear from the available metadata.",
+    "tags": [
+      "compliance",
+      "risk",
+      "standards"
+    ],
     "source": "auto-flag",
     "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/Programmable Compliance for Digital Money & Assets.pdf",
     "title": "Programmable Compliance for Digital Money & Assets",
-    "summary": "Whitepaper on embedding programmable compliance controls into digital money and asset platforms, with policy enforcement patterns.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Analyzes how programmable compliance can embed regulatory controls into digital money and asset transactions, aiming to improve automation, transparency, and risk management across emerging digital financial infrastructures.",
+    "tags": [
+      "compliance",
+      "risk",
+      "digital assets",
+      "standards"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/PwC - Global Crypto Regulation Report 2026 (Jan 2026).pdf",
     "title": "PwC - Global Crypto Regulation Report 2026 (Jan 2026)",
-    "summary": "PwC’s fourth-edition global survey of crypto regulation, covering stablecoins, standards-setter views, EU MiCAR/DORA implementation, and jurisdictional updates.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "PwC surveys the global crypto regulatory landscape in early 2026, comparing how major jurisdictions are approaching licensing, market conduct, and prudential oversight. It highlights growing convergence in rules alongside persistent cross-border fragmentation and compliance complexity.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "compliance",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/SFFIPP/SFFIPP - Fraud Related to Virtual IBAN (Dec 2025).pdf",
@@ -699,18 +802,28 @@
   {
     "path": "Compliance_Risk_and_Standards/Singapore/MAS - Guidelines for Artificial Intelligence Risk Management (Dec 2025).pdf",
     "title": "MAS - Guidelines for Artificial Intelligence Risk Management (Dec 2025)",
-    "summary": "MAS principles for managing AI risks in financial institutions, covering governance, data management, validation, and monitoring.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Singapore's MAS sets expectations for managing AI-related risks in financial institutions, emphasizing governance, accountability, testing, monitoring, and third-party oversight. The guidance frames AI risk management as part of broader operational and compliance controls.",
+    "tags": [
+      "ai",
+      "risk",
+      "compliance",
+      "regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/Singapore/MAS - Guidelines on Licensing for Payment Service Providers (PSG01, Oct 2025).pdf",
     "title": "MAS - Guidelines on Licensing for Payment Service Providers (PSG01, Oct 2025)",
-    "summary": "MAS guidance on Payment Services Act licensing categories, fit-and-proper criteria, safeguarding, AML/CFT, and ongoing obligations (Oct 2025 amendment).",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Singapore MAS guidelines set out licensing expectations for payment service providers, including application requirements, scope of regulated activities, and supervisory considerations. The document clarifies compliance obligations and risk controls for operating payment services in Singapore.",
+    "tags": [
+      "regulation",
+      "payments",
+      "compliance",
+      "risk"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/Singapore/Singapore - Payment Services Act 2019 (consolidated Mar 2025).pdf",
@@ -723,10 +836,15 @@
   {
     "path": "Compliance_Risk_and_Standards/SWIFT/After coexistence - whats next for ISO 20022 in 2026.pdf",
     "title": "After coexistence - whats next for ISO 20022 in 2026",
-    "summary": "SWIFT guidance on post-coexistence priorities for ISO 20022 in 2026.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Examines the post-coexistence phase of ISO 20022 in 2026, focusing on how institutions move from basic migration to realizing value through richer data, standardization, and operational readiness. It highlights implications for compliance, interoperability, and payment processing.",
+    "tags": [
+      "iso20022",
+      "standards",
+      "payments",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/SWIFT/Hybrid Postal Address - Grace Period Guide for Banks - Dec 2025.pdf",
@@ -742,10 +860,15 @@
   {
     "path": "Compliance_Risk_and_Standards/SWIFT/SWIFT - CBPR+ Structured Postal Address Guide (2026).pdf",
     "title": "SWIFT - CBPR+ Structured Postal Address Guide (2026)",
-    "summary": "SWIFT guidance on structured postal addresses for CBPR+ and ISO 20022 compliance ahead of the 2026 migration deadline.",
-    "tags": [],
-    "source": "upstream",
-    "needsReview": false
+    "summary": "Guide to the CBPR+ structured postal address format for SWIFT messages, outlining required fields, formatting rules, and usage constraints to support consistent cross-border payment data quality and standards alignment.",
+    "tags": [
+      "standards",
+      "payments",
+      "cross-border",
+      "compliance"
+    ],
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/SWIFT/SWIFT - ISO 20022 for Dummies 6th Edition Dec 2022.pdf",
