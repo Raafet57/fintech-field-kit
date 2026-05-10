@@ -1212,6 +1212,18 @@
     "needsReview": true
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - FSI Insights on policy implementation Acting under (May 2026).pdf",
+    "title": "US - FSI Insights on policy implementation Acting under (May 2026)",
+    "summary": "BIS FSI Insights examines how authorities implement policy when acting under delegated powers in the US context, highlighting governance, legal authority, and supervisory execution. It focuses on practical policy implementation risks and standards relevant to compliance and regulation.",
+    "tags": [
+      "BIS",
+      "us regulation",
+      "Regulatory Standards"
+    ],
+    "source": "llm",
+    "needsReview": true
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Insurers subject to resolution.pdf",
     "title": "US - Insurers subject to resolution",
     "summary": "US insurers can be placed into resolution frameworks that prioritize policyholder protection and orderly wind-down, highlighting how supervisory intervention and legal standards aim to contain contagion and preserve market confidence.",
@@ -1298,6 +1310,19 @@
       "regulation",
       "Financial Stability",
       "us regulation"
+    ],
+    "source": "llm",
+    "needsReview": true
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - May 05, 2026 Categories: Agentic Commerce (Apr 2026).pdf",
+    "title": "US - May 05, 2026 Categories: Agentic Commerce (Apr 2026)",
+    "summary": "Overview of US developments in agentic commerce as of April 2026, highlighting emerging compliance, risk, and standards considerations for autonomous AI-driven transactions and digital financial services.",
+    "tags": [
+      "Agentic AI",
+      "Compliance Risk",
+      "us",
+      "Regulatory Standards"
     ],
     "source": "llm",
     "needsReview": true
@@ -2507,6 +2532,19 @@
     "needsReview": true
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Beyond Concentration: Where Non-USD Stablecoins Can Scale.pdf",
+    "title": "Beyond Concentration: Where Non-USD Stablecoins Can Scale",
+    "summary": "Analyzes where non-USD stablecoins may achieve meaningful adoption, arguing scale is more likely in specific payment, liquidity, and regional use cases than through direct competition with dollar-based incumbents. It highlights implications for cross-border flows, market structure, and digital money ecosystems.",
+    "tags": [
+      "Stablecoins",
+      "Cross-Border Payments",
+      "Liquidity Management",
+      "Digital Money"
+    ],
+    "source": "llm",
+    "needsReview": true
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Celent - SEPA Instant Adoption in Europe (Build It and They Will Come).pdf",
     "title": "Celent - SEPA Instant Adoption in Europe (Build It and They Will Come)",
     "summary": "Analyzes the rollout of SEPA Instant Credit Transfer across Europe, arguing that broad adoption depends not just on scheme availability but on compelling use cases, pricing, reachability, and ecosystem coordination. Highlights the strategic implications for banks and payment providers as real-time payments mature.",
@@ -2801,6 +2839,19 @@
     "needsReview": true
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Sonja Davidovic and Hervé Tourpe - How Agentic AI Will Reshape Payments; IMF Note No. 2026-004; April 2026.pdf",
+    "title": "Sonja Davidovic and Hervé Tourpe - How Agentic AI Will Reshape Payments; IMF Note No. 2026-004; April 2026",
+    "summary": "Agentic AI is presented as a force that could redesign payment processes, liquidity decisions, and operational workflows, while introducing new governance, risk, and regulatory challenges for payment providers and authorities.",
+    "tags": [
+      "Agentic AI",
+      "payments",
+      "Risk Management",
+      "Liquidity Management"
+    ],
+    "source": "llm",
+    "needsReview": true
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - 1776738452984.pdf",
     "title": "SWIFT - 1776738452984",
     "summary": "Analyzes SWIFT’s role in modernizing payment flows, with emphasis on faster settlement, interoperability, and liquidity efficiency across payment networks. Highlights implications for payment infrastructure and real-time transaction coordination.",
@@ -2809,6 +2860,19 @@
       "payments",
       "Real-Time Payments",
       "Liquidity Management"
+    ],
+    "source": "llm",
+    "needsReview": true
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER (2).pdf",
+    "title": "THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER",
+    "summary": "Report examines Asia's cross-border payments landscape in 2026, assessing current market structure, growth drivers, and future potential. It highlights how faster payment rails, interoperability, and regional integration are reshaping transaction flows and industry opportunities.",
+    "tags": [
+      "Cross-Border Payments",
+      "payments",
+      "Real-Time Payments",
+      "Interoperability"
     ],
     "source": "llm",
     "needsReview": true
@@ -3549,6 +3613,19 @@
     "needsReview": true
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/Corporate Bank Digital Money a perspective on (May 2026).pdf",
+    "title": "Corporate Bank Digital Money a perspective on (May 2026)",
+    "summary": "Analyzes corporate bank digital money as a bank-issued digital settlement instrument for institutional use, focusing on how it could support programmable payments, interoperability, and safer tokenized transactions within existing financial market structures.",
+    "tags": [
+      "Stablecoins",
+      "CBDC",
+      "Tokenization",
+      "Interoperability"
+    ],
+    "source": "llm",
+    "needsReview": true
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/Crunchfish - Immediate vs Deferred Offline Mode.pdf",
     "title": "Crunchfish - Immediate vs Deferred Offline Mode",
     "summary": "Analyzes offline payment design by contrasting immediate and deferred transaction modes, emphasizing trade-offs in security, settlement assurance, and usability for digital cash or CBDC systems. It argues that offline architecture choices materially affect risk and payment-system performance.",
@@ -4152,6 +4229,19 @@
       "Digital Assets",
       "Institutional Adoption",
       "Interoperability"
+    ],
+    "source": "llm",
+    "needsReview": true
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Tokenization of Money Market Funds FOR INSTITUTIONAL - WHOLESALE - PROFESSIONAL.pdf",
+    "title": "Tokenization of Money Market Funds FOR INSTITUTIONAL - WHOLESALE - PROFESSIONAL",
+    "summary": "Analyzes how tokenized money market funds can serve institutional and wholesale investors by improving operational efficiency, liquidity access, and collateral mobility, while highlighting legal, regulatory, and market structure constraints to broader adoption.",
+    "tags": [
+      "Tokenization",
+      "Digital Assets",
+      "Institutional Adoption",
+      "Liquidity Management"
     ],
     "source": "llm",
     "needsReview": true
