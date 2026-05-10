@@ -44,8 +44,8 @@
       "imf",
       "transformation"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Industry/Agentic AI is here - Bank Frontline Adoption.pdf",
@@ -57,8 +57,8 @@
       "adoption",
       "retail banking"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Industry/Anthropic - How Teams Use Claude Code.pdf",
@@ -70,8 +70,8 @@
       "workforce",
       "transformation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Industry/Notion - The Future of Product Development Report.pdf",
@@ -241,8 +241,8 @@
       "adoption",
       "financial services"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/Stay Agile with a Container-First Strategy.pdf",
@@ -279,8 +279,8 @@
       "data governance",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/What 4372 AI Use Cases Reveal - Public Sector AI.pdf",
@@ -326,8 +326,8 @@
       "interoperability",
       "payments"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/ADCX_Lab/ssrn-5634150 (1).pdf",
@@ -351,8 +351,8 @@
       "compliance",
       "financial crime"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/BAFT/ISO-20022-Migration-Lessons-Learned_First_White_Paper.pdf",
@@ -439,8 +439,8 @@
       "compliance",
       "aml"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/ESMA/ESMA - Data Strategy 2023-2028 (2025 Update).pdf",
@@ -463,8 +463,8 @@
       "eu",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/EU_Law/Proposal PSD3 - Annexes COM(2023)366.pdf",
@@ -554,8 +554,8 @@
       "aml",
       "us regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/FINMA/FINMA - Guidance 01-2026 - Custody of Crypto-based Assets.pdf",
@@ -604,8 +604,8 @@
       "us",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/GLEIF/GLEIF - vLEI Hackathon 2025.pdf",
@@ -628,8 +628,8 @@
       "crypto",
       "regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Morocco_Compliance/Conformité bancaire et PSP Maroc.pdf",
@@ -640,8 +640,8 @@
       "risk",
       "regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/OCC/OCC Comptroller Gould - Remarks at Blockchain Association (Dec 2025).pdf",
@@ -653,8 +653,8 @@
       "risk",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/OCC/OCC Interpretive Letter 1188 - Riskless Principal Crypto Transactions (Dec 2025).pdf",
@@ -690,8 +690,8 @@
       "latin america",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/Acceleron & Payment Labs - Leveraging ISO 20022's Full Potential.pdf",
@@ -772,8 +772,8 @@
       "digital assets",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/PwC - Global Crypto Regulation Report 2026 (Jan 2026).pdf",
@@ -785,8 +785,8 @@
       "compliance",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/SFFIPP/SFFIPP - Fraud Related to Virtual IBAN (Dec 2025).pdf",
@@ -809,8 +809,8 @@
       "compliance",
       "regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Singapore/MAS - Guidelines on Licensing for Payment Service Providers (PSG01, Oct 2025).pdf",
@@ -822,8 +822,8 @@
       "compliance",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Singapore/Singapore - Payment Services Act 2019 (consolidated Mar 2025).pdf",
@@ -872,8 +872,8 @@
       "cross-border",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/SWIFT/SWIFT - ISO 20022 for Dummies 6th Edition Dec 2022.pdf",
@@ -896,8 +896,8 @@
       "crypto",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/UK/FCA - Cryptoassets Consumer Research 2025 (Wave 6).pdf",
@@ -921,8 +921,8 @@
       "compliance",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/UK/Lexology - Panoramic Cryptoassets and Blockchain (UK).pdf",
@@ -3131,8 +3131,8 @@
       "policy",
       "cbdc"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/ECB_Ulrich_Bindseil/ssrn-5710762.pdf",
@@ -3258,8 +3258,8 @@
       "payments",
       "financial services"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Independent/E-Money and Stablecoin Tax Reporting Framework (2025).pdf",
