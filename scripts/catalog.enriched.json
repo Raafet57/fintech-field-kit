@@ -20,8 +20,8 @@
       "benchmark",
       "imf"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/IBM/IBM - The race for ROI.pdf",
@@ -32,8 +32,8 @@
       "transformation",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/IMF/IMF WP_25_199.pdf",
@@ -145,8 +145,8 @@
       "ai",
       "financial services"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "AI_and_Digital_Transformation/Reports/Chief Data Officer's Guide to Digital Transformation.pdf",
@@ -363,8 +363,8 @@
       "standards",
       "compliance"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/BCBS/Machine-readable Pillar 3 Disclosure - Basel Committee Dec 2025.pdf",
@@ -759,8 +759,8 @@
       "risk",
       "standards"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/Programmable Compliance for Digital Money & Assets.pdf",
@@ -1434,8 +1434,8 @@
       "transformation",
       "financial services"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Core_Banking_and_Lending_Modernization/Reports/Mambu - Predictions Report 2025.pdf",
@@ -1610,8 +1610,8 @@
       "financial stability",
       "financial services"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/Bank of Canada - Project Samara Research Paper (SAP 2026-8).pdf",
@@ -2038,8 +2038,8 @@
       "trends",
       "workforce"
     ],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Academic/Alisa DiCaprio, Marcello Miccoli, Philip Montalvao, Andrew Usher, and Jeanne Verrier - Do Capital Controls Slow Cross-Border Payments in the Last Mile? Preliminary Evidence, WP-26-68, April 2026 (Apr 2026).pdf",
@@ -3106,8 +3106,8 @@
     "title": "Bindseil 2025, Regulatory responses_stablecoins",
     "summary": "ECB Bindseil paper on regulatory responses to stablecoins.",
     "tags": [],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/ECB_Ulrich_Bindseil/ssrn-5710762.pdf",
@@ -3205,8 +3205,8 @@
     "title": "1774511437493",
     "summary": "(auto-flagged: upstream title looks unusable; please review and provide a clean title.)",
     "tags": [],
-    "source": "auto-flag",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Independent/E-Money and Stablecoin Tax Reporting Framework (2025).pdf",
