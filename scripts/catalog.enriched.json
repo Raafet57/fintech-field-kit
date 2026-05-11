@@ -677,8 +677,8 @@
       "payments",
       "eu"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/Reports/2025 LATAM Crypto Regulation Report.pdf",
@@ -835,8 +835,8 @@
       "payments",
       "aml"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/SWIFT/After coexistence - whats next for ISO 20022 in 2026.pdf",
@@ -934,8 +934,8 @@
       "regulation",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026).pdf",
@@ -983,8 +983,8 @@
       "monetary policy",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - 1777901224069.pdf",
@@ -996,8 +996,8 @@
       "us",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Agents of Chaos (Feb 2026).pdf",
@@ -1047,8 +1047,8 @@
       "compliance",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Consultation Paper CP26-13** Cryptoasset Perimeter Guidance (Apr 2026).pdf",
@@ -1060,8 +1060,8 @@
       "us regulation",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - DeFi Lending: Returns, Leverage, and Liquidation (Feb 2026).pdf",
@@ -1073,8 +1073,8 @@
       "us",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - DEPOSIT TOKENS A foundation for stable digital money (May 2022).pdf",
@@ -1086,8 +1086,8 @@
       "payments",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Effective access to beneficial ownership information User-centred and responsible approaches (Apr 2026).pdf",
@@ -1112,8 +1112,8 @@
       "risk",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Fact Sheet: Proposed Rule to Implement the GENIUS Act’s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements.pdf",
@@ -1125,8 +1125,8 @@
       "us regulation",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - FINTECH & PAYMENTS PAYMENT RAILS WITHOUT BORDERS: THE RISE OF STABLECOINS (Jul 2023).pdf",
@@ -1138,8 +1138,8 @@
       "cross-border",
       "us regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - FSI Insights on policy implementation Acting under (May 2026).pdf",
@@ -1151,8 +1151,8 @@
       "compliance",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Insurers subject to resolution.pdf",
@@ -1164,8 +1164,8 @@
       "us",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - International Foreign Bribery Taskforce | Indicators of Foreign Bribery.pdf",
@@ -1177,8 +1177,8 @@
       "financial crime",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future (Apr 2026).pdf",
@@ -1190,8 +1190,8 @@
       "payments",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Leveraging shareholder data for beneficial ownership transparency (Apr 2026).pdf",
@@ -1203,8 +1203,8 @@
       "us",
       "financial crime"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels (Mar 2026).pdf",
@@ -1215,8 +1215,8 @@
       "technology",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Machine Learning and IRB Capital Requirements: Advantages, Risks, and Recommendations∗ Christophe Hurlin†Christophe Pérignon‡ (Oct 2021).pdf",
@@ -1228,8 +1228,8 @@
       "us regulation",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Making Stablecoins Stable, WP-26-74, April 2026 (Apr 2026).pdf",
@@ -1241,8 +1241,8 @@
       "risk",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - May 05, 2026 Categories: Agentic Commerce (Apr 2026).pdf",
@@ -1293,8 +1293,8 @@
       "compliance",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Sample Report.pdf",
@@ -1306,8 +1306,8 @@
       "risk",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Securing AI-Generated Code | Replit White Paper.pdf",
@@ -1319,8 +1319,8 @@
       "compliance",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - SoK: Blockchain Agent-to-Agent Payments (Apr 2026).pdf",
@@ -1332,8 +1332,8 @@
       "crypto",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC (Apr 2026).pdf",
@@ -1384,8 +1384,8 @@
       "compliance",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/UTS_Tech/UTS Tech – Conformité Bancaire et Moyens de Paiement au Maroc.pdf",
@@ -1397,8 +1397,8 @@
       "risk",
       "regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/zkOrigoPlus/zkOrigoPlus  a stateless real-time compliance validator -1.pdf",
@@ -1470,8 +1470,8 @@
       "cross-border",
       "data"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "FX_and_Currency_Strategy/UNITE_Global/Currency Freedom.pdf",
@@ -1507,8 +1507,8 @@
       "strategy",
       "currency"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "FX_and_Currency_Strategy/UNITE_Global/USD Demand and the Use of Intermediary Currencies.pdf",
