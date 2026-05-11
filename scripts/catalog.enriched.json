@@ -970,8 +970,8 @@
       "risk",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/The Fed - Payment Stablecoins and Cross Border Payments: Benefits and Implications for Monetary Policy Implementation (Jul 2025).pdf",
@@ -1254,8 +1254,8 @@
       "compliance",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Position: Agentic AI systems should be making Bayes-consistent decisions.pdf",
@@ -1280,8 +1280,8 @@
       "us",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Regulatory Priorities: Payments report (Mar 2026).pdf",
@@ -1410,8 +1410,8 @@
       "standards",
       "technology"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Core_Banking_and_Lending_Modernization/FIS/FIS Commercial Lending Suite Case Study.pdf",
@@ -1675,8 +1675,8 @@
       "transformation",
       "financial services"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Deloitte/Deloitte - StateofAI Report vF (Jan 2026).pdf",
@@ -1688,8 +1688,8 @@
       "adoption",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Deloitte/Deloitte - Tech Trends 2026.pdf",
@@ -1701,8 +1701,8 @@
       "strategy",
       "transformation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Entlaq/Egyptian Fin-Tech Landscape 2024.pdf",
@@ -1714,8 +1714,8 @@
       "adoption",
       "financial services"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey - Global Payments Report 2025 - Competing systems contested outcomes.pdf",
@@ -1789,8 +1789,8 @@
       "adoption",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Digital Assets Outlook 2026.pdf",
@@ -1802,8 +1802,8 @@
       "tokenization",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Digital Assets Report - Fasanara and Glassnode (Q4 2025).pdf",
@@ -1828,8 +1828,8 @@
       "regulation",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/EFG - Outlook 2026.pdf",
@@ -1841,8 +1841,8 @@
       "strategy",
       "transformation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Finovate - Fintech at the Crossroads (2026).pdf",
@@ -1865,8 +1865,8 @@
       "financial services",
       "adoption"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/FinTech Group - Digital Assets Market Update Fall 2025.pdf",
@@ -1878,8 +1878,8 @@
       "fintech",
       "trends"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Fintech in ASEAN 2025.pdf",
@@ -1926,8 +1926,8 @@
       "financial services",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Logica - Future of Money 2025 Highlight Report.pdf",
@@ -1939,8 +1939,8 @@
       "payments",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Pricing Guide for B2B SaaS Founders.pdf",
@@ -1951,8 +1951,8 @@
       "strategy",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Reimagining Everyday Banking Products - Oct 2025.pdf",
@@ -1964,8 +1964,8 @@
       "product",
       "transformation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/RFI Global - Trends and Predictions 2026 (Financial Services).pdf",
@@ -2026,8 +2026,8 @@
       "market research",
       "regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/WEF/WEF_Future_of_Jobs_Report_2025.pdf",
@@ -2404,8 +2404,8 @@
       "adoption",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Crunchfish - Offline Payments at Scale as Digital Money (Mar 2026).pdf",
@@ -2468,8 +2468,8 @@
       "eu",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/EU T+1 Industry Committee - Guides & Resources (2025).pdf",
@@ -2493,8 +2493,8 @@
       "europe",
       "financial crime"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/FASTT - ID Meets Instant - Enabling Trusted, Inclusive Fast Payments through Digital ID (Feb 2026).pdf",
@@ -2531,8 +2531,8 @@
       "data",
       "interoperability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard Digital Payment Security Standard (Dec 2025).pdf",
@@ -2556,8 +2556,8 @@
       "liquidity",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/MPRA Paper 126747 - The Digital Leap: Assessing the Impact of Payment Technologies on Currency Choices in Cambodia (Aug 2025).pdf",
@@ -2581,8 +2581,8 @@
       "trends",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/PALMER Rachel - PowerPoint Presentation (Mar 2026).pdf",
@@ -2594,8 +2594,8 @@
       "settlement",
       "operations"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Payments Forward Plan (Feb 2026).pdf",
@@ -2671,8 +2671,8 @@
       "liquidity",
       "market design"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Sonja Davidovic and Hervé Tourpe - How Agentic AI Will Reshape Payments; IMF Note No. 2026-004; April 2026.pdf",
@@ -2784,8 +2784,8 @@
       "adoption",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX Interbank Clearing - Instant Payments Bridge (IPB) Rough Concept (Jan 2026).pdf",
@@ -2797,8 +2797,8 @@
       "interoperability",
       "settlement"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/Global Currency Access-The End of Correspondent Dependency.pdf",
@@ -2887,8 +2887,8 @@
       "settlement",
       "operations"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The New Architecture of Global Liquidity.pdf",
