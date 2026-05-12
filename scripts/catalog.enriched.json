@@ -1422,8 +1422,8 @@
       "financial services",
       "operations"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Core_Banking_and_Lending_Modernization/Gulf_Islamic_Bank/T24_Transact Transformation Program.pdf",
@@ -1559,8 +1559,8 @@
       "ai",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/BCG/BCG - State of Fintech Q3 2025 - Digital Assets Deep Dive.pdf",
@@ -1585,8 +1585,8 @@
       "market research",
       "adoption"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/BIS/BIS - Annual Economic Report 2025 Chapter III - The Next-Generation Monetary and Financial System.pdf",
@@ -1662,8 +1662,8 @@
       "transformation",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Deloitte/2026 Banking and Capital Markets Outlook - Deloitte.pdf",
@@ -1727,8 +1727,8 @@
       "strategy",
       "cross-border"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey - How Retail Banks Build Strategic Distance (Dec 2025).pdf",
