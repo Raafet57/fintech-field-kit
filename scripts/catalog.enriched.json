@@ -1345,8 +1345,8 @@
       "standards",
       "transformation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Tokenized Deposits Paper v11.pptx (Apr 2026).pdf",
@@ -1358,8 +1358,8 @@
       "regulation",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Who owns crypto in the euro area? Drivers of crypto adoption, payment use, and its interaction with fiat cash.pdf",
@@ -1520,8 +1520,8 @@
       "us",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Academic/arXiv.org - From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence (Dec 2025).pdf",
@@ -1598,8 +1598,8 @@
       "settlement",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/BIS/BIS_ Big techs, credit, and digital money.pdf",
@@ -1649,8 +1649,8 @@
       "financial stability",
       "payments"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/CEPR/CEPR - Frontiers of Digital Finance.pdf",
@@ -1776,8 +1776,8 @@
       "tokenization",
       "adoption"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Chainalysis - Geography of Crypto Report 2025.pdf",
@@ -1891,8 +1891,8 @@
       "asean",
       "trends"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Goldman Sachs - The US-China Tech Race Issue 144 (Dec 2025).pdf",
@@ -2013,8 +2013,8 @@
       "fintech",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/US Crypto Market Structure Guide 2025 - End of Year Snapshot.pdf",
@@ -2129,8 +2129,8 @@
       "payments",
       "benchmark"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Fostering ISO 20022 harmonisation - follow-up report.pdf",
@@ -2155,8 +2155,8 @@
       "interoperability",
       "bis"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Pricing in Fast Payments Working Paper 1295 (Oct 2025).pdf",
@@ -2228,8 +2228,8 @@
       "cross-border",
       "interoperability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS Working Paper 1112 - Trust Bridges and Money Flows (Jul 2023).pdf",
@@ -2443,8 +2443,8 @@
       "liquidity",
       "cross-border"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Drivers of Digital Payment Adoption - Lessons from Brazil Costa Rica and Mexico (2025).pdf",
@@ -2697,8 +2697,8 @@
       "settlement",
       "operations"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER (2).pdf",
@@ -2723,8 +2723,8 @@
       "liquidity",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/The global standard benchmark of AI maturity KEY FINDINGS REPORT (Feb 2026).pdf",
@@ -2736,8 +2736,8 @@
       "strategy",
       "adoption"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/The Tipping Point for Innovation in B2B Payments - GBA ASEAN.pdf",
@@ -2926,8 +2926,8 @@
       "liquidity",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Appia - paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT (Nov 2024).pdf",
@@ -2988,8 +2988,8 @@
       "visa",
       "operations"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - The Eurosystem’s comprehensive payments strategy.pdf",
@@ -3001,8 +3001,8 @@
       "europe",
       "visa"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/World_Bank/World Bank - A Comparative Methodology for Measuring Supply-Side Domestic Payment Costs (Pilot Study).pdf",
@@ -3040,8 +3040,8 @@
       "settlement",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/NBER - Stablecoins A Revolutionary Payment Technology with Financial Risks.pdf",
@@ -3053,8 +3053,8 @@
       "risk",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/Wharton - The Stablecoin Toolkit Part I (Jan 2026).pdf",
@@ -3079,8 +3079,8 @@
       "cross-border",
       "settlement"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/BIS/BIS - Tokenomics and blockchain fragmentation (Mar 2026).pdf",
@@ -3092,8 +3092,8 @@
       "interoperability",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/BIS/BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023).pdf",
@@ -3157,8 +3157,8 @@
       "cross-border",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/FTN008 - Evaluating the Implications of CBDC for Financial Stability.pdf",
@@ -3170,8 +3170,8 @@
       "imf",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/IMF - Central Bank Digital Currency - Further Navigating Challenges and Risks (Nov 2025).pdf",
@@ -3194,8 +3194,8 @@
       "digital assets",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/IMF - Stablecoins and the Future of Payments: Evidence from Financial Markets, WP-26-52, March 2026 (Mar 2026).pdf",
@@ -3233,8 +3233,8 @@
       "aml",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/IMF Working Paper 26-5 - From Par to Pressure: Liquidity, Redemptions, and Fire Sales with a Systemic Stablecoin (Jan 2026).pdf",
@@ -3295,8 +3295,8 @@
       "financial stability",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Independent/The Hidden Plumbing of Stablecoins - Risks in the GENIUS Act Era.pdf",
@@ -3308,8 +3308,8 @@
       "regulation",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/2025 Asia Stablecoin Conference - Event Report (Sep 2025).pdf",
@@ -3321,8 +3321,8 @@
       "policy",
       "adoption"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/2025 Stablecoin Trends - Building Bridges with Trust and Execution.pdf",
