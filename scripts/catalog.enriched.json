@@ -2354,8 +2354,8 @@
       "operations",
       "technology"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/AWS - Agentic Payments The Next Evolution in the Payments Value Chain (Nov 2025).pdf",
@@ -2391,8 +2391,8 @@
       "cross-border",
       "liquidity"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Celent - SEPA Instant Adoption in Europe (Build It and They Will Come).pdf",
@@ -2646,8 +2646,8 @@
       "trends",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Resilience of the Banking Unions Non-Cash Payment Systems - Nov 2025.pdf",
@@ -2848,8 +2848,8 @@
       "liquidity",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/Risk Reduction Through RT-SCL.pdf",
@@ -2874,8 +2874,8 @@
       "settlement",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The End of the Waiting Period.pdf",
@@ -2952,8 +2952,8 @@
       "fintech",
       "visa"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Fiscal 2025 Annual Report.pdf",
@@ -3066,8 +3066,8 @@
       "policy",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025).pdf",
@@ -3144,8 +3144,8 @@
       "financial stability",
       "monetary policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/ECB/ECB Working Paper 3174 - Private Money and Public Debt - US Stablecoins and the Global Safe Asset Channel.pdf",
@@ -3347,8 +3347,8 @@
       "payments",
       "financial services"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Artemis - Stablecoin Payments.pdf",
@@ -3577,8 +3577,8 @@
       "payments",
       "financial services"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/PitchBook - Stablecoins Complement TradFi Not Replace It.pdf",
@@ -3614,8 +3614,8 @@
       "policy",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/TRM_Labs/2025 Crypto Adoption and Stablecoin Usage - TRM Labs.pdf",
@@ -3692,8 +3692,8 @@
       "market design",
       "payments"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Academic/Halaburda - Impossibility of Transparent and Decentralized Trading on Permissionless Blockchains (Dec 2025).pdf",
@@ -3778,8 +3778,8 @@
       "dlt",
       "financial services"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/BlackRock - How Tokenisation Could Transform Finance.pdf",
@@ -3791,8 +3791,8 @@
       "financial services",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless (Apr 2026) (2).pdf",
@@ -3830,8 +3830,8 @@
       "crypto",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Digital Asset Report 2025 - Institutional Perspective.pdf",
@@ -3882,8 +3882,8 @@
       "strategy",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/DTCC - Paving the Way to Tokenized DTC-Custodied Assets (Dec 2025).pdf",
@@ -4073,8 +4073,8 @@
       "digital assets",
       "regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/CFTC - Tokenized Collateral Guidance (Dec 2025).pdf",
@@ -4186,7 +4186,7 @@
       "digital assets",
       "regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   }
 ]
