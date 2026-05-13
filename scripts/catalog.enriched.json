@@ -2684,8 +2684,8 @@
       "imf",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - 1776738452984.pdf",
@@ -2710,8 +2710,8 @@
       "market research",
       "liquidity"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER.pdf",
@@ -2939,8 +2939,8 @@
       "interoperability",
       "visa"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - Financial Institutions, Fintechs and the Gray Area.pdf",
@@ -3360,8 +3360,8 @@
       "settlement",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Banking on Stablecoins.pdf",
@@ -3373,8 +3373,8 @@
       "financial stability",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Binance Research - The Stablecoin Business (Nov 2025).pdf",
@@ -3386,8 +3386,8 @@
       "market research",
       "payments"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Citi - Stablecoins 2030 Web3 to Wall Street.pdf",
@@ -3399,8 +3399,8 @@
       "payments",
       "adoption"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Corporate Bank Digital Money a perspective on (May 2026).pdf",
@@ -3425,8 +3425,8 @@
       "risk",
       "settlement"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/CSI - Stablecoins and Tokenized Deposits - What Bank Leaders Need to Know.pdf",
@@ -3451,8 +3451,8 @@
       "strategy",
       "regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/EYP - Stablecoin Survey.pdf",
@@ -3477,8 +3477,8 @@
       "policy",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Fidelity Digital Assets - Stablecoins Explained.pdf",
@@ -3553,8 +3553,8 @@
       "regulation",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/PayWithZ - Bank-Grade Compliant Stablecoin Infrastructure (Nov 2025).pdf",
@@ -3627,8 +3627,8 @@
       "adoption",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/UNITE_Global/Executive Briefing - Stablecoins vs UNITE Global FMI.pdf",
@@ -3817,8 +3817,8 @@
       "regulation",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/DBS Digital Assets Update 4Q25.pdf",
@@ -3843,8 +3843,8 @@
       "strategy",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Digital Asset Security in the Quantum Era (Dec 2025).pdf",
@@ -3895,8 +3895,8 @@
       "settlement",
       "interoperability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/DTCC, Clearstream, Euroclear & BCG - Building the Path Towards Digital Asset Securities Interoperability (Feb 2026).pdf",
@@ -3908,8 +3908,8 @@
       "tokenization",
       "settlement"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/HSBC - Asset Tokenisation in the Quantum Age.pdf",
@@ -4047,8 +4047,8 @@
       "adoption",
       "dlt"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/IOSCO/Financial Assets Tokenization .pdf",
@@ -4122,8 +4122,8 @@
       "digital assets",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/New Zealand - Digital Assets Strategy 2025-2030.pdf",
@@ -4147,8 +4147,8 @@
       "digital assets",
       "compliance"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/Trump and Cryptocurrency.pdf",
@@ -4160,8 +4160,8 @@
       "us",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/UK - Property Digital Assets Act 2025.pdf",
