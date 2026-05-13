@@ -2633,8 +2633,8 @@
       "market research",
       "resilience"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Paystand - Top B2B Payment Trends for 2026 and Beyond.pdf",
@@ -2810,8 +2810,8 @@
       "liquidity",
       "market design"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/How continuous settlement will transform bank profits.pdf",
@@ -2913,8 +2913,8 @@
       "liquidity",
       "resilience"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The Rise of Functional Interoperability.pdf",
@@ -2976,8 +2976,8 @@
       "security",
       "visa"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - SumUp Receipt.pdf",
@@ -3207,8 +3207,8 @@
       "imf",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/Imf cbdc.pdf",
@@ -3282,8 +3282,8 @@
       "cross-border",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Independent/Oxford Business Law Blog - What Scottish Banknotes Can Teach Stablecoin Regulators (Feb 2026).pdf",
@@ -3334,8 +3334,8 @@
       "digital assets",
       "trends"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/2025 Stablecoin Trends in Business and Beyond.pdf",
@@ -3412,8 +3412,8 @@
       "liquidity",
       "market design"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Crunchfish - Immediate vs Deferred Offline Mode.pdf",
@@ -3438,8 +3438,8 @@
       "strategy",
       "payments"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/European Banks and Stablecoins Report 2025.pdf",
@@ -3503,8 +3503,8 @@
       "policy",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/How Stablecoins Can Improve Payments and Global Finance.pdf",
@@ -3527,8 +3527,8 @@
       "regulation",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Kamhi, Nya EOP-CEA (Intern) - PowerPoint Presentation (Apr 2026).pdf",
@@ -3540,8 +3540,8 @@
       "policy",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/KPMG - Stablecoins Opportunities and Challenges.pdf",
@@ -3601,8 +3601,8 @@
       "payments",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Sveriges_Riksbank/Sveriges Riksbank Staff memo November 2025.pdf",
@@ -3640,8 +3640,8 @@
       "settlement",
       "market design"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Unknown/RBI - On Stablecoins.pdf",
@@ -3653,8 +3653,8 @@
       "risk",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Unknown/Stablecoins - effective bridge between fiat and crypto or a bridge too far.pdf",
@@ -3679,8 +3679,8 @@
       "digital assets",
       "cbdc"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Unknown/The Stablecoin Business.pdf",
@@ -3715,8 +3715,8 @@
       "decentralization",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/BIS/BIS - How Deposits Can Harness Tokenisation (Nov 2025).pdf",
@@ -3739,8 +3739,8 @@
       "market research",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/GFTN/GFTN Global Digital Assets Report.pdf",
@@ -3752,8 +3752,8 @@
       "market research",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/IMF/IMF Working Paper 25-186 - Blockchain Consensus Mechanisms - A Primer for Supervisors (2025 Update).pdf",
@@ -3765,8 +3765,8 @@
       "digital assets",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Asset Tokenization 101.pdf",
@@ -3804,8 +3804,8 @@
       "risk",
       "regulation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Consultation Paper on the Prudential Treatment of Cryptoassets on Permissionless (Apr 2026).pdf",
@@ -3856,8 +3856,8 @@
       "tokenization",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Do Fundamentals Drive DeFi Valuations - Greenfield 2025.pdf",
@@ -3869,8 +3869,8 @@
       "market research",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Driving Public Blockchain Integration in Banking.pdf",
@@ -3920,8 +3920,8 @@
       "digital assets",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/I-SODA - Interoperability Standards for Digital Assets White Paper (Jan 2026).pdf",
@@ -3956,8 +3956,8 @@
       "liquidity",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/OMFIF - Public Blockchain Working Group Report.pdf",
@@ -3969,8 +3969,8 @@
       "dlt",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Blueprint - DeFi Risk Stablecoins and the Future of Finance.pdf",
@@ -3982,8 +3982,8 @@
       "crypto",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The New Financial Order - RWAs and Stablecoins.pdf",
@@ -3995,8 +3995,8 @@
       "digital assets",
       "market design"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Next Frontier of Financial Markets.pdf",
@@ -4021,8 +4021,8 @@
       "dlt",
       "technology"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Tokenization of Money Market Funds FOR INSTITUTIONAL - WHOLESALE - PROFESSIONAL.pdf",
@@ -4060,8 +4060,8 @@
       "regulation",
       "market design"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/MAS_FCA_DeutscheBank_Schroder/MAS, FCA, Deutsche Bank, Schroder - Tokenized Funds.pdf",
