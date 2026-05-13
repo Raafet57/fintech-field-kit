@@ -1267,8 +1267,8 @@
       "standards",
       "us"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025 (Dec 2025).pdf",
@@ -1371,8 +1371,8 @@
       "risk",
       "europe"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US Public Law 119-27 - GENIUS Act Stablecoin Regulation (Jul 2025).pdf",
@@ -1457,8 +1457,8 @@
       "transformation",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "FX_and_Currency_Strategy/SWIFT/SWIFT - RMB Tracker (Feb 2026).pdf",
@@ -1482,8 +1482,8 @@
       "strategy",
       "cross-border"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "FX_and_Currency_Strategy/UNITE_Global/From Dollar Dependence to Currency Balance.pdf",
@@ -1494,8 +1494,8 @@
       "strategy",
       "geopolitics"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "FX_and_Currency_Strategy/UNITE_Global/FXaaS - The competitive edge in the Real-Time Economy.pdf",
@@ -1546,8 +1546,8 @@
       "strategy",
       "benchmark"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Accenture/Accenture - Top Banking Trends 2026 (Unconstrained Banking).pdf",
@@ -1572,8 +1572,8 @@
       "digital assets",
       "tokenization"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Binance/Binance - State of the Blockchain 2025 Year in Review.pdf",
@@ -1623,8 +1623,8 @@
       "market research",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/BOC - The Costs of Electronic Retail Payment Networks.pdf",
@@ -1636,8 +1636,8 @@
       "retail banking",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Central_Banks/Norges Bank - Strategy 28.pdf",
@@ -1763,8 +1763,8 @@
       "digital assets",
       "benchmark"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/APAC Digital Asset Adoption 2025 - Stablecoins Tokenization Integration.pdf",
@@ -1815,8 +1815,8 @@
       "crypto",
       "trends"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Digital Assets UAE - Lessons from 2025, Signals for 2026.pdf",
@@ -1988,8 +1988,8 @@
       "digital assets",
       "trends"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Strategies for Scalable Sustainable Operations - Banking Perspective.pdf",
@@ -2001,8 +2001,8 @@
       "operations",
       "transformation"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/The Power of Together - Fintech Ecosystems in Sub-Saharan Africa.pdf",
@@ -2051,8 +2051,8 @@
       "policy",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Academic/James Aris - Working Paper 26-069 Who Pays for Payments? Mark Egan.pdf",
@@ -2064,8 +2064,8 @@
       "market design",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Academic/UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026).pdf",
@@ -2077,8 +2077,8 @@
       "cross-border",
       "interoperability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/AFP/2025 AFP Payments Fraud Report .pdf",
@@ -2090,8 +2090,8 @@
       "financial crime",
       "benchmark"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS_SNB/othp104.pdf",
@@ -2103,8 +2103,8 @@
       "bis",
       "liquidity"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/AI Agents for Cash Management in Payment Systems.pdf",
@@ -2116,8 +2116,8 @@
       "liquidity",
       "bis"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Cross-Border Payments Survey (Dec 2025).pdf",
@@ -2142,8 +2142,8 @@
       "interoperability",
       "payments"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - month and year The future of financial messaging: navigating the ISO 20022 migration (Apr 2026).pdf",
@@ -2202,8 +2202,8 @@
       "cross-border",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS Bulletin 119 - Enhancing Cross-Border Payments (Dec 2025).pdf",
@@ -2215,8 +2215,8 @@
       "bis",
       "standards"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS Papers 152 - Faster Digital Payments - Global and Regional Perspectives (Dec 2024).pdf",
@@ -2241,8 +2241,8 @@
       "cross-border",
       "interoperability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/CPMI/CPMI - Harmonised ISO 20022 Data Requirements for Cross-Border Payments (Feb 2026).pdf",
@@ -2254,8 +2254,8 @@
       "cross-border",
       "interoperability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/CPMI/CPMI Brief 9 - Safety and efficiency through payment pre-validation (Nov 2025).pdf",
@@ -2279,8 +2279,8 @@
       "cross-border",
       "interoperability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/CPMI/Principles for Financial Market Infrastructures (Apr 2012).pdf",
@@ -2292,8 +2292,8 @@
       "standards",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/EPC/EPC162-24 v2.0 2025 Payments Threats and Fraud Trends Report.pdf",
@@ -2305,8 +2305,8 @@
       "financial crime",
       "trends"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/MallaPayments/The Real Story Behind SEPA Instant.pdf",
@@ -2318,8 +2318,8 @@
       "europe",
       "adoption"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/ACH with Billing and Recurring Payments.pdf",
@@ -2330,8 +2330,8 @@
       "b2b payments",
       "operations"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Ant International and HSBC - Tokenised Deposit Cross-Border Payments Pilot on SWIFT (Dec 2025).pdf",
@@ -2378,8 +2378,8 @@
       "settlement",
       "interoperability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Beyond Concentration: Where Non-USD Stablecoins Can Scale.pdf",
@@ -2417,8 +2417,8 @@
       "resilience",
       "adoption"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Data Tagging - Turning Treasury Transactions into Insights - Priscila Nagalli.pdf",
@@ -2430,8 +2430,8 @@
       "liquidity",
       "operations"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Do Not Fall Behind - The Corporate Series FX Timing Risk: The Hidden Variable in Corporate.pdf",
@@ -2506,8 +2506,8 @@
       "financial crime",
       "adoption"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Federal Reserve - FEDERAL RESERVE BANK OF KANSAS CITY | APRIL 10 , 2026 What Are Stablecoins Used for Today? Estimating t he Distribution of Stablecoins (Nov 2025).pdf",
@@ -2519,8 +2519,8 @@
       "payments",
       "crypto"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Hybrid Postal Address (Mar 2026).pdf",
@@ -2544,8 +2544,8 @@
       "standards",
       "risk"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Methodology (Jan 2024).pdf",
@@ -2607,8 +2607,8 @@
       "liquidity",
       "operations"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Payments in Transition - Leadership in an Era of Transformation.pdf",
@@ -2620,8 +2620,8 @@
       "liquidity",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Payments Report March 2026 2 The Riksbank’s Payment Report (Mar 2026).pdf",
@@ -2760,8 +2760,8 @@
       "liquidity",
       "trends"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Thunes - Joins WEF Unicorn Community (Dec 2025).pdf",
@@ -2823,8 +2823,8 @@
       "settlement",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/How Instant Settlement Frees Corporate Liquidity.pdf",
@@ -2836,8 +2836,8 @@
       "b2b payments",
       "financial services"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/How Real-Time Payments Empower.pdf",
@@ -2861,8 +2861,8 @@
       "liquidity",
       "settlement"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The Core Principle of RT-SCL.pdf",
@@ -2900,8 +2900,8 @@
       "cross-border",
       "strategy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Payments_RealTime_and_Liquidity/UNITE_Global/The New Neutral - How FMI will restore trust.pdf",
@@ -3014,8 +3014,8 @@
       "market research",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/A Stablecoin Thats Actually Stable - A Portfolio Optimi.pdf",
@@ -3027,8 +3027,8 @@
       "market design",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Academic/FTN011 - Central Bank Exploration of Tokenized Reserves (2025).pdf",
@@ -3118,8 +3118,8 @@
       "cbdc",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/ECB_Ulrich_Bindseil/Bindseil 2025, Regulatory responses_stablecoins.pdf",
@@ -3220,8 +3220,8 @@
       "policy",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/IMF/IMF FinTech Note 2025-010 - Financial Integrity Implications of Retail CBDCs.pdf",
@@ -3464,8 +3464,8 @@
       "payments",
       "market research"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/Federal Reserve - The Council of Economic Advisers April 2026Effects of Stablecoin Yield Prohibition on Bank Lending (Apr 2026).pdf",
@@ -3490,8 +3490,8 @@
       "payments",
       "digital assets"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/GDF - Global Stablecoin Regulatory Playbook (Jan 2026).pdf",
@@ -3666,8 +3666,8 @@
       "regulation",
       "financial stability"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Stablecoins_and_CBDC/Unknown/The New Era of StableCoins-1.pdf",
@@ -4008,8 +4008,8 @@
       "market design",
       "settlement"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Oracle Platform Powering Institutional Tokenization.pdf",
@@ -4034,8 +4034,8 @@
       "digital assets",
       "liquidity"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/XRPL - Tokenization is No Longer a Theory (Dec 2025).pdf",
@@ -4173,8 +4173,8 @@
       "uk",
       "policy"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/OECD - Tokenisation of Assets and DLT in Financial Markets (Policy Paper 75).pdf",
