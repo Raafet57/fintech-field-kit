@@ -3289,16 +3289,14 @@
   },
   {
     "path": "Stablecoins_and_CBDC/BIS/BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023).pdf",
-    "title": "BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023)",
-    "summary": "Examines the competitive and complementary roles of central bank digital currencies, stablecoins and tokenised money, focusing on legal design, monetary sovereignty and payment-system implications. It assesses how regulation and architecture shape trust, interoperability and market outcomes.",
+    "title": "BIS-UNSW: The Contest Between CBDCs, Stablecoins and Tokenised Deposits",
+    "summary": "Surveys the competing trajectories of CBDCs, stablecoins, and tokenised deposits, weighing design, regulatory, and monetary-policy implications. Argues central banks must define clear roles to preserve monetary sovereignty and payments stability.",
     "tags": [
       "CBDC",
       "Stablecoins",
-      "Tokenised Money",
-      "Monetary Sovereignty",
-      "Payments Regulation"
+      "Tokenization"
     ],
-    "source": "llm",
+    "source": "manual",
     "needsReview": true
   },
   {
