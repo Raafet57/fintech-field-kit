@@ -364,12 +364,6 @@
     "tags": []
   },
   {
-    "path": "Compliance_Risk_and_Standards/Morocco_Compliance/Conformit\u00e9 bancaire et PSP Maroc.pdf",
-    "title": "Conformit\u00e9 bancaire et PSP Maroc",
-    "summary": "",
-    "tags": []
-  },
-  {
     "path": "Compliance_Risk_and_Standards/OCC/OCC Comptroller Gould - Remarks at Blockchain Association (Dec 2025).pdf",
     "title": "OCC Comptroller Gould - Remarks at Blockchain Association (Dec 2025)",
     "summary": "OCC Comptroller Jonathan Gould\u2019s speech on digital asset innovation, safety and soundness expectations, and supervisory priorities.",
@@ -867,6 +861,12 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Regulatory Priorities: Payments report (Mar 2026).pdf",
+    "title": "US - Regulatory Priorities: Payments report (Mar 2026)",
+    "summary": "",
+    "tags": []
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Sample Report.pdf",
     "title": "US - Sample Report",
     "summary": "Report on Sample Report.",
@@ -954,12 +954,6 @@
     "path": "Compliance_Risk_and_Standards/US/US Public Law 119-27 - GENIUS Act Stablecoin Regulation (Jul 2025).pdf",
     "title": "US Public Law 119-27 - GENIUS Act Stablecoin Regulation (Jul 2025)",
     "summary": "U.S. law establishing a federal framework for payment stablecoins, issuer requirements, supervision, and consumer protections (GENIUS Act).",
-    "tags": []
-  },
-  {
-    "path": "Compliance_Risk_and_Standards/UTS_Tech/UTS Tech \u2013 Conformit\u00e9 Bancaire et Moyens de Paiement au Maroc.pdf",
-    "title": "UTS Tech \u2013 Conformit\u00e9 Bancaire et Moyens de Paiement au Maroc",
-    "summary": "",
     "tags": []
   },
   {
@@ -1893,6 +1887,12 @@
     "tags": []
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Visa/Visa - SumUp Receipt.pdf",
+    "title": "Visa - SumUp Receipt",
+    "summary": "",
+    "tags": []
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - The Eurosystem\u2019s comprehensive payments strategy.pdf",
     "title": "Visa - The Eurosystem\u2019s comprehensive payments strategy",
     "summary": "Brief on The Eurosystem\u2019s comprehensive payments strategy.",
@@ -1938,6 +1938,18 @@
     "path": "Stablecoins_and_CBDC/Academic/Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025).pdf",
     "title": "Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025)",
     "summary": "Academic-style analysis weighing whether USDC could replace SWIFT for cross-border payments, contrasting speed and cost benefits with regulatory and operational risks.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/BIS/BIS - Tokenomics and blockchain fragmentation (Mar 2026).pdf",
+    "title": "BIS - Tokenomics and blockchain fragmentation (Mar 2026)",
+    "summary": "",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/BIS/BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023).pdf",
+    "title": "BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023)",
+    "summary": "",
     "tags": []
   },
   {
@@ -2023,6 +2035,12 @@
     "path": "Stablecoins_and_CBDC/IMF/Imf cbdc.pdf",
     "title": "Imf cbdc",
     "summary": "IMF primer on central bank digital currency design considerations.",
+    "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Independent/1774511437493.pdf",
+    "title": "1774511437493",
+    "summary": "",
     "tags": []
   },
   {

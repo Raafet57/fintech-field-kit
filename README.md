@@ -62,7 +62,6 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - FinCEN/
   - GLEIF/
   - HK_SFC/
-  - Morocco_Compliance/
   - OCC/
   - PSD3/
   - Reports/
@@ -72,7 +71,6 @@ If this saved you hours of Googling, toss the repo a star. Your future consultan
   - UAE_VARA/
   - UK/
   - US/
-  - UTS_Tech/
   - zkOrigoPlus/
 - Core_Banking_and_Lending_Modernization/
   - FIS/
