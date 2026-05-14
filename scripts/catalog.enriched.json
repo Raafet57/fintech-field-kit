@@ -641,8 +641,8 @@
       "aml",
       "payments"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/OCC/OCC Comptroller Gould - Remarks at Blockchain Association (Dec 2025).pdf",
@@ -1413,8 +1413,8 @@
       "payments",
       "financial crime"
     ],
-    "source": "llm",
-    "needsReview": true
+    "source": "manual",
+    "needsReview": false
   },
   {
     "path": "Compliance_Risk_and_Standards/zkOrigoPlus/zkOrigoPlus  a stateless real-time compliance validator -1.pdf",
