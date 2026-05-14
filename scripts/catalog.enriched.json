@@ -632,16 +632,17 @@
     "needsReview": false
   },
   {
-    "path": "Compliance_Risk_and_Standards/Morocco_Compliance/Conformité bancaire et PSP Maroc.pdf",
-    "title": "Conformité bancaire et PSP Maroc",
-    "summary": "Overview of banking and payment service provider compliance in Morocco, focusing on regulatory obligations, risk controls, and supervisory expectations. Highlights the operational requirements institutions must meet to align with local standards.",
+    "path": "Compliance_Risk_and_Standards/Morocco_Compliance/Conformité bancaire et PSP Maroc.pdf",
+    "title": "Conformité bancaire et PSP Maroc",
+    "summary": "Assesses legal, compliance and banking feasibility for launching an IPTV payment and banking setup in Morocco. It concludes banks and PSPs will treat the activity as high risk, likely refuse onboarding, and favor a local distributor model to reduce AML, copyright and personal liability exposure.",
     "tags": [
       "compliance",
       "risk",
-      "regulation"
+      "aml",
+      "payments"
     ],
-    "source": "manual",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/OCC/OCC Comptroller Gould - Remarks at Blockchain Association (Dec 2025).pdf",
@@ -987,6 +988,20 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - © GBBC Global Blockchain Business Council © Oliver Wyman Core Industry -Leading Working Group Ava Labs Canton Network.pdf",
+    "title": "US - © GBBC Global Blockchain Business Council © Oliver Wyman Core Industry -Leading Working Group Ava Labs Canton Network",
+    "summary": "Brief on © GBBC Global Blockchain Business Council © Oliver Wyman Core Industry -Leading Working Group Ava Labs Canton Network.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "policy",
+      "data",
+      "risk"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - 1777901224069.pdf",
     "title": "US - 1777901224069",
     "summary": "Likely a US-focused compliance, risk, or standards item, based on the folder context. The document appears positioned around regulatory or operational considerations relevant to financial services in the United States.",
@@ -1284,16 +1299,17 @@
     "needsReview": false
   },
   {
-    "path": "Compliance_Risk_and_Standards/US/US - Regulatory Priorities: Payments report (Mar 2026).pdf",
-    "title": "US - Regulatory Priorities: Payments report (Mar 2026)",
-    "summary": "Overview of likely US regulatory priorities shaping the payments sector in March 2026, with emphasis on compliance expectations, risk management, and evolving policy direction for market participants.",
+    "path": "Compliance_Risk_and_Standards/US/US - Regulatory Alert 1 May 2026 GENIUS Act: FDIC, NCUA, OCC Proposals for Applications, Prudential Frameworks.pdf",
+    "title": "US - Regulatory Alert 1 May 2026 GENIUS Act: FDIC, NCUA, OCC Proposals for Applications, Prudential Frameworks",
+    "summary": "Brief on Regulatory Alert 1 May 2026 GENIUS Act: FDIC, NCUA, OCC Proposals for Applications, Prudential Frameworks.",
     "tags": [
       "payments",
-      "us regulation",
-      "compliance",
+      "stablecoins",
+      "regulation",
+      "policy",
       "risk"
     ],
-    "source": "manual",
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -1388,17 +1404,17 @@
     "needsReview": false
   },
   {
-    "path": "Compliance_Risk_and_Standards/UTS_Tech/UTS Tech – Conformité Bancaire et Moyens de Paiement au Maroc.pdf",
-    "title": "UTS Tech – Conformité Bancaire et Moyens de Paiement au Maroc",
-    "summary": "Analyzes banking compliance and payment instruments in Morocco, focusing on regulatory obligations, operational controls, and risk management considerations for financial institutions. It highlights how compliance frameworks shape payment practices and oversight.",
+    "path": "Compliance_Risk_and_Standards/UTS_Tech/UTS Tech – Conformité Bancaire et Moyens de Paiement au Maroc.pdf",
+    "title": "UTS Tech – Conformité Bancaire et Moyens de Paiement au Maroc",
+    "summary": "Assesses the legal status in Morocco of a neutral IPTV player with no bundled streams, arguing it is generally treated as unregulated software rather than an audiovisual service. It also highlights intellectual property exposure and the resulting compliance and onboarding concerns for banks and payment service providers.",
     "tags": [
       "compliance",
-      "payments",
       "risk",
-      "regulation"
+      "payments",
+      "financial crime"
     ],
-    "source": "manual",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/zkOrigoPlus/zkOrigoPlus  a stateless real-time compliance validator -1.pdf",
@@ -2980,18 +2996,6 @@
     "needsReview": false
   },
   {
-    "path": "Payments_RealTime_and_Liquidity/Visa/Visa - SumUp Receipt.pdf",
-    "title": "Visa - SumUp Receipt",
-    "summary": "Receipt or transaction record related to a Visa payment processed through SumUp, likely serving as operational evidence of card acceptance and settlement details. The item appears administrative rather than analytical research.",
-    "tags": [
-      "payments",
-      "visa",
-      "operations"
-    ],
-    "source": "manual",
-    "needsReview": false
-  },
-  {
     "path": "Payments_RealTime_and_Liquidity/Visa/Visa - The Eurosystem’s comprehensive payments strategy.pdf",
     "title": "Visa - The Eurosystem’s comprehensive payments strategy",
     "summary": "Analyzes the Eurosystem's payments strategy through a Visa lens, focusing on how coordinated infrastructure, standards, and policy can strengthen European payments efficiency, resilience, and innovation.",
@@ -3078,32 +3082,6 @@
       "payments",
       "cross-border",
       "settlement"
-    ],
-    "source": "manual",
-    "needsReview": false
-  },
-  {
-    "path": "Stablecoins_and_CBDC/BIS/BIS - Tokenomics and blockchain fragmentation (Mar 2026).pdf",
-    "title": "BIS - Tokenomics and blockchain fragmentation (Mar 2026)",
-    "summary": "BIS examines how tokenomics can fragment blockchain ecosystems by creating incentives that weaken interoperability, concentrate liquidity, and complicate settlement. The analysis highlights implications for market design, financial stability, and the future role of tokenized money.",
-    "tags": [
-      "bis",
-      "stablecoins",
-      "interoperability",
-      "financial stability"
-    ],
-    "source": "manual",
-    "needsReview": false
-  },
-  {
-    "path": "Stablecoins_and_CBDC/BIS/BIS - UNSW Law & Justice Research Series 7KH\u0003&RQWHVW\u0003%HWZHHQ\u0003&HQWUDO\u0003%DQN\u0003'LJLWDO\u0003 &XUUHQFLHV\u000f\u00036WDEOHFRLQV\u0003DQG\u00037RNHQLVHG\u0003 (Oct 2023).pdf",
-    "title": "BIS - UNSW Law & Justice Research Series (Oct 2023)",
-    "summary": "Analyzes the competitive and policy relationship between central bank digital currencies, stablecoins, and tokenised forms of money, focusing on implications for monetary sovereignty, regulation, and payment system design.",
-    "tags": [
-      "bis",
-      "stablecoins",
-      "cbdc",
-      "policy"
     ],
     "source": "manual",
     "needsReview": false
@@ -3246,19 +3224,6 @@
       "financial stability"
     ],
     "source": "upstream",
-    "needsReview": false
-  },
-  {
-    "path": "Stablecoins_and_CBDC/Independent/1774511437493.pdf",
-    "title": "Independent Analysis of Stablecoins and CBDC",
-    "summary": "Independent analysis of stablecoins and central bank digital currencies, likely comparing their roles, design trade-offs, and implications for payments, monetary systems, and financial services.",
-    "tags": [
-      "stablecoins",
-      "cbdc",
-      "payments",
-      "financial services"
-    ],
-    "source": "manual",
     "needsReview": false
   },
   {
