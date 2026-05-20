@@ -669,6 +669,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Digital Money Instruments: Regulatory Analysis \u00a9 2026 | BIS Regulatory Analysis | Page 1 REGULATORY ANALYSIS (Apr 2026).pdf",
+    "title": "US - Digital Money Instruments: Regulatory Analysis \u00a9 2026 | BIS Regulatory Analysis | Page 1 REGULATORY ANALYSIS (Apr 2026)",
+    "summary": "Brief on Digital Money Instruments: Regulatory Analysis \u00a9 2026 | BIS Regulatory Analysis | Page 1 REGULATORY ANALYSIS.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "crypto"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Effective access to beneficial ownership information User-centred and responsible approaches (Apr 2026).pdf",
     "title": "US - Effective access to beneficial ownership information User-centred and responsible approaches (Apr 2026)",
     "summary": "Brief on Effective access to beneficial ownership information User-centred and responsible approaches.",
@@ -879,6 +891,30 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Scalable Runtime Governance for Agentic AI in Financial Services Lukasz Szpruch1, Agus Sudjianto2, Tanveer Bhatti3, and Gary Ang4.pdf",
+    "title": "US - Scalable Runtime Governance for Agentic AI in Financial Services Lukasz Szpruch1, Agus Sudjianto2, Tanveer Bhatti3, and Gary Ang4",
+    "summary": "Brief on Scalable Runtime Governance for Agentic AI in Financial Services Lukasz Szpruch1, Agus Sudjianto2, Tanveer Bhatti3, and Gary Ang4.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "ai",
+      "genai"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Scaling Instant Payments in Africa: March 2026 (Mar 2026).pdf",
+    "title": "US - Scaling Instant Payments in Africa: March 2026 (Mar 2026)",
+    "summary": "White paper on Scaling Instant Payments in Africa: March 2026.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "fintech",
+      "adoption"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Securing AI-Generated Code | Replit White Paper.pdf",
     "title": "US - Securing AI-Generated Code | Replit White Paper",
     "summary": "White paper on Securing AI-Generated Code | Replit White Paper.",
@@ -915,6 +951,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - THE STATE OF INCLUSIVE INSTANT PAYMENT SYSTEMS IN AFRICA (Jun 2023).pdf",
+    "title": "US - THE STATE OF INCLUSIVE INSTANT PAYMENT SYSTEMS IN AFRICA (Jun 2023)",
+    "summary": "Brief on THE STATE OF INCLUSIVE INSTANT PAYMENT SYSTEMS IN AFRICA.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "market research",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Tokenized Deposits Paper v11.pptx (Apr 2026).pdf",
     "title": "US - Tokenized Deposits Paper v11.pptx (Apr 2026)",
     "summary": "Brief on Tokenized Deposits Paper v11.pptx.",
@@ -936,6 +984,18 @@
       "regulation",
       "policy",
       "market research"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - eAdv AnCinG finAnCiAl ACCess for the world\u2019s Poor AnnuAl RepoR t 2011Adv AnCinG finAnCiAl ACCess for (Jul 2011).pdf",
+    "title": "US - eAdv AnCinG finAnCiAl ACCess for the world\u2019s Poor AnnuAl RepoR t 2011Adv AnCinG finAnCiAl ACCess for (Jul 2011)",
+    "summary": "Brief on eAdv AnCinG finAnCiAl ACCess for the world\u2019s Poor AnnuAl RepoR t 2011Adv AnCinG finAnCiAl ACCess for.",
+    "tags": [
+      "regulation",
+      "policy",
+      "risk",
+      "compliance",
+      "us"
     ]
   },
   {
@@ -1355,6 +1415,18 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Monitoring cross-border payment developments: a regional analysis of AMF member countries (Feb 2024).pdf",
+    "title": "BIS - Monitoring cross-border payment developments: a regional analysis of AMF member countries (Feb 2024)",
+    "summary": "Brief on Monitoring cross-border payment developments: a regional analysis of AMF member countries.",
+    "tags": [
+      "payments",
+      "regulation",
+      "cross-border",
+      "settlement",
+      "market research"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Pricing in Fast Payments Working Paper 1295 (Oct 2025).pdf",
     "title": "BIS - Pricing in Fast Payments (Working Paper 1295)",
     "summary": "BIS working paper on how to price fast payment systems, covering interchange fees, cost recovery options, incentives, and implications for adoption and inclusion.",
@@ -1653,6 +1725,15 @@
     "tags": [
       "payments",
       "regulation"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Payments 3.0 The AI Agent Payments Market Tiger Research is a research and consulting \ufb01rm specializing in Asia's Web3.pdf",
+    "title": "Payments 3.0 The AI Agent Payments Market Tiger Research is a research and consulting \ufb01rm specializing in Asia's Web3",
+    "summary": "Brief on Payments 3.0 The AI Agent Payments Market Tiger Research is a research and consulting \ufb01rm specializing in Asia's Web3.",
+    "tags": [
+      "payments",
+      "ai"
     ]
   },
   {
