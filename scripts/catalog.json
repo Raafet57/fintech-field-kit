@@ -546,6 +546,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/Consultation document - Targeted consultation on the review of Regulation on the Markets in Crypto-Assets (MiCA) (Aug 2026).pdf",
+    "title": "Consultation document - Targeted consultation on the review of Regulation on the Markets in Crypto-Assets (MiCA) (Aug 2026)",
+    "summary": "Brief on Consultation document - Targeted consultation on the review of Regulation on the Markets in Crypto-Assets (MiCA).",
+    "tags": [
+      "payments",
+      "tokenization",
+      "crypto",
+      "regulation",
+      "policy"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/Latham & Watkins - 10 Key Focus Areas for US Bank Regulators in 2026.pdf",
     "title": "Latham & Watkins - 10 Key Focus Areas for US Bank Regulators in 2026",
     "summary": "Legal and regulatory outlook on 2026 U.S. bank supervision priorities, including stress testing, charters, AML, and digital asset oversight.",
@@ -678,6 +690,18 @@
       "tokenization",
       "interoperability",
       "crypto"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - EUROPEAN COMMISSION Brussels, XXX (Aug 2024).pdf",
+    "title": "US - EUROPEAN COMMISSION Brussels, XXX (Aug 2024)",
+    "summary": "Brief on EUROPEAN COMMISSION Brussels, XXX.",
+    "tags": [
+      "regulation",
+      "ai",
+      "risk",
+      "compliance",
+      "us"
     ]
   },
   {
@@ -1385,6 +1409,18 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Academic/Olivier Pierrard - CAHIER D\u2019\u00c9TUDES WORKING PAPER N\u00b0 208 (Apr 2026).pdf",
+    "title": "Olivier Pierrard - CAHIER D\u2019\u00c9TUDES WORKING PAPER N\u00b0 208 (Apr 2026)",
+    "summary": "Brief on CAHIER D\u2019\u00c9TUDES WORKING PAPER N\u00b0 208.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "adoption",
+      "eu"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Academic/UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026).pdf",
     "title": "UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026)",
     "summary": "Academic paper on legal and regulatory challenges of interlinking fast payment systems, highlighting cross-border governance and compliance gaps.",
@@ -1573,6 +1609,17 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026).pdf",
+    "title": "Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026)",
+    "summary": "Brief on Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England.",
+    "tags": [
+      "payments",
+      "cross-border",
+      "settlement",
+      "risk"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - RTGS Renewal Programme.pdf",
     "title": "Bank of England - RTGS Renewal Programme",
     "summary": "Overview of the Bank of England's RTGS renewal programme, objectives, and implementation roadmap.",
@@ -1588,6 +1635,18 @@
       "crypto",
       "regulation",
       "policy"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Blockchain for banks REPORT Is the financial system ready.pdf",
+    "title": "Blockchain for banks REPORT Is the financial system ready",
+    "summary": "Report on Blockchain for banks REPORT Is the financial system ready.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "settlement"
     ]
   },
   {
