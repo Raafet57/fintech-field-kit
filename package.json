@@ -1,0 +1,22 @@
+{
+  "name": "fintech-field-kit",
+  "version": "1.0.0",
+  "description": "A neatly sorted stash of 2024–2026 papers on stablecoins, CBDCs, tokenization, real-time payments, FX, core banking, and compliance. Built for curious bankers, regulators, builders, and consultants who want to look smart on Zoom with minimal effort.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:35689/git/Raafet57/fintech-field-kit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}
