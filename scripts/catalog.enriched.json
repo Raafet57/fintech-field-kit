@@ -926,6 +926,20 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/Consultation document - Targeted consultation on the review of Regulation on the Markets in Crypto-Assets (MiCA) (Aug 2026).pdf",
+    "title": "Consultation document - Targeted consultation on the review of Regulation on the Markets in Crypto-Assets (MiCA) (Aug 2026)",
+    "summary": "Brief on Consultation document - Targeted consultation on the review of Regulation on the Markets in Crypto-Assets (MiCA).",
+    "tags": [
+      "payments",
+      "tokenization",
+      "crypto",
+      "regulation",
+      "policy"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026).pdf",
     "title": "CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026)",
     "summary": "CRS overview of Federal Reserve responsibilities and policy issues for the 119th Congress, covering monetary policy, supervision, payment systems oversight, lender-of-last-resort, and governance topics.",
@@ -1146,6 +1160,20 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - EUROPEAN COMMISSION Brussels, XXX (Aug 2024).pdf",
+    "title": "US - EUROPEAN COMMISSION Brussels, XXX (Aug 2024)",
+    "summary": "Brief on EUROPEAN COMMISSION Brussels, XXX.",
+    "tags": [
+      "regulation",
+      "ai",
+      "risk",
+      "compliance",
+      "us"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Fact Sheet: Proposed Rule to Implement the GENIUS Act’s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements.pdf",
     "title": "US - Fact Sheet: Proposed Rule to Implement the GENIUS Act’s Anti-Money Laundering Obligations and Sanctions Compliance Program Requirements",
     "summary": "Fact sheet outlining a proposed US rule to implement the GENIUS Act's anti-money laundering and sanctions compliance requirements. Focuses on how covered entities would need to structure AML controls, compliance programs, and related oversight obligations.",
@@ -1338,6 +1366,20 @@
       "risk"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - SAFE White Paper 118 (Mar 2026).pdf",
+    "title": "US - SAFE White Paper 118 (Mar 2026)",
+    "summary": "White paper on SAFE White Paper 118.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "settlement"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -2141,6 +2183,20 @@
     "needsReview": false
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Academic/Olivier Pierrard - CAHIER D’ÉTUDES WORKING PAPER N° 208 (Apr 2026).pdf",
+    "title": "Olivier Pierrard - CAHIER D’ÉTUDES WORKING PAPER N° 208 (Apr 2026)",
+    "summary": "Brief on CAHIER D’ÉTUDES WORKING PAPER N° 208.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "adoption",
+      "eu"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Academic/UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026).pdf",
     "title": "UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026)",
     "summary": "Analyzes the legal and regulatory barriers to linking fast payment systems across jurisdictions, arguing that interoperability depends on clearer governance, liability allocation, and harmonized rules for cross-border real-time payments.",
@@ -2456,6 +2512,19 @@
     "needsReview": false
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026).pdf",
+    "title": "Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026)",
+    "summary": "Brief on Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England.",
+    "tags": [
+      "payments",
+      "cross-border",
+      "settlement",
+      "risk"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - RTGS Renewal Programme.pdf",
     "title": "Bank of England - RTGS Renewal Programme",
     "summary": "Overview of the Bank of England's RTGS Renewal Programme, focused on modernising the UK's real-time gross settlement infrastructure to improve resilience, interoperability, and support for innovation in payments and settlement.",
@@ -2479,6 +2548,20 @@
       "liquidity"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Blockchain for banks REPORT Is the financial system ready.pdf",
+    "title": "Blockchain for banks REPORT Is the financial system ready",
+    "summary": "Report on Blockchain for banks REPORT Is the financial system ready.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "settlement"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
