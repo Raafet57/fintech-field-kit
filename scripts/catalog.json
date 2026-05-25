@@ -597,6 +597,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - AI Privacy Risks & Mitigations - Large Language Models (LLMs) AI Privacy Risks & Mitigations Large Language Models (LLMs) (Feb 2025).pdf",
+    "title": "US - AI Privacy Risks & Mitigations - Large Language Models (LLMs) AI Privacy Risks & Mitigations Large Language Models (LLMs) (Feb 2025)",
+    "summary": "Brief on AI Privacy Risks & Mitigations - Large Language Models (LLMs) AI Privacy Risks & Mitigations Large Language Models (LLMs).",
+    "tags": [
+      "regulation",
+      "ai",
+      "market research",
+      "benchmark",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Agents of Chaos (Feb 2026).pdf",
     "title": "US - Agents of Chaos (Feb 2026)",
     "summary": "Brief on Agents of Chaos.",
@@ -642,6 +654,18 @@
       "ai",
       "genai",
       "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - BDF-INTERNE Preparing for Quantum Technologies: Key Considerations for Financial Sector (May 2026).pdf",
+    "title": "US - BDF-INTERNE Preparing for Quantum Technologies: Key Considerations for Financial Sector (May 2026)",
+    "summary": "Brief on BDF-INTERNE Preparing for Quantum Technologies: Key Considerations for Financial Sector.",
+    "tags": [
+      "payments",
+      "interoperability",
+      "crypto",
+      "regulation",
+      "policy"
     ]
   },
   {
@@ -762,6 +786,18 @@
       "regulation",
       "policy",
       "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - In partnership with The 2026 Global AI in Financial Services Report (Apr 2026).pdf",
+    "title": "US - In partnership with The 2026 Global AI in Financial Services Report (Apr 2026)",
+    "summary": "Report on In partnership with The 2026 Global AI in Financial Services Report.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "market research",
+      "adoption"
     ]
   },
   {
@@ -960,6 +996,18 @@
       "risk",
       "security",
       "compliance"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Singleness of Money and the Role of Central Banks (Dec 2024).pdf",
+    "title": "US - Singleness of Money and the Role of Central Banks (Dec 2024)",
+    "summary": "Brief on Singleness of Money and the Role of Central Banks.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "risk"
     ]
   },
   {
@@ -1229,6 +1277,17 @@
     "tags": [
       "retail banking",
       "strategy"
+    ]
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/McKinsey/McKinsey - The next age of fintech AI, digital assets, and new paths to success (Apr 2026).pdf",
+    "title": "McKinsey - The next age of fintech AI, digital assets, and new paths to success (Apr 2026)",
+    "summary": "Brief on The next age of fintech AI, digital assets, and new paths to success.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "market research",
+      "fintech"
     ]
   },
   {
