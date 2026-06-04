@@ -741,6 +741,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - EUROPEAN COMMISSION Brussels, XXX (May 2024).pdf",
+    "title": "US - EUROPEAN COMMISSION Brussels, XXX (May 2024)",
+    "summary": "Brief on EUROPEAN COMMISSION Brussels, XXX.",
+    "tags": [
+      "interoperability",
+      "regulation",
+      "risk",
+      "compliance",
+      "us"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Effective access to beneficial ownership information User-centred and responsible approaches (Apr 2026).pdf",
     "title": "US - Effective access to beneficial ownership information User-centred and responsible approaches (Apr 2026)",
     "summary": "Brief on Effective access to beneficial ownership information User-centred and responsible approaches.",
@@ -909,6 +921,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? \"1F99C (Nov 2017).pdf",
+    "title": "US - On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? \"1F99C (Nov 2017)",
+    "summary": "Brief on On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? \"1F99C.",
+    "tags": [
+      "regulation",
+      "ai",
+      "market research",
+      "benchmark",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Position: Agentic AI systems should be making Bayes-consistent decisions.pdf",
     "title": "US - Position: Agentic AI systems should be making Bayes-consistent decisions",
     "summary": "Brief on Position: Agentic AI systems should be making Bayes-consistent decisions.",
@@ -930,6 +954,42 @@
       "market research",
       "risk",
       "compliance"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Project Agor\u00e1 A shared programmable platform for wholesale cross -border payments.pdf",
+    "title": "US - Project Agor\u00e1 A shared programmable platform for wholesale cross -border payments",
+    "summary": "Brief on Project Agor\u00e1 A shared programmable platform for wholesale cross -border payments.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "regulation",
+      "settlement",
+      "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Project Agor\u00e1: A shared programmable platform for wholesale cross-border payments.pdf",
+    "title": "US - Project Agor\u00e1: A shared programmable platform for wholesale cross-border payments",
+    "summary": "Brief on Project Agor\u00e1: A shared programmable platform for wholesale cross-border payments.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "regulation",
+      "cross-border",
+      "settlement"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Quantum-Resilient Organizational Identity: Governance, Business Wallets, and PQC Corridors.pdf",
+    "title": "US - Quantum-Resilient Organizational Identity: Governance, Business Wallets, and PQC Corridors",
+    "summary": "Brief on Quantum-Resilient Organizational Identity: Governance, Business Wallets, and PQC Corridors.",
+    "tags": [
+      "interoperability",
+      "crypto",
+      "regulation",
+      "policy",
+      "cross-border"
     ]
   },
   {
