@@ -1029,6 +1029,20 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - AI AGENTSUNDEREU LAW A COMPLIANCEARCHITECTURE FORAI PROVIDERS Luca Nannini∗ (Jan 2026).pdf",
+    "title": "AI AGENTSUNDEREU LAW A COMPLIANCEARCHITECTURE FORAI PROVIDERS Luca Nannini∗ (Jan 2026)",
+    "summary": "Brief on AI AGENTSUNDEREU LAW A COMPLIANCEARCHITECTURE FORAI PROVIDERS Luca Nannini∗.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "data",
+      "market research"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - AI Privacy Risks & Mitigations - Large Language Models (LLMs) AI Privacy Risks & Mitigations Large Language Models (LLMs) (Feb 2025).pdf",
     "title": "AI Privacy Risks & Mitigations - Large Language Models (LLMs) AI Privacy Risks & Mitigations Large Language Models (LLMs) (Feb 2025)",
     "summary": "Brief on AI Privacy Risks & Mitigations - Large Language Models (LLMs) AI Privacy Risks & Mitigations Large Language Models (LLMs).",
@@ -1145,6 +1159,20 @@
       "us"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Designs for a new eraTOKENISATION FRAMEWORKS.pdf",
+    "title": "Designs for a new eraTOKENISATION FRAMEWORKS",
+    "summary": "Brief on Designs for a new eraTOKENISATION FRAMEWORKS.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "regulation",
+      "policy",
+      "cross-border"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -1319,6 +1347,20 @@
       "financial stability"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Law Working Paper N° 937-2026 June 2026Gina-Gail S. Fletcher Duke University (Jun 2026).pdf",
+    "title": "Law Working Paper N° 937-2026 June 2026Gina-Gail S. Fletcher Duke University (Jun 2026)",
+    "summary": "Brief on Law Working Paper N° 937/2026 June 2026Gina-Gail S. Fletcher Duke University.",
+    "tags": [
+      "regulation",
+      "cross-border",
+      "risk",
+      "compliance",
+      "us"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -1819,6 +1861,20 @@
     "needsReview": false
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Academic/PL- Building digital infrastructure ready for the AI era Insights from 13 Middle Power governments (Jun 2026).pdf",
+    "title": "PL- Building digital infrastructure ready for the AI era Insights from 13 Middle Power governments (Jun 2026)",
+    "summary": "Brief on PL- Building digital infrastructure ready for the AI era Insights from 13 Middle Power governments.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "ai",
+      "market research"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Accenture/Accenture - Top Banking Trends 2026 (Unconstrained Banking).pdf",
     "title": "Accenture - Top Banking Trends 2026 (Unconstrained Banking)",
     "summary": "Accenture argues banks are entering an era of unconstrained banking, where AI, ecosystem models, and modernized technology stacks reshape products, operations, and customer relationships. Competitive advantage depends on faster transformation and strategic reinvention.",
@@ -2247,6 +2303,20 @@
       "transformation"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Report of the Board of IOSCO - FR-02-2026 Supervisory Toolkit for AI Use in Capital Markets (May 2026).pdf",
+    "title": "Report of the Board of IOSCO - FR-02-2026 Supervisory Toolkit for AI Use in Capital Markets (May 2026)",
+    "summary": "Brief on FR/02/2026 Supervisory Toolkit for AI Use in Capital Markets.",
+    "tags": [
+      "ai",
+      "market research",
+      "fintech",
+      "adoption",
+      "risk"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -3133,6 +3203,20 @@
       "strategy"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026).pdf",
+    "title": "SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026)",
+    "summary": "Brief on Financial Services Practice Beyond stablecoins: The emerging architecture.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
