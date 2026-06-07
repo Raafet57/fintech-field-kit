@@ -443,6 +443,20 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/ESMA/ESMA - 13 May 2026 ESMA50 -481369926 -33801 ESMA TRV Risk Analysis Financial Innovation.pdf",
+    "title": "ESMA - 13 May 2026 ESMA50 -481369926 -33801 ESMA TRV Risk Analysis Financial Innovation",
+    "summary": "Brief on 13 May 2026 ESMA50 -481369926 -33801 ESMA TRV Risk Analysis Financial Innovation.",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "settlement",
+      "ai"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/ESMA/ESMA - Data Strategy 2023-2028 (2025 Update).pdf",
     "title": "ESMA - Data Strategy 2023-2028 (2025 Update)",
     "summary": "ESMA update outlining data governance priorities, implementation milestones, and capabilities needed through 2028.",
@@ -2486,6 +2500,20 @@
     "needsReview": false
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - BIS W orking Pa pers No 1355 Making stablecoins stable(r): (Jun 2026).pdf",
+    "title": "BIS - BIS W orking Pa pers No 1355 Making stablecoins stable(r): (Jun 2026)",
+    "summary": "Brief on BIS W orking Pa pers No 1355 Making stablecoins stable(r):.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "settlement"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Cross-Border Payments Survey (Dec 2025).pdf",
     "title": "BIS - Cross-Border Payments Survey (Dec 2025)",
     "summary": "BIS survey findings on cross-border payments likely assess progress, frictions, and priorities in speed, cost, access, and transparency, offering a benchmark for policy and industry efforts to improve international payment systems.",
@@ -2496,6 +2524,20 @@
       "benchmark"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey (May 2026).pdf",
+    "title": "BIS - Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey (May 2026)",
+    "summary": "Brief on Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey.",
+    "tags": [
+      "payments",
+      "regulation",
+      "iso20022",
+      "cross-border",
+      "settlement"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -2583,6 +2625,20 @@
       "standards"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - The Fragility of Perfectly Safe Digital Money.pdf",
+    "title": "BIS - The Fragility of Perfectly Safe Digital Money",
+    "summary": "Brief on The Fragility of Perfectly Safe Digital Money.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "policy"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -2744,6 +2800,20 @@
     "tags": [
       "agentic ai",
       "payments"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026) (2).pdf",
+    "title": "Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026)",
+    "summary": "Brief on Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "regulation",
+      "cross-border"
     ],
     "source": "upstream",
     "needsReview": false
