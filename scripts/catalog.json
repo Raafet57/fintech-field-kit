@@ -801,6 +801,17 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Electronic Business Registries.pdf",
+    "title": "US - Electronic Business Registries",
+    "summary": "Brief on Electronic Business Registries.",
+    "tags": [
+      "regulation",
+      "risk",
+      "compliance",
+      "us"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026).pdf",
     "title": "US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026)",
     "summary": "Brief on Euro stablecoins and their potential effect on sovereign bond markets.",
@@ -2163,6 +2174,18 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments.pdf",
+    "title": "The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments",
+    "summary": "Brief on The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "interoperability",
+      "regulation",
+      "cross-border"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/The Tipping Point for Innovation in B2B Payments - GBA ASEAN.pdf",
     "title": "The Tipping Point for Innovation in B2B Payments - GBA ASEAN",
     "summary": "Overview of B2B payment innovation opportunities linked to Greater Bay Area\u2013ASEAN trade flows and how providers can capture them.",
@@ -2870,6 +2893,16 @@
     "title": "OMFIF - Public Blockchain Working Group Report",
     "summary": "OMFIF working group report on public blockchain integration in banking.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Real-World Tokenisation: Changer (Jun 2026).pdf",
+    "title": "Real-World Tokenisation: Changer (Jun 2026)",
+    "summary": "Brief on Real-World Tokenisation: Changer.",
+    "tags": [
+      "tokenization",
+      "regulation",
+      "risk"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Blueprint - DeFi Risk Stablecoins and the Future of Finance.pdf",
