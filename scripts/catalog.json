@@ -1166,6 +1166,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report (Jun 2026).pdf",
+    "title": "US - Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report (Jun 2026)",
+    "summary": "Report on Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "genai",
+      "adoption"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC (Apr 2026).pdf",
     "title": "US - Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC (Apr 2026)",
     "summary": "Report on Survey report by Finextra Research April 2026 NAVIGATING THE NORDIC.",
@@ -1687,6 +1699,18 @@
     "title": "BIS - Cross-Border Payments Survey (Dec 2025)",
     "summary": "BIS survey snapshot on cross-border payments, focused on frictions and improvement priorities.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Enabling cross-border interconnectivity through open finance interoperabilityProject ApertaMay 2026.pdf",
+    "title": "BIS - Enabling cross-border interconnectivity through open finance interoperabilityProject ApertaMay 2026",
+    "summary": "Brief on Enabling cross-border interconnectivity through open finance interoperabilityProject ApertaMay 2026.",
+    "tags": [
+      "payments",
+      "interoperability",
+      "regulation",
+      "cross-border",
+      "settlement"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey (May 2026).pdf",
@@ -2224,6 +2248,18 @@
     "title": "Worldline - India Digital Payments Report 1H 2025",
     "summary": "Worldline report on India\u2019s digital payments volumes, UPI growth, merchant adoption, and user behavior in 1H 2025.",
     "tags": []
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026) (2).pdf",
+    "title": "SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026)",
+    "summary": "Brief on Financial Services Practice Beyond stablecoins: The emerging architecture.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
+    ]
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026).pdf",
@@ -2909,6 +2945,15 @@
     "title": "The Blueprint - DeFi Risk Stablecoins and the Future of Finance",
     "summary": "Blueprint on DeFi risk, stablecoins, and institutional on-chain finance.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Blueprint for Institutional Digital Assets Trading.pdf",
+    "title": "The Blueprint for Institutional Digital Assets Trading",
+    "summary": "Brief on The Blueprint for Institutional Digital Assets Trading.",
+    "tags": [
+      "tokenization",
+      "crypto"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The New Financial Order - RWAs and Stablecoins.pdf",
