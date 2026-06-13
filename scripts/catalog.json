@@ -548,6 +548,18 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/UK/UK - Call for Input The future of tokenisation A joint vision from the authorities for (May 2026).pdf",
+    "title": "UK - Call for Input The future of tokenisation A joint vision from the authorities for (May 2026)",
+    "summary": "Brief on Call for Input The future of tokenisation A joint vision from the authorities for.",
+    "tags": [
+      "tokenization",
+      "regulation",
+      "risk",
+      "compliance",
+      "uk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026).pdf",
     "title": "CRS - Federal Reserve: Policy Issues in the 119th Congress (Jan 2026)",
     "summary": "CRS overview of Federal Reserve responsibilities and policy issues for the 119th Congress, covering monetary policy, supervision, payment systems oversight, lender-of-last-resort, and governance topics.",
@@ -717,6 +729,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - DEPARTM ENT OF THE TREASURY Office of the Comptroller of the Currency 12 CFR Part 15.pdf",
+    "title": "US - DEPARTM ENT OF THE TREASURY Office of the Comptroller of the Currency 12 CFR Part 15",
+    "summary": "Brief on DEPARTM ENT OF THE TREASURY Office of the Comptroller of the Currency 12 CFR Part 15.",
+    "tags": [
+      "payments",
+      "interoperability",
+      "regulation",
+      "data",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - DEPOSIT TOKENS A foundation for stable digital money (May 2022).pdf",
     "title": "US - DEPOSIT TOKENS A foundation for stable digital money (May 2022)",
     "summary": "Brief on DEPOSIT TOKENS A foundation for stable digital money.",
@@ -726,6 +750,18 @@
       "tokenization",
       "crypto",
       "regulation"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Dario Amodei - Policy on the AI Exponential (Jun 2026).pdf",
+    "title": "US - Dario Amodei - Policy on the AI Exponential (Jun 2026)",
+    "summary": "Brief on Dario Amodei - Policy on the AI Exponential.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "policy",
+      "ai",
+      "risk"
     ]
   },
   {
@@ -1199,6 +1235,18 @@
       "policy",
       "market research",
       "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - The anatomy of stablecoin transactions (Jun 2026).pdf",
+    "title": "US - The anatomy of stablecoin transactions (Jun 2026)",
+    "summary": "Brief on The anatomy of stablecoin transactions.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "settlement"
     ]
   },
   {
@@ -2156,6 +2204,18 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement).pdf",
+    "title": "SWIFT - Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement)",
+    "summary": "Brief on Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement).",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "policy",
+      "iso20022"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Settlement Layer Deep Dive.pdf",
     "title": "Settlement Layer Deep Dive",
     "summary": "Slide deck providing a deep-dive overview of settlement layers and their implications for payment infrastructure and liquidity.",
@@ -3057,6 +3117,17 @@
     "title": "UK - Property Digital Assets Act 2025",
     "summary": "UK Property (Digital Assets etc) Act 2025 explanatory notes on digital assets law.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/DLT and repo, Part I (Jun 2026).pdf",
+    "title": "DLT and repo, Part I (Jun 2026)",
+    "summary": "Brief on DLT and repo, Part I.",
+    "tags": [
+      "tokenization",
+      "interoperability",
+      "crypto",
+      "regulation"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/OECD - Tokenisation of Assets and DLT in Financial Markets (Policy Paper 75).pdf",
