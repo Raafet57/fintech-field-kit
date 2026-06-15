@@ -24,6 +24,17 @@
     "needsReview": false
   },
   {
+    "path": "AI_and_Digital_Transformation/IBM/IBM - Global C-suite Series 2026 Tech Leader Study Redefining the tech.pdf",
+    "title": "IBM - Global C-suite Series 2026 Tech Leader Study Redefining the tech",
+    "summary": "Brief on Global C-suite Series 2026 Tech Leader Study Redefining the tech.",
+    "tags": [
+      "ai",
+      "market research"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "AI_and_Digital_Transformation/IBM/IBM - The race for ROI.pdf",
     "title": "IBM - The race for ROI",
     "summary": "Examines how organizations can move from AI experimentation to measurable return on investment, emphasizing operating model changes, governance, and disciplined scaling. It frames ROI as dependent on transformation across people, processes, and technology.",
@@ -940,6 +951,20 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/UK/UK - Call for Input The future of tokenisation A joint vision from the authorities for (May 2026).pdf",
+    "title": "Call for Input The future of tokenisation A joint vision from the authorities for (May 2026)",
+    "summary": "Brief on Call for Input The future of tokenisation A joint vision from the authorities for.",
+    "tags": [
+      "tokenization",
+      "regulation",
+      "risk",
+      "compliance",
+      "uk"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/Consultation document - Targeted consultation on the review of Regulation on the Markets in Crypto-Assets (MiCA) (Aug 2026).pdf",
     "title": "Consultation document - Targeted consultation on the review of Regulation on the Markets in Crypto-Assets (MiCA) (Aug 2026)",
     "summary": "Brief on Consultation document - Targeted consultation on the review of Regulation on the Markets in Crypto-Assets (MiCA).",
@@ -1150,6 +1175,20 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Dario Amodei - Policy on the AI Exponential (Jun 2026).pdf",
+    "title": "Dario Amodei - Policy on the AI Exponential (Jun 2026)",
+    "summary": "Brief on Dario Amodei - Policy on the AI Exponential.",
+    "tags": [
+      "crypto",
+      "regulation",
+      "policy",
+      "ai",
+      "risk"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - DeFi Lending: Returns, Leverage, and Liquidation (Feb 2026).pdf",
     "title": "DeFi Lending: Returns, Leverage, and Liquidation (Feb 2026)",
     "summary": "Analyzes DeFi lending markets in the US, focusing on how returns are generated, how leverage builds through collateralized borrowing, and how liquidation mechanisms transmit stress. Highlights implications for market risk, investor behavior, and regulatory oversight of digital assets.",
@@ -1160,6 +1199,20 @@
       "digital assets"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - DEPARTM ENT OF THE TREASURY Office of the Comptroller of the Currency 12 CFR Part 15.pdf",
+    "title": "DEPARTM ENT OF THE TREASURY Office of the Comptroller of the Currency 12 CFR Part 15",
+    "summary": "Brief on DEPARTM ENT OF THE TREASURY Office of the Comptroller of the Currency 12 CFR Part 15.",
+    "tags": [
+      "payments",
+      "interoperability",
+      "regulation",
+      "data",
+      "risk"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -1295,6 +1348,20 @@
       "risk"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Federal Reserve Board Publication (Jun 2026).pdf",
+    "title": "Federal Reserve Board Publication (Jun 2026)",
+    "summary": "Brief on Federal Reserve Board Publication.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "settlement",
+      "market research"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -1464,6 +1531,20 @@
       "market research",
       "benchmark",
       "risk"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Ordered to be printed 20 May 2026 and published 3 June 2026.pdf",
+    "title": "Ordered to be printed 20 May 2026 and published 3 June 2026",
+    "summary": "Brief on Ordered to be printed 20 May 2026 and published 3 June 2026.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "policy"
     ],
     "source": "upstream",
     "needsReview": false
@@ -1659,6 +1740,34 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report (Jun 2026).pdf",
+    "title": "Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report (Jun 2026)",
+    "summary": "Report on Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "genai",
+      "adoption"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Sound Practices for Responsible Adoption of Artificial Intelligence (AI) Consultation report (Jun 2026).pdf",
+    "title": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI) Consultation report (Jun 2026)",
+    "summary": "Report on Sound Practices for Responsible Adoption of Artificial Intelligence (AI) Consultation report.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "genai",
+      "adoption"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - SUERF Policy Brief, No 1454 1 SUERF Policy Brief No 1454, May 2026.pdf",
     "title": "SUERF Policy Brief, No 1454 1 SUERF Policy Brief No 1454, May 2026",
     "summary": "Brief on SUERF Policy Brief, No 1454 1 SUERF Policy Brief No 1454, May 2026.",
@@ -1683,6 +1792,34 @@
       "transformation"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - The anatomy of stablecoin transactions (Jun 2026) (2).pdf",
+    "title": "The anatomy of stablecoin transactions (Jun 2026)",
+    "summary": "Brief on The anatomy of stablecoin transactions.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "settlement"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - The anatomy of stablecoin transactions (Jun 2026).pdf",
+    "title": "The anatomy of stablecoin transactions (Jun 2026)",
+    "summary": "Brief on The anatomy of stablecoin transactions.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "settlement"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -2540,6 +2677,20 @@
     "needsReview": false
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Enabling cross-border interconnectivity through open finance interoperabilityProject ApertaMay 2026.pdf",
+    "title": "BIS - Enabling cross-border interconnectivity through open finance interoperabilityProject ApertaMay 2026",
+    "summary": "Brief on Enabling cross-border interconnectivity through open finance interoperabilityProject ApertaMay 2026.",
+    "tags": [
+      "payments",
+      "interoperability",
+      "regulation",
+      "cross-border",
+      "settlement"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey (May 2026).pdf",
     "title": "BIS - Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey (May 2026)",
     "summary": "Brief on Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey.",
@@ -2818,6 +2969,20 @@
     "needsReview": false
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - DLT Inno vation Chall enge 2025: Final R epor t The Dis tribut ed L edger T echnol ogy (DL T) Inno vation Chall enge r epor t (May 2026).pdf",
+    "title": "Bank of England - DLT Inno vation Chall enge 2025: Final R epor t The Dis tribut ed L edger T echnol ogy (DL T) Inno vation Chall enge r epor t (May 2026)",
+    "summary": "Brief on DLT Inno vation Chall enge 2025: Final R epor t The Dis tribut ed L edger T echnol ogy (DL T) Inno vation Chall enge r epor t.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "interoperability",
+      "crypto",
+      "regulation"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026) (2).pdf",
     "title": "Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026)",
     "summary": "Brief on Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England.",
@@ -3025,6 +3190,20 @@
     "needsReview": false
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard - What cross-border payments can learn from the aviation industry | World Economic Forum.pdf",
+    "title": "Mastercard - What cross-border payments can learn from the aviation industry | World Economic Forum",
+    "summary": "Brief on What cross-border payments can learn from the aviation industry | World Economic Forum.",
+    "tags": [
+      "payments",
+      "cross-border",
+      "risk",
+      "compliance",
+      "us"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard Digital Payment Security Standard (Dec 2025).pdf",
     "title": "Mastercard Digital Payment Security Standard (Dec 2025)",
     "summary": "Mastercard's Digital Payment Security Standard outlines a framework to strengthen payment security across digital channels, likely emphasizing consistent controls, fraud mitigation, and operational resilience for evolving payment ecosystems.",
@@ -3202,6 +3381,20 @@
     "needsReview": false
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement).pdf",
+    "title": "SWIFT - Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement)",
+    "summary": "Brief on Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement).",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "policy",
+      "iso20022"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments.pdf",
     "title": "The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments",
     "summary": "Brief on The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments.",
@@ -3300,6 +3493,20 @@
       "strategy"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026) (2).pdf",
+    "title": "SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026)",
+    "summary": "Brief on Financial Services Practice Beyond stablecoins: The emerging architecture.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
@@ -4527,6 +4734,17 @@
     "needsReview": false
   },
   {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Blueprint for Institutional Digital Assets Trading.pdf",
+    "title": "The Blueprint for Institutional Digital Assets Trading",
+    "summary": "Brief on The Blueprint for Institutional Digital Assets Trading.",
+    "tags": [
+      "tokenization",
+      "crypto"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The New Financial Order - RWAs and Stablecoins.pdf",
     "title": "The New Financial Order - RWAs and Stablecoins",
     "summary": "Analyzes how real-world assets and stablecoins are reshaping financial market structure, with emphasis on tokenization, settlement efficiency, and the evolving role of digital money in institutional finance.",
@@ -4715,6 +4933,19 @@
       "policy"
     ],
     "source": "manual",
+    "needsReview": false
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/DLT and repo, Part I (Jun 2026).pdf",
+    "title": "DLT and repo, Part I (Jun 2026)",
+    "summary": "Brief on DLT and repo, Part I.",
+    "tags": [
+      "tokenization",
+      "interoperability",
+      "crypto",
+      "regulation"
+    ],
+    "source": "upstream",
     "needsReview": false
   },
   {
