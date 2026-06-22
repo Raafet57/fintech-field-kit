@@ -1148,6 +1148,20 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Billing Code: 4810-02 DEPARTMENT OF THE TREASURY Financial Crimes Enforcement Network (Jun 2026).pdf",
+    "title": "Billing Code: 4810-02 DEPARTMENT OF THE TREASURY Financial Crimes Enforcement Network (Jun 2026)",
+    "summary": "Brief on Billing Code: 4810-02 DEPARTMENT OF THE TREASURY Financial Crimes Enforcement Network.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "risk",
+      "compliance"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - BIS Papers No 170 The impact of stablecoins on (May 2026).pdf",
     "title": "BIS Papers No 170 The impact of stablecoins on (May 2026)",
     "summary": "Brief on BIS Papers No 170 The impact of stablecoins on.",
@@ -1157,6 +1171,20 @@
       "crypto",
       "regulation",
       "policy"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - BIS Working Papers No 1359 The anatomy of stablecoin (Jun 2026).pdf",
+    "title": "BIS Working Papers No 1359 The anatomy of stablecoin (Jun 2026)",
+    "summary": "Brief on BIS Working Papers No 1359 The anatomy of stablecoin.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "settlement"
     ],
     "source": "upstream",
     "needsReview": false
@@ -1333,6 +1361,20 @@
       "risk",
       "compliance",
       "us"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Fact Sheet: Proposed Rule to Implement GENIUS Act Customer.pdf",
+    "title": "Fact Sheet: Proposed Rule to Implement GENIUS Act Customer",
+    "summary": "Brief on Fact Sheet: Proposed Rule to Implement GENIUS Act Customer.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "risk",
+      "compliance"
     ],
     "source": "upstream",
     "needsReview": false
@@ -3390,6 +3432,20 @@
       "regulation",
       "policy",
       "iso20022"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments (2).pdf",
+    "title": "The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments",
+    "summary": "Brief on The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "interoperability",
+      "regulation",
+      "cross-border"
     ],
     "source": "upstream",
     "needsReview": false
