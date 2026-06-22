@@ -726,6 +726,30 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - BIS Working Papers No 1359 The anatomy of stablecoin (Jun 2026).pdf",
+    "title": "US - BIS Working Papers No 1359 The anatomy of stablecoin (Jun 2026)",
+    "summary": "Brief on BIS Working Papers No 1359 The anatomy of stablecoin.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "settlement"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Billing Code: 4810-02 DEPARTMENT OF THE TREASURY Financial Crimes Enforcement Network (Jun 2026).pdf",
+    "title": "US - Billing Code: 4810-02 DEPARTMENT OF THE TREASURY Financial Crimes Enforcement Network (Jun 2026)",
+    "summary": "Brief on Billing Code: 4810-02 DEPARTMENT OF THE TREASURY Financial Crimes Enforcement Network.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "risk",
+      "compliance"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Consultation Paper CP26-13** Cryptoasset Perimeter Guidance (Apr 2026).pdf",
     "title": "US - Consultation Paper CP26-13** Cryptoasset Perimeter Guidance (Apr 2026)",
     "summary": "Brief on Consultation Paper CP26/13** Cryptoasset Perimeter Guidance.",
@@ -890,6 +914,18 @@
       "policy",
       "settlement",
       "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Fact Sheet: Proposed Rule to Implement GENIUS Act Customer.pdf",
+    "title": "US - Fact Sheet: Proposed Rule to Implement GENIUS Act Customer",
+    "summary": "Brief on Fact Sheet: Proposed Rule to Implement GENIUS Act Customer.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "risk",
+      "compliance"
     ]
   },
   {
@@ -2330,6 +2366,18 @@
     "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER.pdf",
     "title": "THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER",
     "summary": "White paper on THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA\u2019S CROSS-BORDER.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "interoperability",
+      "regulation",
+      "cross-border"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments (2).pdf",
+    "title": "The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments",
+    "summary": "Brief on The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments.",
     "tags": [
       "payments",
       "stablecoins",
