@@ -639,6 +639,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - A critical aspect of this change is the shift from unstructured to structured postal addresses. (Nov 2026).pdf",
+    "title": "US - A critical aspect of this change is the shift from unstructured to structured postal addresses. (Nov 2026)",
+    "summary": "Brief on A critical aspect of this change is the shift from unstructured to structured postal addresses..",
+    "tags": [
+      "payments",
+      "regulation",
+      "iso20022",
+      "ai",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - AI AGENTSUNDEREU LAW A COMPLIANCEARCHITECTURE FORAI PROVIDERS Luca Nannini\u2217 (Jan 2026).pdf",
     "title": "US - AI AGENTSUNDEREU LAW A COMPLIANCEARCHITECTURE FORAI PROVIDERS Luca Nannini\u2217 (Jan 2026)",
     "summary": "Brief on AI AGENTSUNDEREU LAW A COMPLIANCEARCHITECTURE FORAI PROVIDERS Luca Nannini\u2217.",
@@ -756,6 +768,18 @@
       "regulation",
       "risk",
       "compliance"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree\u2217 Vincent Koc\u2020 (May 2026).pdf",
+    "title": "US - ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree\u2217 Vincent Koc\u2020 (May 2026)",
+    "summary": "Brief on ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree\u2217 Vincent Koc\u2020.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "market research",
+      "benchmark"
     ]
   },
   {
@@ -1490,6 +1514,18 @@
     "path": "Market_Research_and_Fintech_Landscapes/Academic/arXiv.org - From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence (Dec 2025).pdf",
     "title": "arXiv.org - From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence (Dec 2025)",
     "summary": "Guide on From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence.",
+    "tags": [
+      "regulation",
+      "ai",
+      "market research",
+      "fintech",
+      "adoption"
+    ]
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Accenture/Accenture - In collaboration with Accenture The AI Playbook for (Jun 2026).pdf",
+    "title": "Accenture - In collaboration with Accenture The AI Playbook for (Jun 2026)",
+    "summary": "White paper on In collaboration with Accenture The AI Playbook for.",
     "tags": [
       "regulation",
       "ai",
