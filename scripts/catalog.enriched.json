@@ -1066,6 +1066,20 @@
     "needsReview": false
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - A critical aspect of this change is the shift from unstructured to structured postal addresses. (Nov 2026).pdf",
+    "title": "A critical aspect of this change is the shift from unstructured to structured postal addresses. (Nov 2026)",
+    "summary": "Brief on A critical aspect of this change is the shift from unstructured to structured postal addresses..",
+    "tags": [
+      "payments",
+      "regulation",
+      "iso20022",
+      "ai",
+      "risk"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Agents of Chaos (Feb 2026).pdf",
     "title": "Agents of Chaos (Feb 2026)",
     "summary": "Analyzes how AI agents could amplify operational, conduct, and systemic risks in U.S. financial services, while also creating new compliance and governance challenges. Emphasizes the need for controls, accountability, and regulatory readiness as agentic systems scale.",
@@ -1196,6 +1210,20 @@
       "regulation",
       "policy",
       "settlement"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree∗ Vincent Koc† (May 2026).pdf",
+    "title": "ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree∗ Vincent Koc† (May 2026)",
+    "summary": "Brief on ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree∗ Vincent Koc†.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "market research",
+      "benchmark"
     ],
     "source": "upstream",
     "needsReview": false
@@ -2087,6 +2115,20 @@
       "policy",
       "ai",
       "market research"
+    ],
+    "source": "upstream",
+    "needsReview": false
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Accenture/Accenture - In collaboration with Accenture The AI Playbook for (Jun 2026).pdf",
+    "title": "Accenture - In collaboration with Accenture The AI Playbook for (Jun 2026)",
+    "summary": "White paper on In collaboration with Accenture The AI Playbook for.",
+    "tags": [
+      "regulation",
+      "ai",
+      "market research",
+      "fintech",
+      "adoption"
     ],
     "source": "upstream",
     "needsReview": false
