@@ -3914,7 +3914,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026).pdf",
     "title": "SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026)",
-    "summary": "Brief on Financial Services Practice Beyond stablecoins: The emerging architecture.",
+    "summary": "Stablecoins are only one layer of a broader on-chain money architecture. The first page argues that tokenized bank deposits already move more than $4 trillion annually, pointing to a three-layer stack of stablecoins, tokenized deposits, and central bank money for institutional finance.",
     "tags": [
       "payments",
       "stablecoins",
@@ -3922,13 +3922,13 @@
       "crypto",
       "regulation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Open all hours: G20, stablecoins and the race to extend settlement (Oct 2025).pdf",
     "title": "SIX - Open all hours: G20, stablecoins and the race to extend settlement (Oct 2025)",
-    "summary": "Brief on Open all hours: G20, stablecoins and the race to extend settlement.",
+    "summary": "The article examines the G20 roadmap to improve cross-border payments, focusing on extending RTGS operating hours to widen global settlement windows. It argues progress is falling short of the 2027 targets, prompting attention to stablecoins and other alternatives.",
     "tags": [
       "payments",
       "stablecoins",
@@ -3936,13 +3936,13 @@
       "cross-border",
       "settlement"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Where the G20 cross-border payments roadmap really stands (Jun 2026).pdf",
     "title": "SIX - Where the G20 cross-border payments roadmap really stands (Jun 2026)",
-    "summary": "Brief on Where the G20 cross-border payments roadmap really stands.",
+    "summary": "Six years into the G20 roadmap, panelists argue cross-border payments progress remains infrastructure-heavy and customer-light. Standards, instant rails, and regulatory alignment have improved, but gains in speed, cost, transparency, and inclusion are still partial and uneven.",
     "tags": [
       "payments",
       "regulation",
@@ -3950,8 +3950,8 @@
       "cross-border",
       "settlement"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX Interbank Clearing - Instant Payments Bridge (IPB) Rough Concept (Jan 2026).pdf",
@@ -5180,24 +5180,24 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Public Blockchains and R egulated F inancial Institutions K e y C hallen ges, La y er ed Solutions, and a P ath F or w ar d.pdf",
     "title": "Public Blockchains and Regulated Financial Institutions: Key Challenges, Layered Solutions, and a Path Forward",
-    "summary": "Brief on Public Blockchains and R egulated F inancial Institutions K e y C hallen ges, La y er ed Solutions, and a P ath F or w ar d.",
+    "summary": "Analyzes the main barriers for regulated financial institutions using public blockchains, including front-running, censorship, unsolicited tokens, sanctions exposure through gas fees, privacy, and finality. Proposes layered solutions across application, network governance, and regulation.",
     "tags": [
       "tokenization"
     ],
-    "source": "auto-flag",
+    "source": "llm",
     "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Real-World Tokenisation: Changer (Jun 2026).pdf",
     "title": "Real-World Tokenisation: Changer (Jun 2026)",
-    "summary": "Brief on Real-World Tokenisation: Changer.",
+    "summary": "Analyzes how DLT-enabled trade finance and real-world asset tokenisation could transform global trade, positioning tokenised assets as a potential game changer. The report frames the topic as a comprehensive research and analysis piece.",
     "tags": [
       "tokenization",
       "regulation",
       "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Blueprint - DeFi Risk Stablecoins and the Future of Finance.pdf",
@@ -5215,13 +5215,13 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Blueprint for Institutional Digital Assets Trading.pdf",
     "title": "The Blueprint for Institutional Digital Assets Trading",
-    "summary": "Brief on The Blueprint for Institutional Digital Assets Trading.",
+    "summary": "Institutional demand for digital assets is rising, but OTC market structure built on bilateral, vertically integrated exchange models creates fragmented liquidity, counterparty risk and capital inefficiency. It argues Digital Prime Brokers should provide modular netting, credit intermediation and risk controls.",
     "tags": [
       "tokenization",
       "crypto"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The New Financial Order - RWAs and Stablecoins.pdf",
@@ -5416,15 +5416,15 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/DLT and repo, Part I (Jun 2026).pdf",
     "title": "DLT and repo, Part I (Jun 2026)",
-    "summary": "Brief on DLT and repo, Part I.",
+    "summary": "ICMA paper on distributed ledger technology in the repo market, authored by Richard Comotto with ICMA support. The first page identifies it as an informational Part I report rather than providing substantive findings or arguments.",
     "tags": [
       "tokenization",
       "interoperability",
       "crypto",
       "regulation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/OECD - Tokenisation of Assets and DLT in Financial Markets (Policy Paper 75).pdf",
