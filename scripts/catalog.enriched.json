@@ -1055,7 +1055,7 @@
   {
     "path": "Compliance_Risk_and_Standards/US/US - © GBBC Global Blockchain Business Council © Oliver Wyman Core Industry -Leading Working Group Ava Labs Canton Network.pdf",
     "title": "© GBBC Global Blockchain Business Council © Oliver Wyman Core Industry -Leading Working Group Ava Labs Canton Network",
-    "summary": "Brief on © GBBC Global Blockchain Business Council © Oliver Wyman Core Industry -Leading Working Group Ava Labs Canton Network.",
+    "summary": "First page identifies a GBBC and Oliver Wyman initiative with an industry working group including Ava Labs, Canton Network, DTCC, Euroclear, Hedera, Chainlink, Cardano Foundation, Digital Asset Holdings, and Kinexys by J.P. Morgan. It is a contact and acknowledgments page inviting stakeholder and regulator feedback on the RMF initiative.",
     "tags": [
       "crypto",
       "regulation",
@@ -1063,8 +1063,8 @@
       "data",
       "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Compliance_Risk_and_Standards/US/US - 1777901224069.pdf",
@@ -2612,7 +2612,7 @@
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Oliver Wyman - Back to the Future: Global Financial Market Infrastructure Report 2026.pdf",
     "title": "Oliver Wyman - Back to the Future: Global Financial Market Infrastructure Report 2026",
-    "summary": "Report on Back to the Future: Global Financial Market Infrastructure Report 2026.",
+    "summary": "Global Financial Market Infrastructure Report 2026 outlines key industry trends and strategic imperatives for future market infrastructure leaders, with dedicated deep dives on artificial intelligence and new markets.",
     "tags": [
       "regulation",
       "ai",
@@ -2620,8 +2620,8 @@
       "fintech",
       "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Pricing Guide for B2B SaaS Founders.pdf",
@@ -2651,7 +2651,7 @@
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Report of the Board of IOSCO - FR-02-2026 Supervisory Toolkit for AI Use in Capital Markets (May 2026).pdf",
     "title": "Report of the Board of IOSCO - FR-02-2026 Supervisory Toolkit for AI Use in Capital Markets (May 2026)",
-    "summary": "Brief on FR/02/2026 Supervisory Toolkit for AI Use in Capital Markets.",
+    "summary": "IOSCO's final report presents a supervisory toolkit for AI use in capital markets, aimed at helping regulators oversee AI-related risks and practices in securities markets.",
     "tags": [
       "ai",
       "market research",
@@ -2659,8 +2659,8 @@
       "adoption",
       "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/RFI Global - Trends and Predictions 2026 (Financial Services).pdf",
@@ -2765,7 +2765,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Academic/Olivier Pierrard - CAHIER D’ÉTUDES WORKING PAPER N° 208 (Apr 2026).pdf",
     "title": "Olivier Pierrard - CAHIER D’ÉTUDES WORKING PAPER N° 208 (Apr 2026)",
-    "summary": "Brief on CAHIER D’ÉTUDES WORKING PAPER N° 208.",
+    "summary": "Early evidence from Luxembourg on the impact of the EU Instant Payments Regulation, focusing on whether payments are sent within ten seconds and the regulation's initial effects on instant payment adoption and execution.",
     "tags": [
       "payments",
       "regulation",
@@ -2773,8 +2773,8 @@
       "adoption",
       "eu"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Academic/UNSW Law & Justice - The Missing Link - Legal and Regulatory Challenges in Interlinking Fast Payment Systems (2026).pdf",
@@ -2845,7 +2845,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - BIS W orking Pa pers No 1355 Making stablecoins stable(r): (Jun 2026).pdf",
     "title": "BIS - BIS W orking Pa pers No 1355 Making stablecoins stable(r): (Jun 2026)",
-    "summary": "Brief on BIS W orking Pa pers No 1355 Making stablecoins stable(r):.",
+    "summary": "BIS Working Paper No 1355 examines how stablecoin design and regulation can improve price stability and payment reliability, likely focusing on reserve management, redemption, and settlement frictions.",
     "tags": [
       "payments",
       "stablecoins",
@@ -2853,8 +2853,8 @@
       "regulation",
       "settlement"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Cross-Border Payments Survey (Dec 2025).pdf",
@@ -2872,7 +2872,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Enabling cross-border interconnectivity through open finance interoperabilityProject ApertaMay 2026.pdf",
     "title": "BIS - Enabling cross-border interconnectivity through open finance interoperabilityProject ApertaMay 2026",
-    "summary": "Brief on Enabling cross-border interconnectivity through open finance interoperabilityProject ApertaMay 2026.",
+    "summary": "BIS Project Aperta presents conclusions from a collaboration with central banks, regulators, international organisations and academia on enabling cross-border interconnectivity through open finance interoperability.",
     "tags": [
       "payments",
       "interoperability",
@@ -2880,13 +2880,13 @@
       "cross-border",
       "settlement"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey (May 2026).pdf",
     "title": "BIS - Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey (May 2026)",
-    "summary": "Brief on Enhancing cross-border payments step by step: insights from the 2025 monitoring su rvey.",
+    "summary": "Reviews progress in the G20 cross-border payments roadmap using the 2025 monitoring survey, highlighting incremental improvements, remaining frictions, and priority actions to make cross-border payments faster, cheaper, more transparent, and more accessible.",
     "tags": [
       "payments",
       "regulation",
@@ -2894,8 +2894,8 @@
       "cross-border",
       "settlement"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Fostering ISO 20022 harmonisation - follow-up report.pdf",
@@ -2913,7 +2913,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - III. Anchoring trust in money: innovation beyond stablecoins.pdf",
     "title": "BIS - III. Anchoring trust in money: innovation beyond stablecoins",
-    "summary": "Brief on III. Anchoring trust in money: innovation beyond stablecoins.",
+    "summary": "BIS analysis on how trust in money should be anchored as innovation evolves beyond stablecoins, likely contrasting private digital money with public money foundations and policy design for payments and settlement.",
     "tags": [
       "payments",
       "stablecoins",
@@ -2921,13 +2921,13 @@
       "interoperability",
       "regulation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Monitoring cross-border payment developments: a regional analysis of AMF member countries (Feb 2024).pdf",
     "title": "BIS - Monitoring cross-border payment developments: a regional analysis of AMF member countries (Feb 2024)",
-    "summary": "Brief on Monitoring cross-border payment developments: a regional analysis of AMF member countries.",
+    "summary": "Regional brief by BIS CPMI secretariat and the Arab Monetary Fund on monitoring cross-border payment developments in AMF member countries.",
     "tags": [
       "payments",
       "regulation",
@@ -2935,8 +2935,8 @@
       "settlement",
       "market research"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - month and year The future of financial messaging: navigating the ISO 20022 migration (Apr 2026).pdf",
@@ -3001,7 +3001,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - The Fragility of Perfectly Safe Digital Money.pdf",
     "title": "BIS - The Fragility of Perfectly Safe Digital Money",
-    "summary": "Brief on The Fragility of Perfectly Safe Digital Money.",
+    "summary": "Digital money unbundles trust by replacing institutional settlement with decentralized verification priced through congestion-sensitive gas fees. The paper argues that network effects and rising congestion costs can trigger strategic redemptions and runs even when reserves are perfectly safe.",
     "tags": [
       "payments",
       "stablecoins",
@@ -3009,8 +3009,8 @@
       "regulation",
       "policy"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS Bulletin 119 - Enhancing Cross-Border Payments (Dec 2025).pdf",
@@ -3178,7 +3178,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - DLT Inno vation Chall enge 2025: Final R epor t The Dis tribut ed L edger T echnol ogy (DL T) Inno vation Chall enge r epor t (May 2026).pdf",
     "title": "Bank of England - DLT Inno vation Chall enge 2025: Final R epor t The Dis tribut ed L edger T echnol ogy (DL T) Inno vation Chall enge r epor t (May 2026)",
-    "summary": "Brief on DLT Inno vation Chall enge 2025: Final R epor t The Dis tribut ed L edger T echnol ogy (DL T) Inno vation Chall enge r epor t.",
+    "summary": "Bank of England's final report on the 2025 DLT Innovation Challenge, likely assessing how distributed ledger technology could support payments, settlement, and liquidity-related innovation in financial market infrastructure.",
     "tags": [
       "payments",
       "tokenization",
@@ -3186,13 +3186,13 @@
       "crypto",
       "regulation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026) (2).pdf",
     "title": "Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026)",
-    "summary": "Brief on Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England.",
+    "summary": "Bank of England consultation paper on extending RTGS and CHAPS settlement hours toward near 24x7 operation. It outlines sequencing and near-term and longer-term options, highlighting benefits for cross-border payments, reduced settlement risk and liquidity costs, and key operational risks.",
     "tags": [
       "payments",
       "stablecoins",
@@ -3200,21 +3200,21 @@
       "regulation",
       "cross-border"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026).pdf",
     "title": "Bank of England - Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England (May 2026)",
-    "summary": "Brief on Extending RTGS and CHAPS settlement hours - next steps towards near 24x7 settlement | Bank of England.",
+    "summary": "Bank of England consultation paper outlining next steps to extend RTGS and CHAPS toward near 24x7 settlement. It assesses sequencing, options such as weekend and longer weekday hours, and implications for cross-border payments, liquidity, and settlement risk.",
     "tags": [
       "payments",
       "cross-border",
       "settlement",
       "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Bank of England - RTGS Renewal Programme.pdf",
@@ -3245,7 +3245,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Blockchain for banks REPORT Is the financial system ready.pdf",
     "title": "Blockchain for banks REPORT Is the financial system ready",
-    "summary": "Report on Blockchain for banks REPORT Is the financial system ready.",
+    "summary": "Argues that banks' legacy settlement infrastructure is misaligned with real-time customer and market demands, and that blockchain can enable scalable, real-time shared-ledger settlement. It urges banks to move beyond pilots, target high-friction use cases, and build compliant digital-asset capabilities.",
     "tags": [
       "payments",
       "stablecoins",
@@ -3253,8 +3253,8 @@
       "regulation",
       "settlement"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Celent - SEPA Instant Adoption in Europe (Build It and They Will Come).pdf",
@@ -3399,7 +3399,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard - What cross-border payments can learn from the aviation industry | World Economic Forum.pdf",
     "title": "Mastercard - What cross-border payments can learn from the aviation industry | World Economic Forum",
-    "summary": "Brief on What cross-border payments can learn from the aviation industry | World Economic Forum.",
+    "summary": "Examines how cross-border payments could improve by adopting aviation industry practices, likely focusing on coordination, standardization, and operational reliability to reduce friction and improve outcomes.",
     "tags": [
       "payments",
       "cross-border",
@@ -3407,8 +3407,8 @@
       "compliance",
       "us"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Mastercard Digital Payment Security Standard (Dec 2025).pdf",
@@ -3476,13 +3476,13 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Payments 3.0 The AI Agent Payments Market Tiger Research is a research and consulting ﬁrm specializing in Asia's Web3.pdf",
     "title": "Payments 3.0 The AI Agent Payments Market Tiger Research is a research and consulting ﬁrm specializing in Asia's Web3",
-    "summary": "Brief on Payments 3.0 The AI Agent Payments Market Tiger Research is a research and consulting ﬁrm specializing in Asia's Web3.",
+    "summary": "Overview of the emerging AI agent payments market, published by Tiger Research, a firm focused on Asia's Web3 markets. The first page identifies the publisher and regional coverage rather than presenting detailed findings.",
     "tags": [
       "payments",
       "ai"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/Payments Forward Plan (Feb 2026).pdf",
@@ -3590,7 +3590,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement).pdf",
     "title": "SWIFT - Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement)",
-    "summary": "Brief on Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement).",
+    "summary": "Explains how enterprise cross-border settlement is actually structured in practice, emphasizing existing payment architecture rather than crypto-based replacement narratives. Likely situates SWIFT within real-world settlement, messaging, and liquidity workflows.",
     "tags": [
       "payments",
       "crypto",
@@ -3598,8 +3598,8 @@
       "policy",
       "iso20022"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - Your guide to ISO 20022 exceptions and investigations (Jun 2026).pdf",
@@ -3632,7 +3632,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments.pdf",
     "title": "The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments",
-    "summary": "Brief on The Cross-Border Payments Interoperability Index The Thunes Cross-Border Payments.",
+    "summary": "Assesses interoperability in cross-border payments, likely benchmarking how payment systems and providers connect across markets and where frictions remain for faster, more seamless transfers.",
     "tags": [
       "payments",
       "stablecoins",
@@ -3640,8 +3640,8 @@
       "regulation",
       "cross-border"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/Reports/THE CURRENT STATE AND FUTURE POTENTIAL OF THE INDUSTRY IN 2026THE NEW ERA OF ASIA’S CROSS-BORDER (2).pdf",
@@ -3733,7 +3733,7 @@
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026) (2).pdf",
     "title": "SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026)",
-    "summary": "Brief on Financial Services Practice Beyond stablecoins: The emerging architecture.",
+    "summary": "Examines post-stablecoin financial market architecture, likely focusing on how tokenization, settlement design, and liquidity infrastructure could reshape payments and financial services.",
     "tags": [
       "payments",
       "stablecoins",
@@ -3741,13 +3741,13 @@
       "crypto",
       "regulation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026).pdf",
     "title": "SIX - Financial Services Practice Beyond stablecoins: The emerging architecture (May 2026)",
-    "summary": "Brief on Financial Services Practice Beyond stablecoins: The emerging architecture.",
+    "summary": "Stablecoins attract attention, but the paper argues the bigger shift is a three-layer on-chain money stack of stablecoins, tokenized bank deposits, and central bank money. It highlights that tokenized deposits already support more than $4 trillion in annual institutional transfers, far exceeding stablecoin payment volumes.",
     "tags": [
       "payments",
       "stablecoins",
@@ -3755,13 +3755,13 @@
       "crypto",
       "regulation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Open all hours: G20, stablecoins and the race to extend settlement (Oct 2025).pdf",
     "title": "SIX - Open all hours: G20, stablecoins and the race to extend settlement (Oct 2025)",
-    "summary": "Brief on Open all hours: G20, stablecoins and the race to extend settlement.",
+    "summary": "Explains the G20 roadmap to improve cross-border payments, focusing on extending RTGS operating hours to reduce settlement gaps. It also notes the FSB's 2025 warning that progress is falling short of the 2027 targets, as stablecoins intensify pressure for faster reform.",
     "tags": [
       "payments",
       "stablecoins",
@@ -3769,13 +3769,13 @@
       "cross-border",
       "settlement"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Where the G20 cross-border payments roadmap really stands (Jun 2026).pdf",
     "title": "SIX - Where the G20 cross-border payments roadmap really stands (Jun 2026)",
-    "summary": "Brief on Where the G20 cross-border payments roadmap really stands.",
+    "summary": "Six years into the G20 roadmap, cross-border payments have gained infrastructure such as ISO 20022, harmonized data, pre-validation and instant rails, but customer benefits remain limited. The article argues progress is partial and market-led rather than regulation-led.",
     "tags": [
       "payments",
       "regulation",
@@ -3783,8 +3783,8 @@
       "cross-border",
       "settlement"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Payments_RealTime_and_Liquidity/SIX/SIX Interbank Clearing - Instant Payments Bridge (IPB) Rough Concept (Jan 2026).pdf",
@@ -4984,14 +4984,14 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Real-World Tokenisation: Changer (Jun 2026).pdf",
     "title": "Real-World Tokenisation: Changer (Jun 2026)",
-    "summary": "Brief on Real-World Tokenisation: Changer.",
+    "summary": "Analyzes how DLT-enabled trade finance and real-world asset tokenisation could reshape global trade, positioning tokenisation as a major structural shift in financing and asset transfer.",
     "tags": [
       "tokenization",
       "regulation",
       "risk"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Blueprint - DeFi Risk Stablecoins and the Future of Finance.pdf",
@@ -5009,13 +5009,13 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The Blueprint for Institutional Digital Assets Trading.pdf",
     "title": "The Blueprint for Institutional Digital Assets Trading",
-    "summary": "Brief on The Blueprint for Institutional Digital Assets Trading.",
+    "summary": "Institutional demand for digital assets is rising, but OTC market structure built on bilateral, vertically integrated exchanges creates fragmented liquidity, counterparty risk and capital inefficiency. The paper argues for modular digital prime brokers offering netting, credit intermediation and risk controls.",
     "tags": [
       "tokenization",
       "crypto"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/The New Financial Order - RWAs and Stablecoins.pdf",
@@ -5211,15 +5211,15 @@
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/DLT and repo, Part I (Jun 2026).pdf",
     "title": "DLT and repo, Part I (Jun 2026)",
-    "summary": "Brief on DLT and repo, Part I.",
+    "summary": "ICMA paper by Richard Comotto on distributed ledger technology and the repo market, presented as Part I. The first page provides publication details rather than substantive findings, so the core topic is DLT in repo.",
     "tags": [
       "tokenization",
       "interoperability",
       "crypto",
       "regulation"
     ],
-    "source": "upstream",
-    "needsReview": false
+    "source": "llm",
+    "needsReview": true
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/OECD - Tokenisation of Assets and DLT in Financial Markets (Policy Paper 75).pdf",
