@@ -54,6 +54,18 @@
     "tags": []
   },
   {
+    "path": "AI_and_Digital_Transformation/Industry/MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI (Updated 5 June 2026) (May 2026).pdf",
+    "title": "MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI (Updated 5 June 2026) (May 2026)",
+    "summary": "Brief on MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI (Updated 5 June 2026).",
+    "tags": [
+      "payments",
+      "regulation",
+      "ai",
+      "genai",
+      "risk"
+    ]
+  },
+  {
     "path": "AI_and_Digital_Transformation/Industry/Notion - The Future of Product Development Report.pdf",
     "title": "Notion - The Future of Product Development Report",
     "summary": "Notion and Censuswide survey on product development workflows, knowledge centralization, and AI usage gaps, with recommendations for engineering, product, and design teams.",
@@ -1106,6 +1118,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - MiCAR versus the GENIUS Act (Jun 2026).pdf",
+    "title": "US - MiCAR versus the GENIUS Act (Jun 2026)",
+    "summary": "Brief on MiCAR versus the GENIUS Act.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? \"1F99C (Nov 2017).pdf",
     "title": "US - On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? \"1F99C (Nov 2017)",
     "summary": "Brief on On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? \"1F99C.",
@@ -1127,6 +1151,18 @@
       "crypto",
       "regulation",
       "policy"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Position Paper (Jun 2026).pdf",
+    "title": "US - Position Paper (Jun 2026)",
+    "summary": "Brief on Position Paper.",
+    "tags": [
+      "payments",
+      "interoperability",
+      "regulation",
+      "digital identity",
+      "risk"
     ]
   },
   {
@@ -1244,6 +1280,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Santander publishes AI projects under an Open Source licence to ramp up shared innovation.pdf",
+    "title": "US - Santander publishes AI projects under an Open Source licence to ramp up shared innovation",
+    "summary": "Brief on Santander publishes AI projects under an Open Source licence to ramp up shared innovation.",
+    "tags": [
+      "regulation",
+      "ai",
+      "genai",
+      "risk",
+      "security"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Scalable Runtime Governance for Agentic AI in Financial Services Lukasz Szpruch1, Agus Sudjianto2, Tanveer Bhatti3, and Gary Ang4.pdf",
     "title": "US - Scalable Runtime Governance for Agentic AI in Financial Services Lukasz Szpruch1, Agus Sudjianto2, Tanveer Bhatti3, and Gary Ang4",
     "summary": "Brief on Scalable Runtime Governance for Agentic AI in Financial Services Lukasz Szpruch1, Agus Sudjianto2, Tanveer Bhatti3, and Gary Ang4.",
@@ -1337,6 +1385,18 @@
       "tokenization",
       "interoperability",
       "crypto"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - T r easur y 2. 0: Built f or a ne w er a Foreword 3.pdf",
+    "title": "US - T r easur y 2. 0: Built f or a ne w er a Foreword 3",
+    "summary": "Brief on T r easur y 2 . 0: Built f or a ne w er a Foreword 3.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "regulation",
+      "ai",
+      "market research"
     ]
   },
   {
@@ -1749,6 +1809,18 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Oliver Wyman - Back to the Future: Global Financial Market Infrastructure Report 2026.pdf",
+    "title": "Oliver Wyman - Back to the Future: Global Financial Market Infrastructure Report 2026",
+    "summary": "Report on Back to the Future: Global Financial Market Infrastructure Report 2026.",
+    "tags": [
+      "regulation",
+      "ai",
+      "market research",
+      "fintech",
+      "risk"
+    ]
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Pricing Guide for B2B SaaS Founders.pdf",
     "title": "Pricing Guide for B2B SaaS Founders",
     "summary": "Guide for B2B SaaS founders on building effective pricing strategies.",
@@ -1932,6 +2004,18 @@
       "regulation",
       "iso20022",
       "settlement"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - III. Anchoring trust in money: innovation beyond stablecoins.pdf",
+    "title": "BIS - III. Anchoring trust in money: innovation beyond stablecoins",
+    "summary": "Brief on III. Anchoring trust in money: innovation beyond stablecoins.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "regulation"
     ]
   },
   {
@@ -2390,6 +2474,18 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - Your guide to ISO 20022 exceptions and investigations (Jun 2026).pdf",
+    "title": "SWIFT - Your guide to ISO 20022 exceptions and investigations (Jun 2026)",
+    "summary": "Guide on Your guide to ISO 20022 exceptions and investigations.",
+    "tags": [
+      "payments",
+      "regulation",
+      "iso20022",
+      "cross-border",
+      "compliance"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/Settlement Layer Deep Dive.pdf",
     "title": "Settlement Layer Deep Dive",
     "summary": "Slide deck providing a deep-dive overview of settlement layers and their implications for payment infrastructure and liquidity.",
@@ -2517,6 +2613,30 @@
       "tokenization",
       "crypto",
       "regulation"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Open all hours: G20, stablecoins and the race to extend settlement (Oct 2025).pdf",
+    "title": "SIX - Open all hours: G20, stablecoins and the race to extend settlement (Oct 2025)",
+    "summary": "Brief on Open all hours: G20, stablecoins and the race to extend settlement.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "cross-border",
+      "settlement"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/SIX/SIX - Where the G20 cross-border payments roadmap really stands (Jun 2026).pdf",
+    "title": "SIX - Where the G20 cross-border payments roadmap really stands (Jun 2026)",
+    "summary": "Brief on Where the G20 cross-border payments roadmap really stands.",
+    "tags": [
+      "payments",
+      "regulation",
+      "iso20022",
+      "cross-border",
+      "settlement"
     ]
   },
   {
@@ -3175,6 +3295,14 @@
     "title": "OMFIF - Public Blockchain Working Group Report",
     "summary": "OMFIF working group report on public blockchain integration in banking.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Public Blockchains and R egulated F inancial Institutions K e y C hallen ges, La y er ed Solutions, and a P ath F or w ar d.pdf",
+    "title": "Public Blockchains and R egulated F inancial Institutions K e y C hallen ges, La y er ed Solutions, and a P ath F or w ar d",
+    "summary": "Brief on Public Blockchains and R egulated F inancial Institutions K e y C hallen ges, La y er ed Solutions, and a P ath F or w ar d.",
+    "tags": [
+      "tokenization"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Real-World Tokenisation: Changer (Jun 2026).pdf",
