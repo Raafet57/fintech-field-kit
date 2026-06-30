@@ -310,6 +310,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/ESMA/ESMA - Decentralised Finance (DeFi) Discussion Paper Strengthening Malta\u2019s Position as a Jurisdiction for (Jun 2026).pdf",
+    "title": "ESMA - Decentralised Finance (DeFi) Discussion Paper Strengthening Malta\u2019s Position as a Jurisdiction for (Jun 2026)",
+    "summary": "Brief on Decentralised Finance (DeFi) Discussion Paper Strengthening Malta\u2019s Position as a Jurisdiction for.",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "settlement",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/EU_Law/Directive (EU) 2015-2366 PSD2.pdf",
     "title": "Directive (EU) 2015-2366 PSD2",
     "summary": "Full PSD2 text setting EU payment services rules, third-party access, consumer protection, and security/strong authentication requirements.",
@@ -475,6 +487,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/Reports/JUNE 2026 \u00b7 A JOINT REPORT Digital Assets A strategic playbook for banks (Jun 2026).pdf",
+    "title": "JUNE 2026 \u00b7 A JOINT REPORT Digital Assets A strategic playbook for banks (Jun 2026)",
+    "summary": "Report on JUNE 2026 \u00b7 A JOINT REPORT Digital Assets A strategic playbook for banks.",
+    "tags": [
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation",
+      "policy"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/Reports/Outcome_ISC2508SF002968_02.pdf",
     "title": "Outcome_ISC2508SF002968_02",
     "summary": "Unclassified outcome document (note: this file appears to be a 0-page PDF).",
@@ -609,6 +633,18 @@
       "crypto",
       "regulation",
       "policy"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/Executive View: Stablecoins and the tokenization of money - What banking leaders need to know (June 2026) (Jun 2026).pdf",
+    "title": "Executive View: Stablecoins and the tokenization of money - What banking leaders need to know (June 2026) (Jun 2026)",
+    "summary": "Brief on Executive View: Stablecoins and the tokenization of money - What banking leaders need to know (June 2026).",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "crypto"
     ]
   },
   {
@@ -3353,6 +3389,14 @@
     "title": "OMFIF - Public Blockchain Working Group Report",
     "summary": "OMFIF working group report on public blockchain integration in banking.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Public Blockchains and R egulated F inancial Institutions K e y C hallen ges, La y er ed Solutions, and a P ath F or w ar d (2).pdf",
+    "title": "Public Blockchains and R egulated F inancial Institutions K e y C hallen ges, La y er ed Solutions, and a P ath F or w ar d",
+    "summary": "Brief on Public Blockchains and R egulated F inancial Institutions K e y C hallen ges, La y er ed Solutions, and a P ath F or w ar d.",
+    "tags": [
+      "tokenization"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/Public Blockchains and R egulated F inancial Institutions K e y C hallen ges, La y er ed Solutions, and a P ath F or w ar d.pdf",
