@@ -986,6 +986,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Ethereum Basics for Governments and Institutions.pdf",
+    "title": "US - Ethereum Basics for Governments and Institutions",
+    "summary": "Brief on Ethereum Basics for Governments and Institutions.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "settlement",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026).pdf",
     "title": "US - Euro stablecoins and their potential effect on sovereign bond markets (Apr 2026)",
     "summary": "Brief on Euro stablecoins and their potential effect on sovereign bond markets.",
@@ -3305,6 +3317,18 @@
     "tags": [
       "tokenization",
       "deposits"
+    ]
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/BIS/BIS - The Evolution of Financial Market Infrastructures in a Tokenized Economy, WP-26-136, July 2026 (Jul 2026).pdf",
+    "title": "BIS - The Evolution of Financial Market Infrastructures in a Tokenized Economy, WP-26-136, July 2026 (Jul 2026)",
+    "summary": "Brief on The Evolution of Financial Market Infrastructures in a Tokenized Economy, WP/26/136, July 2026.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "regulation",
+      "settlement",
+      "risk"
     ]
   },
   {
