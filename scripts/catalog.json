@@ -322,6 +322,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/ESMA/ESMA - Guides & Resources - EU T+1 INDUSTRY COMMITTEE (Oct 2027).pdf",
+    "title": "ESMA - Guides & Resources - EU T+1 INDUSTRY COMMITTEE (Oct 2027)",
+    "summary": "Guide on Guides & Resources - EU T+1 INDUSTRY COMMITTEE.",
+    "tags": [
+      "payments",
+      "regulation",
+      "t+1",
+      "settlement",
+      "adoption"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/EU_Law/Directive (EU) 2015-2366 PSD2.pdf",
     "title": "Directive (EU) 2015-2366 PSD2",
     "summary": "Full PSD2 text setting EU payment services rules, third-party access, consumer protection, and security/strong authentication requirements.",
@@ -891,6 +903,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Deepening Divides: The Cost of a More Fragmented Financial System (Jun 2026).pdf",
+    "title": "US - Deepening Divides: The Cost of a More Fragmented Financial System (Jun 2026)",
+    "summary": "Brief on Deepening Divides: The Cost of a More Fragmented Financial System.",
+    "tags": [
+      "regulation",
+      "policy",
+      "cross-border",
+      "risk",
+      "security"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Designs for a new eraTOKENISATION FRAMEWORKS.pdf",
     "title": "US - Designs for a new eraTOKENISATION FRAMEWORKS",
     "summary": "Brief on Designs for a new eraTOKENISATION FRAMEWORKS.",
@@ -1327,6 +1351,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Safeguards for Agentic Financ e at (Jul 2026).pdf",
+    "title": "US - Safeguards for Agentic Financ e at (Jul 2026)",
+    "summary": "White paper on Safeguards for Agentic Financ e at.",
+    "tags": [
+      "regulation",
+      "ai",
+      "risk",
+      "compliance",
+      "us"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Sample Report.pdf",
     "title": "US - Sample Report",
     "summary": "Report on Sample Report.",
@@ -1634,6 +1670,18 @@
     "title": "USD Demand and the Use of Intermediary Currencies",
     "summary": "UNITE Global analysis of USD demand and intermediary currency usage.",
     "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Academic/IBM Institute for Business Value | Research Insights 2026 Global Outlook for Banking and Financial Markets.pdf",
+    "title": "IBM Institute for Business Value | Research Insights 2026 Global Outlook for Banking and Financial Markets",
+    "summary": "Brief on IBM Institute for Business Value | Research Insights 2026 Global Outlook for Banking and Financial Markets.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "regulation",
+      "market research",
+      "fintech"
+    ]
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Academic/Kakushadze & Serur - Trading Strategies (SSRN 3247865, 2018).pdf",
@@ -2959,6 +3007,18 @@
       "crypto",
       "regulation",
       "adoption"
+    ]
+  },
+  {
+    "path": "Stablecoins_and_CBDC/IMF/IMF - Tokenized Finance; IMF Notes No. 26-01; April 2026.pdf",
+    "title": "IMF - Tokenized Finance; IMF Notes No. 26-01; April 2026",
+    "summary": "Brief on Tokenized Finance; IMF Notes No. 26/01; April 2026.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "regulation"
     ]
   },
   {
