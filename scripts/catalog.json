@@ -1543,6 +1543,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - The Next Era of Fund Distribution.pdf",
+    "title": "US - The Next Era of Fund Distribution",
+    "summary": "White paper on The Next Era of Fund Distribution.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "interoperability",
+      "regulation",
+      "policy"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - The anatomy of stablecoin transactions (Jun 2026) (2).pdf",
     "title": "US - The anatomy of stablecoin transactions (Jun 2026)",
     "summary": "Brief on The anatomy of stablecoin transactions.",
@@ -3025,6 +3037,18 @@
     "path": "Stablecoins_and_CBDC/IMF/IMF - NOTE- 2026 -001 Tokenized Finance Tobias Adrian.pdf",
     "title": "IMF - NOTE- 2026 -001 Tokenized Finance Tobias Adrian",
     "summary": "Brief on NOTE/ 2026 /001 Tokenized Finance Tobias Adrian.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "regulation"
+    ]
+  },
+  {
+    "path": "Stablecoins_and_CBDC/IMF/IMF - NOTE- 2026 -006 The Rise of Tokenization Deciphering New Trends in Payments.pdf",
+    "title": "IMF - NOTE- 2026 -006 The Rise of Tokenization Deciphering New Trends in Payments",
+    "summary": "Brief on NOTE/ 2026 /006 The Rise of Tokenization Deciphering New Trends in Payments.",
     "tags": [
       "payments",
       "stablecoins",
