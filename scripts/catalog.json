@@ -1507,6 +1507,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report (Jun 2026) (2).pdf",
+    "title": "US - Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report (Jun 2026)",
+    "summary": "Report on Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "genai",
+      "adoption"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report (Jun 2026).pdf",
     "title": "US - Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report (Jun 2026)",
     "summary": "Report on Sound Practices for Financial Institutions' Responsible AI Adoption: Consultation Report.",
@@ -2189,6 +2201,18 @@
       "tokenization",
       "regulation",
       "policy"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - BIS Bulletin No 126 Daniel Eidan, Jon Frost , Rudraksh Kansal, Ulf Lewrick , (Jul 2026).pdf",
+    "title": "BIS - BIS Bulletin No 126 Daniel Eidan, Jon Frost , Rudraksh Kansal, Ulf Lewrick , (Jul 2026)",
+    "summary": "Brief on BIS Bulletin No 126 Daniel Eidan, Jon Frost , Rudraksh Kansal, Ulf Lewrick ,.",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "policy",
+      "settlement"
     ]
   },
   {
@@ -2879,6 +2903,15 @@
     "tags": [
       "payments",
       "partnership"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Unlocking frictionless border payments Payment (Mar 2026).pdf",
+    "title": "Unlocking frictionless border payments Payment (Mar 2026)",
+    "summary": "Brief on Unlocking frictionless border payments Payment.",
+    "tags": [
+      "payments",
+      "regulation"
     ]
   },
   {
@@ -3636,6 +3669,18 @@
     "title": "Driving Public Blockchain Integration in Banking",
     "summary": "Guide on integrating public blockchains into banking operations.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/ERAForum ARTICLE ExpandingthescopeandscaleoftheEU\u2019sDLTmarket (Mar 2023).pdf",
+    "title": "ERAForum ARTICLE ExpandingthescopeandscaleoftheEU\u2019sDLTmarket (Mar 2023)",
+    "summary": "Brief on ERAForum ARTICLE ExpandingthescopeandscaleoftheEU\u2019sDLTmarket.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "crypto",
+      "regulation",
+      "cross-border"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Industry/HSBC - Asset Tokenisation in the Quantum Age.pdf",
