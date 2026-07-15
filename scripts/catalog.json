@@ -2126,6 +2126,18 @@
     ]
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/PwC - Wholesale Digital Markets Champion First report (Jul 2026).pdf",
+    "title": "PwC - Wholesale Digital Markets Champion First report (Jul 2026)",
+    "summary": "Report on Wholesale Digital Markets Champion First report.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "crypto"
+    ]
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/RFI Global - Trends and Predictions 2026 (Financial Services).pdf",
     "title": "RFI Global - Trends and Predictions 2026 (Financial Services)",
     "summary": "RFI Global analysis of five trends shaping 2026 financial services, spanning trust in AI, digital UX competition, neobank maturity, fraud and cybersecurity, and wealth growth.",
@@ -2261,6 +2273,18 @@
       "regulation",
       "policy",
       "settlement"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - BIS Papers No 167 Cross-border payment (Mar 2026).pdf",
+    "title": "BIS - BIS Papers No 167 Cross-border payment (Mar 2026)",
+    "summary": "Brief on BIS Papers No 167 Cross-border payment.",
+    "tags": [
+      "payments",
+      "regulation",
+      "cross-border",
+      "settlement",
+      "compliance"
     ]
   },
   {
@@ -2640,6 +2664,18 @@
       "t+1",
       "settlement",
       "eu"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Elizabeth Grice - From Bottleneck to Command Center: Embedding Instant Payments in Enterprise Resource Planning (ERP).pdf",
+    "title": "Elizabeth Grice - From Bottleneck to Command Center: Embedding Instant Payments in Enterprise Resource Planning (ERP)",
+    "summary": "Brief on From Bottleneck to Command Center: Embedding Instant Payments in Enterprise Resource Planning (ERP).",
+    "tags": [
+      "payments",
+      "regulation",
+      "iso20022",
+      "ai",
+      "fintech"
     ]
   },
   {
