@@ -699,6 +699,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - \"BigTech in Financial Services: Emerging Regulatory Considerations\u201d; Technicl Note and Manual No. 26-09; July 2026 (Jul 2026).pdf",
+    "title": "US - \"BigTech in Financial Services: Emerging Regulatory Considerations\u201d; Technicl Note and Manual No. 26-09; July 2026 (Jul 2026)",
+    "summary": "Brief on \"BigTech in Financial Services: Emerging Regulatory Considerations\u201d; Technicl Note and Manual No. 26/09; July 2026.",
+    "tags": [
+      "regulation",
+      "risk",
+      "compliance",
+      "us",
+      "imf"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - 1777901224069.pdf",
     "title": "US - 1777901224069",
     "summary": "Brief on 1777901224069.",
@@ -1142,6 +1154,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Information Sharing to Combat Illicit FinanceFATF Report July 2026Global Overview of Public and Private Sector Partnerships (Jul 2026).pdf",
+    "title": "US - Information Sharing to Combat Illicit FinanceFATF Report July 2026Global Overview of Public and Private Sector Partnerships (Jul 2026)",
+    "summary": "Report on Information Sharing to Combat Illicit FinanceFATF Report July 2026Global Overview of Public and Private Sector Partnerships.",
+    "tags": [
+      "regulation",
+      "data",
+      "market research",
+      "risk",
+      "compliance"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Insurers subject to resolution.pdf",
     "title": "US - Insurers subject to resolution",
     "summary": "Brief on Insurers subject to resolution.",
@@ -1295,6 +1319,18 @@
       "risk",
       "compliance",
       "us"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Policy paperRecommendations of theTransatlantic Taskforce forMarkets of the FuturePublished 14 July 2026 HM Treasury (Jul 2026).pdf",
+    "title": "US - Policy paperRecommendations of theTransatlantic Taskforce forMarkets of the FuturePublished 14 July 2026 HM Treasury (Jul 2026)",
+    "summary": "Brief on Policy paperRecommendations of theTransatlantic Taskforce forMarkets of the FuturePublished 14 July 2026 HM Treasury.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
     ]
   },
   {
@@ -2387,6 +2423,17 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Project Insight: Uncovering the complexities of global value chains (Jul 2026) (3).pdf",
+    "title": "BIS - Project Insight: Uncovering the complexities of global value chains (Jul 2026)",
+    "summary": "Brief on Project Insight: Uncovering the complexities of global value chains.",
+    "tags": [
+      "payments",
+      "settlement",
+      "market research",
+      "bis"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/BIS/BIS - Project Insight: Uncovering the complexities of global value chains (Jul 2026).pdf",
     "title": "BIS - Project Insight: Uncovering the complexities of global value chains (Jul 2026)",
     "summary": "Brief on Project Insight: Uncovering the complexities of global value chains.",
@@ -2854,6 +2901,17 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - Cross -border payments are being reshaped as new models around distributed ledger technology and.pdf",
+    "title": "SWIFT - Cross -border payments are being reshaped as new models around distributed ledger technology and",
+    "summary": "Brief on Cross -border payments are being reshaped as new models around distributed ledger technology and.",
+    "tags": [
+      "payments",
+      "crypto",
+      "regulation",
+      "compliance"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement).pdf",
     "title": "SWIFT - Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement)",
     "summary": "Brief on Enterprise Cross-Border Settlement: The Real Architecture (Not Crypto Replacement).",
@@ -2996,6 +3054,16 @@
     "tags": [
       "payments",
       "regulation"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Unstructured Postal Address Removal and Agent Considerations (Jul 2026).pdf",
+    "title": "Unstructured Postal Address Removal and Agent Considerations (Jul 2026)",
+    "summary": "Brief on Unstructured Postal Address Removal and Agent Considerations.",
+    "tags": [
+      "payments",
+      "regulation",
+      "compliance"
     ]
   },
   {
