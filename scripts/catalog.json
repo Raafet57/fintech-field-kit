@@ -891,6 +891,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Code of Practice on Transparency of AI-Generated Content.pdf",
+    "title": "US - Code of Practice on Transparency of AI-Generated Content",
+    "summary": "Brief on Code of Practice on Transparency of AI-Generated Content.",
+    "tags": [
+      "interoperability",
+      "regulation",
+      "ai",
+      "genai",
+      "market research"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Consultation Paper CP26-13** Cryptoasset Perimeter Guidance (Apr 2026).pdf",
     "title": "US - Consultation Paper CP26-13** Cryptoasset Perimeter Guidance (Apr 2026)",
     "summary": "Brief on Consultation Paper CP26/13** Cryptoasset Perimeter Guidance.",
@@ -1819,6 +1831,18 @@
     "tags": []
   },
   {
+    "path": "Core_Banking_and_Lending_Modernization/Reports/ECB - The cooperative spirit at the heart of the digital euro (Jul 2026).pdf",
+    "title": "ECB - The cooperative spirit at the heart of the digital euro (Jul 2026)",
+    "summary": "Brief on The cooperative spirit at the heart of the digital euro.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "market research",
+      "risk"
+    ]
+  },
+  {
     "path": "Core_Banking_and_Lending_Modernization/Reports/Mambu - Predictions Report 2025.pdf",
     "title": "Mambu - Predictions Report 2025",
     "summary": "Mambu ecosystem leaders forecast 2026 financial services trends, focusing on digital-first customer experiences and composable banking.",
@@ -2162,6 +2186,18 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/PwC - Wholesale Digital Markets Champion (Jul 2026) (2).pdf",
+    "title": "PwC - Wholesale Digital Markets Champion (Jul 2026)",
+    "summary": "Brief on Wholesale Digital Markets Champion.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "crypto"
+    ]
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/PwC - Wholesale Digital Markets Champion (Jul 2026).pdf",
     "title": "PwC - Wholesale Digital Markets Champion (Jul 2026)",
     "summary": "Brief on Wholesale Digital Markets Champion.",
@@ -2226,6 +2262,18 @@
     "title": "Strategies for Scalable Sustainable Operations - Banking Perspective",
     "summary": "Banking-focused strategies for scalable, sustainable fintech operations.",
     "tags": []
+  },
+  {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Technology Trends Redefining the Future of Banking.pdf",
+    "title": "Technology Trends Redefining the Future of Banking",
+    "summary": "Brief on Technology Trends Redefining the Future of Banking.",
+    "tags": [
+      "payments",
+      "regulation",
+      "ai",
+      "market research",
+      "fintech"
+    ]
   },
   {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/The Power of Together - Fintech Ecosystems in Sub-Saharan Africa.pdf",
@@ -2777,6 +2825,15 @@
     "path": "Payments_RealTime_and_Liquidity/Reports/Hybrid Postal Address (Mar 2026).pdf",
     "title": "Hybrid Postal Address (Mar 2026)",
     "summary": "Brief on Hybrid Postal Address.",
+    "tags": [
+      "payments",
+      "regulation"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/July 2026 Modernising Payment Services Regulation (Jul 2026).pdf",
+    "title": "July 2026 Modernising Payment Services Regulation (Jul 2026)",
+    "summary": "Brief on July 2026 Modernising Payment Services Regulation.",
     "tags": [
       "payments",
       "regulation"
