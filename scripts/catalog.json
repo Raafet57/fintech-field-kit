@@ -313,6 +313,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/ESMA/ESMA - 20 July 2026 ESMA74 -2119945926 -3773 Statement on T+1 preparations (Jul 2026).pdf",
+    "title": "ESMA - 20 July 2026 ESMA74 -2119945926 -3773 Statement on T+1 preparations (Jul 2026)",
+    "summary": "Brief on 20 July 2026 ESMA74 -2119945926 -3773 Statement on T+1 preparations.",
+    "tags": [
+      "payments",
+      "regulation",
+      "t+1",
+      "settlement",
+      "market research"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/ESMA/ESMA - Data Strategy 2023-2028 (2025 Update).pdf",
     "title": "ESMA - Data Strategy 2023-2028 (2025 Update)",
     "summary": "ESMA update outlining data governance priorities, implementation milestones, and capabilities needed through 2028.",
@@ -1804,6 +1816,18 @@
       "iso20022",
       "adoption",
       "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - ssrn-6459738.pdf",
+    "title": "US - ssrn-6459738",
+    "summary": "Brief on ssrn-6459738.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "crypto",
+      "regulation",
+      "settlement"
     ]
   },
   {
