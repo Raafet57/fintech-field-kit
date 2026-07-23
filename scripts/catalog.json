@@ -358,6 +358,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/ESMA/ESMA - What the EU supervisors\u2019 2025 Annual Reports reveal for 2026 (Jul 2026).pdf",
+    "title": "ESMA - What the EU supervisors\u2019 2025 Annual Reports reveal for 2026 (Jul 2026)",
+    "summary": "Report on What the EU supervisors\u2019 2025 Annual Reports reveal for 2026.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "t+1",
+      "settlement"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/EU_Law/Directive (EU) 2015-2366 PSD2.pdf",
     "title": "Directive (EU) 2015-2366 PSD2",
     "summary": "Full PSD2 text setting EU payment services rules, third-party access, consumer protection, and security/strong authentication requirements.",
@@ -1696,6 +1708,17 @@
       "policy",
       "market research",
       "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Targeted Report on Regulatory Challenges from Decentralised Finance (DeFi)FATF Report July 2026 (Jul 2026).pdf",
+    "title": "US - Targeted Report on Regulatory Challenges from Decentralised Finance (DeFi)FATF Report July 2026 (Jul 2026)",
+    "summary": "Report on Targeted Report on Regulatory Challenges from Decentralised Finance (DeFi)FATF Report July 2026.",
+    "tags": [
+      "regulation",
+      "risk",
+      "compliance",
+      "us"
     ]
   },
   {
