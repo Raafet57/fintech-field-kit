@@ -1878,6 +1878,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - remain responsible for security, correctness, archi.pdf",
+    "title": "US - remain responsible for security, correctness, archi",
+    "summary": "Brief on remain responsible for security, correctness, archi.",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "risk",
+      "security"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - ssrn-6459738.pdf",
     "title": "US - ssrn-6459738",
     "summary": "Brief on ssrn-6459738.",
@@ -2925,6 +2937,18 @@
       "iso20022",
       "cross-border",
       "market research"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/HM Treasury (Jul 2026).pdf",
+    "title": "HM Treasury (Jul 2026)",
+    "summary": "Brief on HM Treasury.",
+    "tags": [
+      "payments",
+      "interoperability",
+      "regulation",
+      "policy",
+      "settlement"
     ]
   },
   {
