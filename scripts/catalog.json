@@ -245,6 +245,17 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/Academic/TAYMANS Alexandre (AMLA) - F I N A L R E P O R T - D R A F T I T S U N D E R A R T I C L E 1 5 ( 3 ) O F R E G U L A T I O N ( E U ) 2 0 2 4 - 1 6 20.pdf",
+    "title": "TAYMANS Alexandre (AMLA) - F I N A L R E P O R T - D R A F T I T S U N D E R A R T I C L E 1 5 ( 3 ) O F R E G U L A T I O N ( E U ) 2 0 2 4 - 1 6 20",
+    "summary": "Brief on F I N A L R E P O R T - D R A F T I T S U N D E R A R T I C L E 1 5 ( 3 ) O F R E G U L A T I O N ( E U ) 2 0 2 4 / 1 6 20.",
+    "tags": [
+      "regulation",
+      "adoption",
+      "risk",
+      "compliance"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/Academic/The role of ISO 20022.pdf",
     "title": "The role of ISO 20022",
     "summary": "Academic perspective on ISO 20022\u2019s role in financial messaging and standardization.",
@@ -855,6 +866,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Artificial intelligence and open finance (EN).pdf",
+    "title": "US - Artificial intelligence and open finance (EN)",
+    "summary": "Brief on Artificial intelligence and open finance (EN).",
+    "tags": [
+      "regulation",
+      "policy",
+      "ai",
+      "market research",
+      "risk"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Authors Nils Grevenbrock Zhengpu Zhao.pdf",
     "title": "US - Authors Nils Grevenbrock Zhengpu Zhao",
     "summary": "White paper on Authors Nils Grevenbrock Zhengpu Zhao.",
@@ -894,6 +917,18 @@
     "path": "Compliance_Risk_and_Standards/US/US - BIS Working Papers No 1359 The anatomy of stablecoin (Jun 2026).pdf",
     "title": "US - BIS Working Papers No 1359 The anatomy of stablecoin (Jun 2026)",
     "summary": "Brief on BIS Working Papers No 1359 The anatomy of stablecoin.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "regulation",
+      "policy",
+      "settlement"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - BIS Working Papers No 1370 Dollarisation and monetary control: (Jul 2026).pdf",
+    "title": "US - BIS Working Papers No 1370 Dollarisation and monetary control: (Jul 2026)",
+    "summary": "Brief on BIS Working Papers No 1370 Dollarisation and monetary control:.",
     "tags": [
       "payments",
       "stablecoins",
@@ -1477,6 +1512,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - Programmed Governance This playbook introduces an Operational Governance Framework (Jun 2026).pdf",
+    "title": "US - Programmed Governance This playbook introduces an Operational Governance Framework (Jun 2026)",
+    "summary": "Brief on Programmed Governance This playbook introduces an Operational Governance Framework.",
+    "tags": [
+      "stablecoins",
+      "regulation",
+      "policy",
+      "risk",
+      "compliance"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - Project Agor\u00e1 A shared programmable platform for wholesale cross -border payments.pdf",
     "title": "US - Project Agor\u00e1 A shared programmable platform for wholesale cross -border payments",
     "summary": "Brief on Project Agor\u00e1 A shared programmable platform for wholesale cross -border payments.",
@@ -1744,6 +1791,18 @@
       "policy",
       "market research",
       "risk"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - THE UK'S MODERN INDUSTRIAL STRATEGY.pdf",
+    "title": "US - THE UK'S MODERN INDUSTRIAL STRATEGY",
+    "summary": "Brief on THE UK'S MODERN INDUSTRIAL STRATEGY.",
+    "tags": [
+      "regulation",
+      "fintech",
+      "risk",
+      "compliance",
+      "uk"
     ]
   },
   {
@@ -4183,6 +4242,18 @@
     "title": "MAS, FCA, Deutsche Bank, Schroder - Tokenized Funds",
     "summary": "Joint paper by MAS/FCA/Deutsche Bank/Schroder on tokenized funds.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/Bank of Canada - From experimentation to adoption: The evolving regulatory framework for (Jul 2026).pdf",
+    "title": "Bank of Canada - From experimentation to adoption: The evolving regulatory framework for (Jul 2026)",
+    "summary": "Brief on From experimentation to adoption: The evolving regulatory framework for.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "interoperability",
+      "crypto"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/CFTC - Tokenized Collateral Guidance (Dec 2025).pdf",
