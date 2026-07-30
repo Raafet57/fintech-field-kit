@@ -381,6 +381,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/ESMA/Global payment matters - July 2026 (Jul 2026).pdf",
+    "title": "Global payment matters - July 2026 (Jul 2026)",
+    "summary": "Brief on Global payment matters - July 2026.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "interoperability",
+      "crypto",
+      "regulation"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/EU_Law/Directive (EU) 2015-2366 PSD2.pdf",
     "title": "Directive (EU) 2015-2366 PSD2",
     "summary": "Full PSD2 text setting EU payment services rules, third-party access, consumer protection, and security/strong authentication requirements.",
@@ -2024,6 +2036,18 @@
     "tags": []
   },
   {
+    "path": "FX_and_Currency_Strategy/SWIFT/SWIFT - Foreword........................................................................................................................... 03.pdf",
+    "title": "SWIFT - Foreword........................................................................................................................... 03",
+    "summary": "Brief on Foreword ........................................................................................................................... 03.",
+    "tags": [
+      "payments",
+      "regulation",
+      "cross-border",
+      "market research",
+      "adoption"
+    ]
+  },
+  {
     "path": "FX_and_Currency_Strategy/SWIFT/SWIFT - RMB Tracker (Feb 2026).pdf",
     "title": "SWIFT - RMB Tracker (Feb 2026)",
     "summary": "Monthly SWIFT Business Intelligence report tracking RMB internationalization metrics and payment share trends (Feb 2026).",
@@ -3337,6 +3361,18 @@
     "tags": [
       "payments",
       "partnership"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/Tokenization Can Change The World's Financial Architecture.pdf",
+    "title": "Tokenization Can Change The World's Financial Architecture",
+    "summary": "Brief on Tokenization Can Change The World's Financial Architecture.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "regulation",
+      "policy"
     ]
   },
   {
