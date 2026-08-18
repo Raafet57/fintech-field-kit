@@ -1273,6 +1273,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - FSI Insights no 77 High expectation but low integration? Experiences in modernising and integrating information systems for supervision (Aug 2026).pdf",
+    "title": "US - FSI Insights no 77 High expectation but low integration? Experiences in modernising and integrating information systems for supervision (Aug 2026)",
+    "summary": "Brief on FSI Insights no 77 High expectation but low integration? Experiences in modernising and integrating information systems for supervision.",
+    "tags": [
+      "payments",
+      "regulation",
+      "policy",
+      "settlement",
+      "ai"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - FSI Insights on policy implementation Acting under (May 2026).pdf",
     "title": "US - FSI Insights on policy implementation Acting under (May 2026)",
     "summary": "Brief on FSI Insights on policy implementation Acting under.",
@@ -2486,6 +2498,18 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/NASSR Iota - Tokenisation of assets and Distributed Ledger Technologies in financial markets.pdf",
+    "title": "NASSR Iota - Tokenisation of assets and Distributed Ledger Technologies in financial markets",
+    "summary": "Brief on Tokenisation of assets and Distributed Ledger Technologies in financial markets.",
+    "tags": [
+      "tokenization",
+      "crypto",
+      "policy",
+      "fintech",
+      "adoption"
+    ]
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Oliver Wyman - Back to the Future: Global Financial Market Infrastructure Report 2026.pdf",
     "title": "Oliver Wyman - Back to the Future: Global Financial Market Infrastructure Report 2026",
     "summary": "Report on Back to the Future: Global Financial Market Infrastructure Report 2026.",
@@ -3338,6 +3362,18 @@
     "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - 1776738452984.pdf",
     "title": "SWIFT - 1776738452984",
     "summary": "Brief on 1776738452984.",
+    "tags": [
+      "payments",
+      "tokenization",
+      "interoperability",
+      "regulation",
+      "cross-border"
+    ]
+  },
+  {
+    "path": "Payments_RealTime_and_Liquidity/Reports/SWIFT - 1786940887463.pdf",
+    "title": "SWIFT - 1786940887463",
+    "summary": "Brief on 1786940887463.",
     "tags": [
       "payments",
       "tokenization",
