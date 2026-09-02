@@ -2625,6 +2625,18 @@
     "tags": []
   },
   {
+    "path": "Market_Research_and_Fintech_Landscapes/Reports/Banking on trust AI governance for growth, resilience and scale July 2026 (Jul 2026).pdf",
+    "title": "Banking on trust AI governance for growth, resilience and scale July 2026 (Jul 2026)",
+    "summary": "Brief on Banking on trust AI governance for growth, resilience and scale July 2026.",
+    "tags": [
+      "regulation",
+      "ai",
+      "market research",
+      "fintech",
+      "us"
+    ]
+  },
+  {
     "path": "Market_Research_and_Fintech_Landscapes/Reports/Chainalysis - Geography of Crypto Report 2025.pdf",
     "title": "Chainalysis - Geography of Crypto Report 2025",
     "summary": "Chainalysis regional analysis of crypto adoption, on-chain flows, and policy enforcement trends across key markets in 2025.",
@@ -4883,6 +4895,18 @@
     ]
   },
   {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/From Speculation to Infrastructure: T okenized Finance The Functional Evolution of Digital Assets (Apr 2026).pdf",
+    "title": "From Speculation to Infrastructure: T okenized Finance The Functional Evolution of Digital Assets (Apr 2026)",
+    "summary": "Brief on From Speculation to Infrastructure: T okenized Finance The Functional Evolution of Digital Assets.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
+    ]
+  },
+  {
     "path": "Tokenization_Blockchain_and_Digital_Assets/Regulation/Guide on Legal Issues Relating to the Use of DLT in Trade.pdf",
     "title": "Guide on Legal Issues Relating to the Use of DLT in Trade",
     "summary": "Guide to the key legal questions when applying distributed ledger technology to trade processes and documents.",
@@ -4954,5 +4978,17 @@
     "title": "OECD - Tokenisation of Assets and DLT in Financial Markets (Policy Paper 75)",
     "summary": "OECD policy paper on tokenised assets and DLT in financial markets, identifying impediments to adoption and policy recommendations.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/Reports/Tokenizing central bank money on public blockchains1 U. Bindseil, B. Duve 23. August 2026 (Aug 2026).pdf",
+    "title": "Tokenizing central bank money on public blockchains1 U. Bindseil, B. Duve 23. August 2026 (Aug 2026)",
+    "summary": "Brief on Tokenizing central bank money on public blockchains1 U. Bindseil, B. Duve 23. August 2026.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "regulation",
+      "policy"
+    ]
   }
 ]
