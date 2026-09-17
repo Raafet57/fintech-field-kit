@@ -1680,6 +1680,18 @@
     ]
   },
   {
+    "path": "Compliance_Risk_and_Standards/US/US - PMPG Payment Insights - September 2026 ISO 20022 Update | A Longer Runway, the Same Destination More Time. Better Data. Measurable Progress. (Sep 2026).pdf",
+    "title": "US - PMPG Payment Insights - September 2026 ISO 20022 Update | A Longer Runway, the Same Destination More Time. Better Data. Measurable Progress. (Sep 2026)",
+    "summary": "Brief on PMPG Payment Insights - September 2026 ISO 20022 Update | A Longer Runway, the Same Destination More Time. Better Data. Measurable Progress..",
+    "tags": [
+      "payments",
+      "interoperability",
+      "regulation",
+      "iso20022",
+      "adoption"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/US/US - PRACTICE NOTE BENEFICIAL OWNERSHIP ACT 2017 IDENTIFYING REGISTRABLE (Aug 2026).pdf",
     "title": "US - PRACTICE NOTE BENEFICIAL OWNERSHIP ACT 2017 IDENTIFYING REGISTRABLE (Aug 2026)",
     "summary": "Brief on PRACTICE NOTE BENEFICIAL OWNERSHIP ACT 2017 IDENTIFYING REGISTRABLE.",
@@ -1795,6 +1807,17 @@
       "settlement",
       "ai",
       "genai"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Presentation.pdf",
+    "title": "US - Presentation",
+    "summary": "Brief on Presentation.",
+    "tags": [
+      "regulation",
+      "risk",
+      "compliance",
+      "us"
     ]
   },
   {
@@ -3752,6 +3775,15 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/PALMER Rachel - PowerPoint Presentation (Sep 2026).pdf",
+    "title": "PALMER Rachel - PowerPoint Presentation (Sep 2026)",
+    "summary": "Brief on PowerPoint Presentation.",
+    "tags": [
+      "payments",
+      "regulation"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/PAYMENT TRENDS CITIZENS 2026 (Jun 2026).pdf",
     "title": "PAYMENT TRENDS CITIZENS 2026 (Jun 2026)",
     "summary": "Brief on PAYMENT TRENDS CITIZENS 2026.",
@@ -4499,6 +4531,18 @@
     "tags": []
   },
   {
+    "path": "Stablecoins_and_CBDC/Industry/Bank of England - D I G I T A L A S S E T S E X E C U T I V E I N D U S T R Y U P D A T E T H I R D Q U A R T E R 2 0 2 6 The Cash Leg (Aug 2026).pdf",
+    "title": "Bank of England - D I G I T A L A S S E T S E X E C U T I V E I N D U S T R Y U P D A T E T H I R D Q U A R T E R 2 0 2 6 The Cash Leg (Aug 2026)",
+    "summary": "Brief on D I G I T A L A S S E T S E X E C U T I V E I N D U S T R Y U P D A T E T H I R D Q U A R T E R 2 0 2 6 The Cash Leg.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
+    ]
+  },
+  {
     "path": "Stablecoins_and_CBDC/Industry/Bank of England - M O N T H L Y R E V IE W IS S U E 0 5 STABLECOIN The pulse of digital money. (Aug 2026).pdf",
     "title": "Bank of England - M O N T H L Y R E V IE W IS S U E 0 5 STABLECOIN The pulse of digital money. (Aug 2026)",
     "summary": "Brief on M O N T H L Y R E V IE W IS S U E 0 5 STABLECOIN The pulse of digital money..",
@@ -4521,6 +4565,14 @@
     "title": "Binance Research - The Stablecoin Business (Nov 2025)",
     "summary": "Binance Research analysis of stablecoin business models, revenue streams, adoption trends, and competitive dynamics as of Nov 2025.",
     "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/Industry/CIGI Papers No. 358 - July 2026 China\u2019s Central Bank Digital Currency 2.0 and the Future of (Jul 2026).pdf",
+    "title": "CIGI Papers No. 358 - July 2026 China\u2019s Central Bank Digital Currency 2.0 and the Future of (Jul 2026)",
+    "summary": "Brief on CIGI Papers No. 358 - July 2026 China\u2019s Central Bank Digital Currency 2.0 and the Future of.",
+    "tags": [
+      "stablecoins"
+    ]
   },
   {
     "path": "Stablecoins_and_CBDC/Industry/CSI - Stablecoins and Tokenized Deposits - What Bank Leaders Need to Know.pdf",
