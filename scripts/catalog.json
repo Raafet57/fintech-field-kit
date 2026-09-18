@@ -3703,6 +3703,15 @@
     ]
   },
   {
+    "path": "Payments_RealTime_and_Liquidity/Reports/L a u n c h i n g S t a b l e c o i n.pdf",
+    "title": "L a u n c h i n g S t a b l e c o i n",
+    "summary": "Brief on L a u n c h i n g S t a b l e c o i n.",
+    "tags": [
+      "payments",
+      "compliance"
+    ]
+  },
+  {
     "path": "Payments_RealTime_and_Liquidity/Reports/MPRA Paper 126747 - The Digital Leap: Assessing the Impact of Payment Technologies on Currency Choices in Cambodia (Aug 2025).pdf",
     "title": "MPRA Paper 126747 - The Digital Leap: Assessing the Impact of Payment Technologies on Currency Choices in Cambodia (Aug 2025)",
     "summary": "MPRA paper analyzing how digital payment adoption affects local currency usage in Cambodia, combining a theoretical model with survey-based econometric evidence.",
@@ -4780,6 +4789,18 @@
     "title": "myths of blockchain governance",
     "summary": "Academic paper debunking myths around blockchain governance.",
     "tags": []
+  },
+  {
+    "path": "Tokenization_Blockchain_and_Digital_Assets/BIS/BIS - BIS Working Papers No 1377 Hidden by complexity? (Sep 2026).pdf",
+    "title": "BIS - BIS Working Papers No 1377 Hidden by complexity? (Sep 2026)",
+    "summary": "Brief on BIS Working Papers No 1377 Hidden by complexity?.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "tokenization",
+      "crypto",
+      "regulation"
+    ]
   },
   {
     "path": "Tokenization_Blockchain_and_Digital_Assets/BIS/BIS - How Deposits Can Harness Tokenisation (Nov 2025).pdf",
