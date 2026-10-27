@@ -492,6 +492,18 @@
     "tags": []
   },
   {
+    "path": "Compliance_Risk_and_Standards/FSB/FSB - Global Stablecoin Arrangements: Cross -border vulnerabilities and financial stability monitoring (Oct 2026).pdf",
+    "title": "FSB - Global Stablecoin Arrangements: Cross -border vulnerabilities and financial stability monitoring (Oct 2026)",
+    "summary": "Brief on Global Stablecoin Arrangements: Cross -border vulnerabilities and financial stability monitoring.",
+    "tags": [
+      "stablecoins",
+      "regulation",
+      "policy",
+      "risk",
+      "compliance"
+    ]
+  },
+  {
     "path": "Compliance_Risk_and_Standards/FSB/Global Regulatory Framework for Cryptoassets.pdf",
     "title": "Global Regulatory Framework for Cryptoassets",
     "summary": "FSB framework outlining policy recommendations for regulating crypto-assets.",
@@ -1497,6 +1509,18 @@
       "regulation",
       "policy",
       "cross-border"
+    ]
+  },
+  {
+    "path": "Compliance_Risk_and_Standards/US/US - Guidelines on Artificial Intelligence Risk Management Guidelines (Oct 2026).pdf",
+    "title": "US - Guidelines on Artificial Intelligence Risk Management Guidelines (Oct 2026)",
+    "summary": "Guide on Guidelines on Artificial Intelligence Risk Management Guidelines.",
+    "tags": [
+      "regulation",
+      "ai",
+      "adoption",
+      "risk",
+      "security"
     ]
   },
   {
@@ -4464,6 +4488,15 @@
     ]
   },
   {
+    "path": "Stablecoins_and_CBDC/Academic/1RIS Discussion Paper # 347 Forum on Indian Traditional Medicine (Aug 2026).pdf",
+    "title": "1RIS Discussion Paper # 347 Forum on Indian Traditional Medicine (Aug 2026)",
+    "summary": "Brief on 1RIS Discussion Paper # 347 Forum on Indian Traditional Medicine.",
+    "tags": [
+      "stablecoins",
+      "adoption"
+    ]
+  },
+  {
     "path": "Stablecoins_and_CBDC/Academic/A Stablecoin Thats Actually Stable - A Portfolio Optimi.pdf",
     "title": "A Stablecoin Thats Actually Stable - A Portfolio Optimi",
     "summary": "Research note on stablecoin stability using a portfolio-optimization framing.",
@@ -4492,6 +4525,30 @@
     "title": "Will USDC Replace Legacy Payment Rails - USDC vs SWIFT (Dec 2025)",
     "summary": "Academic-style analysis weighing whether USDC could replace SWIFT for cross-border payments, contrasting speed and cost benefits with regulatory and operational risks.",
     "tags": []
+  },
+  {
+    "path": "Stablecoins_and_CBDC/BIS/BIS - Are stablecoins and bank deposits substitutes? (Oct 2026).pdf",
+    "title": "BIS - Are stablecoins and bank deposits substitutes? (Oct 2026)",
+    "summary": "Brief on Are stablecoins and bank deposits substitutes?.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "policy"
+    ]
+  },
+  {
+    "path": "Stablecoins_and_CBDC/BIS/BIS - BIS Working Papers No 1382 Are stablecoins and bank (Oct 2026).pdf",
+    "title": "BIS - BIS Working Papers No 1382 Are stablecoins and bank (Oct 2026)",
+    "summary": "Brief on BIS Working Papers No 1382 Are stablecoins and bank.",
+    "tags": [
+      "payments",
+      "stablecoins",
+      "crypto",
+      "regulation",
+      "policy"
+    ]
   },
   {
     "path": "Stablecoins_and_CBDC/BIS/BIS - Tokenomics and blockchain fragmentation (Mar 2026).pdf",
